@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/v8sgji4c29",
+  "title": "【2023.10.23案例拆解】SadTalker",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v8sgji4c29_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>SadTalker 只需要一张照片和一段语音就能生成逼真的说话头像视频。 项目主页：<a href=\"https://sadtalker.github.io/\" target=\"_blank\" rel=\"noopener noreferrer\">https://sadtalker.github.io/</a> 在线体验：<a href=\"https://huggingface.co/spaces/vinthony/SadTalker\" target=\"_blank\" rel=\"noopener noreferrer\">https://huggingface.co/spaces/vinthony/SadTalker</a></div>",
+  "publishDate": "2025-11-26 15:19",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:33:05.527Z"
+}

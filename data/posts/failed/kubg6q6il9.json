@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/kubg6q6il9",
+  "title": "【2023.11.29案例拆解】moviewiser.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kubg6q6il9_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kubg6q6il9_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>moviewiser.com 一个“智能推荐”电影的网站，访问量增长曲线很好看，目前月访量30万。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kubg6q6il9_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这东西，其实实现起来很简单，用 GPTs.Works 开源的代码就能实现，实际就是数据向量化之后的语义搜索。 举例你可以输入“save lonely”，他就会给你返回一些心灵鸡汤治愈系电影。</div>\n<div>另外 Vercel 模板中心一套现成的代码，可以一键部署的电影推荐系统。 <a href=\"https://vercel.com/templates/svelte/watch-this\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/templates/svelte/watch-this</a></div>\n<div>这个模式，不仅仅可以推荐电影，其他的书籍、音乐、电视、文章啥的，都能够去做“智能推荐”。</div>\n<div>万物皆可向量化</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kubg6q6il9_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>看看我五月份说的，向量化是SEO宝藏利器。</div>\n<div>包装成了AI智能推荐，你输入任何文字，都能看起来合理的给你推荐电影</div>",
+  "publishDate": "2025-11-21 11:44",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kubg6q6il9_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kubg6q6il9_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:56:03.995Z"
+}

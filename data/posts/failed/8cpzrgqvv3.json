@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/8cpzrgqvv3",
+  "title": "【2023.12.13案例拆解】andisearch.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>archive.org 可以看到一个网站的改版时间点\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个东西实现真不难 andisearch.com\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>接入两个外部接口就行，一个GPT，一个Serper.dev</div>\n<div>继续关注我们想要的关键词是否有排名</div>\n<div>最好是把提示词和生成的结果都显示出来。</div>\n<div>这样网页就会全自动更新</div>\n<div>另外记住分门别类罗列，首页可以这样，然后多做一些内页</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这里生成的，刷新下就没了，可以保存起来，在页面上显示出来</div>\n<div>另外，可以多做几个不同的使用场景的提示词，还可以让用户自己输入需求，生成内容，之后把需求和生成的内容显示出来。</div>\n<div>devv.ai 的实现会更复杂一点。 andisearch.com 看起来更简单。</div>\n<div>你实际使用一下 andisearch.com ，多问各种问题，然后思考一下你要做，需要准备什么，然后去针对性准备就好了。</div>\n<div>全球搜索量170，如果CPC有几十上百可以考虑</div>\n<div>每月搜索次数</div>\n<div>如果是新词的话，上谷歌趋势看</div>\n<div>明确了用户群体的话，没问题的，去做吧</div>",
+  "publishDate": "2025-11-20 17:06",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8cpzrgqvv3_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:02:32.299Z"
+}

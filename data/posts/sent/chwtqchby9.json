@@ -1,0 +1,27 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/chwtqchby9",
+  "title": "【2024.12.16案例拆解】拼图网站jigsawplanet",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>大家猜猜看，这个专注于在线拼图的网站，月访问量是多大？ 万物皆可拼图，上传一张照片，就可以生成一个拼图。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>不查不知道，一查吓一跳，尽管最近一年流量在持续走低，但依然还有1300多万一个月，一年1.67亿访问量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这是2006年，他的第一版上线的样子，让你上传一张图片，然后生成你自己的在线拼图。 这个核心功能，核心服务，到了2024年，依然还在。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>他的多语言做得很好，中文都有支持，全球各地都有流量，不过最大占比的依然是那些发达国家。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>主要流量来自于自然搜索，以及直接打开。 也就是说，自然搜索可以源源不断的补充新的流量进来，有一部分沉淀为了留存的老用户，所以直接打开占比超过了57%。 换句话说，用户粘性很高。</div>\n<div>做了这么多年，已经形成品牌了，大部分搜索都来自于品牌关键词搜索。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>如果你现在去看这个网站，你会发现，他不仅仅是一个在线拼图游戏网站，他其实是一个在线拼图游戏社交网站。 每个人都可以建立自己的个人主页，上传照片，生成拼图游戏。 用户之间可以互相关注，可以点赞，还有游戏排行榜，这就是Facebook等社交产品的玩法了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img8.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>用于对于自己的个人主页，是会有归属感的。 时不时会上去看一下，有多少人玩了自己主页里的拼图游戏，有多少人关注了我，所以用户粘性就高。 这是我第一次看到这种轻度在线游戏，做成了社交玩法的网站。</div>\n<div>游戏难度是可控的，创建者可以选择难度等级。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img9.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>你生成完游戏之后，可以拿到网址，通过 iframe 嵌入到你自己的网站里。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img10.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>从这里可以看到，iframe 这东西，其实是被广泛使用的。 从 Youtube 等 Twitter 到各类游戏网站，都提供了 iframe 嵌入的支持。</div>\n<div>不用管。 你也可以在r2上传一个 robots.txt 文件，禁止索引。 同时上传一个 index.html ，当用户打开页面后，跳转到你的主站。</div>\n<div>不知道大家是否好奇，我是怎么找到这个网站的？</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img11.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>在Similarweb，输入一些通用的关键词，然后看最后一列的领先者，我发现这个网站的域名出现了很多次，于是好奇心就来了。 所以你会发现，找到一个大流量网站，并且是有一定借鉴意义的网站，其实也挺简单的。 无非就是多点点，多看看。 建议大家都养成好习惯，看到关键词，就想去查有哪些网站，看到网站就想去查流量。</div>\n<div>领先者这一列是很值得看的，因为意味着这些网站拿到了某个关键词的第一名。</div>\n<div>没让你把图片也禁止索引</div>\n<div>那么 Puzzle 这个关键词又是怎么来的呢？ 建议大家常看各个游戏榜单，找找看排名靠前的游戏App，他们的标题里用了哪些关键词，你就可以拿着这些关键词去Similarweb查了。 <a href=\"https://apps.apple.com/us/charts/iphone/family-games/7009?chart=top-free\" target=\"_blank\" rel=\"noopener noreferrer\">https://apps.apple.com/us/charts/iphone/family-games/7009?chart=top-free</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img12.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>刚才是倒推，现在顺着来讲一遍： 1、看榜单，各种榜单，App榜单、游戏榜单、网站榜单，发现关键词； 2、去Simialrweb、Semrush、谷歌搜索、谷歌趋势、谷歌广告关键词规划工具等任何地方搜索这些关键词； 3、找到看更多的产品，吸收更多的灵感，获取更多的关键词； 4、重复第一步。 如果你把这些步骤当作日常，那么就更容易训练出自己的数据思维、产品思维、需求思维。</div>",
+  "publishDate": "2025-10-28 17:38",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img7.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img8.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img9.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img10.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img11.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/chwtqchby9_img12.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:35:16.596Z"
+}

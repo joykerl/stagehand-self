@@ -1,0 +1,22 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/07u4ibdt4t",
+  "title": "【2023.11.14案例拆解】diffchecker.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>diffchecker.com 文本差异比对工具，月访问量152万</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>42%流量来自于搜索引擎，55%来自于直接访问。</div>\n<div>有个特点，支持把比对结果生成url分享出去，如 <a href=\"https://www.diffchecker.com/bJTqkvmQ/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.diffchecker.com/bJTqkvmQ/</a></div>\n<div>而这些分享出去的链接，很有可能就会出现在别的网站上，这样就得到了很多外链。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这些比对链接一般很少带来搜索流量，因为不太会命中什么关键词。 但能带来一些外链流量，就是有人看到链接后点进来的流量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>从这里也能看出来，大部分流量都是一些固定的页面，以及多语言页面。 红色框出来的是分享链接，很少访问量。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>按照页面流量倒序，有一个分享页面两千多访问。</div>\n<div>哦，上面还有个四千多的。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>但都只占了很少的流量比例，大部分流量都来自于别的页面。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>做了多语言，用的也是子目录形式。</div>",
+  "publishDate": "2025-11-24 17:47",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/07u4ibdt4t_img7.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:49:21.888Z"
+}

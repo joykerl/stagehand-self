@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/f5tnmz6s2q",
+  "title": "【2023.7.6案例拆解】threadspage.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个站已经被谷歌收录了，等下我分享下我的操作步骤，</div>\n<div>现在跟娃在外面玩，要晚一点点</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>先看结果，快照是17:56 建立的，那么可以认为大概那个时间之前的几分钟，爬虫来了服务器，怕了页面。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>再往前推，我在16:44时在V2EX发了一个帖子。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>就是这个帖子，在1小时就把爬虫给吸引过来了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这是理论基础\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>再往前推，大概15:20左右，我把域名dns解析从linode换到了 cloudflare 上，从 15:20 之后一段时间，相当于两个dns服务都在生效，所以会有一些不稳定。 所以才等稳定之后的16:44才去V2EX发帖。</div>\n<div>域名是上午11:09分注册的，然后就开始写页面，这个域名就是为了用来实际检验SEO效果的，所以没有去开发功能，直接就开始写页面内容。 网站定位为Threads App的相关介绍。</div>\n<div>不用自己服务器，在 Github 上创建一个新的仓库后，本地初始化，把写好的 index.html 添加到仓库中，再去 vercel 建立一个新项目，关联刚才的仓库，vercel 就会自动部署网站页面。</div>\n<div>实际页面完成大概是 12:30 。</div>\n<div>刚才说了，中间走错了一步路，用了 linode 的 dns 解析服务，导致中间出现了返工。</div>",
+  "publishDate": "2025-12-03 16:09",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f5tnmz6s2q_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:48:13.477Z"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/5kftha0dpe",
+  "title": "新站创建Stripe新账号的家庭地址和身份ID填写",
+  "author": "jsam",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5kftha0dpe_avatar.jpg",
+  "tags": [
+    "Stripe"
+  ],
+  "content": "<div><strong>问题：</strong><br>\n昨天新开了一个Stripe Account，发现界面操作的流程更新了。原来可以直接复用已有的个人信息，现在需要手工填写了。<br>\n新站的国家我选了Hong Kong SAR China，填了国内地址和身份证。今天邮件收到需要Provide an identity document，审核没通过。</div>\n<hr class=\"h-2 my-2\">\n<div><strong>解决过程：</strong><br>\n1.之前创建新账号，可以直接复用已有的个人信息。所以原来根本没有去关注它。<br>\n2.现在创建新账号，需要手工再填写一次个人信息。<br>\n3.我查看了去年申请开通香港Stripe的教程，同时对比已有的几个账号的个人信息，发现之前是使用\"护照+万里汇的虚拟港卡的银行地址\"。<br>\n4.于是重新填写个人信息如下<br>\n身份ID：护照ID<br>\n身份证明：上传护照个人页<br>\n家庭地址(也是业务地址)：众安银行地址<br>\n(<br>\n行政区：香港岛<br>\nDistrict: 100 Cyberport Road<br>\nAddress line 1: Core F, Cyberport 3<br>\nAddress line 2: 留空<br>\n)</div>\n<hr class=\"h-2 my-2\">\n<div>晚上看到Stripe的邮件，登录后查看审核通过了。</div>",
+  "publishDate": "2026-02-02 21:36",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:22:14.319Z"
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/jw1e5rk2ym",
+  "title": "【2024.9.27案例拆解】embed.ly   embedpress.com  Iframely.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>Iframely.com 这个网站专门做内容嵌入兼容处理服务的，任何网站都能够使用这个网站的服务，转化为可被iframe 的版本。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>对于已经做了适配的网站， iframe 效果看起来就很不错。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>当然对于 Youtube 来说，其实官方就做了 iframe 嵌入支持。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>对于没适配的网站，基本就是读取标题、描述、图标然后显示为一个链接形式。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>如果你的网站支持 Open Graph ，那么看起来就会更好看一点，如 Hix.ai 的效果，相比于 woy.ai 就增加了图片。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个网站也是一个典型的 SaaS 服务，你可以按月订阅。 而且是按照点击次数收费，免费用户最多只支持1000次点击。 收费套餐最便宜的都要49美金一个月，支持1万次点击。</div>\n<div>还不止一家提供这个服务，embed.ly 如果要用 API 形式访问，需要99美金一个月。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img8.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>又找到一家 embedpress.com ，也是几十美元一个月，比我们做AI工具 9.9 一个月贵多了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img9.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img10.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这家的设计感最好，UI很漂亮，促销运营活动也做得好。</div>\n<div>现在我们看了三个这样的产品了，这类产品的使用场景是什么呢？ 通常是，你如果想在某个网页里嵌入可交互的内容，就可以用 iframe 来实现。 如嵌入视频、幻灯片、PDF、在线表格等等各种服务。 甚至还可以在博客页面，嵌入商品信息，不需要在博客里开发在线商城功能，就可以让读者直接购买商品。 包括我们会在网站里嵌入第三方的AI工具，是不是也是一样的，这样我们就不用开发对应的功能了。</div>",
+  "publishDate": "2025-11-03 10:47",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img7.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img8.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img9.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jw1e5rk2ym_img10.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:18:37.576Z"
+}

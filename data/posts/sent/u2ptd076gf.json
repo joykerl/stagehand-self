@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/u2ptd076gf",
+  "title": "【2024.10.16案例拆解】bilin.ai",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u2ptd076gf_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>沉浸式翻译团队做的新产品 bilin.ai 有点意思。 是一个AI搜索，但在多语言处理上做得很不错。 不管你输入的是什么语言，都会在内部翻译为多种语言去搜索，之后你可以选择以什么语言来显示结果。 举例，你可以选择同时搜索日语、法语、德语的资料，但是你输入的可以是中文，而结果可以展示为英文。 有点巴别塔的意思了，让语言不再是信息查询的障碍。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u2ptd076gf_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-10-31 16:03",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u2ptd076gf_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:21:19.157Z"
+}

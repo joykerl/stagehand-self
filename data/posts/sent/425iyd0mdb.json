@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/425iyd0mdb",
+  "title": "【2024.8.27案例拆解】https://webp-png.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/425iyd0mdb_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>再看一个骚操作案例，<a href=\"https://webp-png.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://webp-png.com/</a> 这个网站甚至没有自己做功能，而是 iframe 了 <a href=\"https://webptopng.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://webptopng.com/</a> 这个网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/425iyd0mdb_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/425iyd0mdb_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>webp to jpg 这个词月搜索量122万。 不过挺难做的，ezgif.com/webp-to-jpg 排在最前面，而 ezgif.com 有 10K 外链网站，DR 79 。</div>\n<div>Webp 是谷歌在2010年发布的一种适用于网页展示的图片格式，可以在更小的体积大小下实现更清晰的图片展示。</div>",
+  "publishDate": "2025-11-03 18:15",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/425iyd0mdb_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/425iyd0mdb_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:12:46.182Z"
+}

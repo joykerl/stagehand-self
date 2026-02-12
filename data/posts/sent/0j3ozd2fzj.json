@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/0j3ozd2fzj",
+  "title": "【2024.10.8案例拆解】www.crazygames.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>刚有群友提到 <a href=\"http://www.crazygames.com\" target=\"_blank\" rel=\"noopener noreferrer\">www.crazygames.com</a> 这个小游戏大站。 月访问量5620万，他自己的品牌词都有每个月400万的搜索量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我们刚好可以看下这个站的 URL 结构设计。 /c/xxx 是分类页面 /t/xxx 是关键词聚合页面 /game/xxx 是游戏详情页</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>拿关键词聚合页面来说，以 <a href=\"https://www.crazygames.com/t/car\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.crazygames.com/t/car</a> 为例，核心关键词 car games 出现了17次，是本页密度最高的关键词。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>分类页面也是类似的，以 <a href=\"https://www.crazygames.com/c/io\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.crazygames.com/c/io</a> 为例，核心关键词 io games 出现了22次，也是本页密度最高的关键词。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>然后是游戏页面，以 <a href=\"https://www.crazygames.com/game/geometry-dash-online\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.crazygames.com/game/geometry-dash-online</a> 为例，核心关键词 geometry dash 出现了14次，同样是本页密度最高关键词。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>通过控制每一个页面的核心关键词密度，就能够让搜索引擎爬虫明确的知道，你每一个页面都是关于什么内容的，从而给你排名和曝光。</div>\n<div>好了，以上就是今天的分享，重点有这几个： 1、想要拿排名，外链越多越好； 2、想要拿排名，关键词密度要控制好； 3、想要拿排名，内容短不了。 其中第三点，大家可以看我上面三张关键词密度截图，分类页面、标签页面、游戏页面，都是接近1000个单词了。</div>",
+  "publishDate": "2025-10-31 17:19",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0j3ozd2fzj_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:19:45.177Z"
+}

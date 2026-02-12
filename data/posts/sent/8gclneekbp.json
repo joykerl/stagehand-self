@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/8gclneekbp",
+  "title": "【2024.2.26案例拆解】https://aspoem.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8gclneekbp_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>一个界面很清爽干净的开源中国诗词展示网站 开源： <a href=\"https://github.com/meetqy/aspoem\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/meetqy/aspoem</a> 官网： <a href=\"https://aspoem.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://aspoem.com/</a> 技术栈：prisma、nextjs、tailwindcss、shadcn/ui、postgres + supabase、twikoo</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8gclneekbp_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>真的很好用</div>",
+  "publishDate": "2025-11-13 15:10",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8gclneekbp_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:26:48.388Z"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/6i440s7usk",
+  "title": "【2024.5.22案例拆解】AiFreee.cc https://photoai.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6i440s7usk_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>AiFreee.cc，一个由Cloudflare的Workers AI驱动的免费AI工具站</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6i440s7usk_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>一个坑：nuxt的seo模块在cf的边缘计算上跑不起来，准确的说是seo下的ogimage模块，这个会导致线上构建失败，并且不会有任何报错信息</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6i440s7usk_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>一个小细节，Favicon最好用圆形的，不要学我用方形。</div>\n<div>另外，不宜用太复杂的图形，单个字母，或者简单图标都可以。 太复杂的图形，在这么小的尺寸下根本看不清。 我这个字母W就还好，可以看清楚。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6i440s7usk_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><a href=\"https://photoai.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://photoai.com/</a> 60K Mrr ，做了很多细节功能。</div>",
+  "publishDate": "2025-11-07 16:53",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6i440s7usk_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6i440s7usk_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6i440s7usk_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:51:01.496Z"
+}

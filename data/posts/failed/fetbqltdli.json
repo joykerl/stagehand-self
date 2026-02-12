@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/fetbqltdli",
+  "title": "【2024.12.27案例拆解】online Alarm Clock",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>开源的，可以直接下载源代码来学习 <a href=\"https://github.com/ozdemirburak/morse-decoder\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/ozdemirburak/morse-decoder</a></div>\n<div>别自己琢磨，看谷歌趋势，看搜索需求。</div>\n<div>这个作者在2023年10月9号，又注册了一个域名，盯上的关键词是 Full Name Generator ，也是开源的，可以观察一下这个站的数据。 <a href=\"https://github.com/ozdemirburak/full-name-generator\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/ozdemirburak/full-name-generator</a></div>\n<div>这个作者的网站要被扒光了，又发现两个站，还有个月访问量300万的在线时钟网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>结构都是一样的，这就是最典型最合理的在线工具网页布局结构。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>大家不用自己琢磨网页布局了，直接挖掘需求上站吧，人家代码都给了，我们改改就能上新站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>看看多语言的魅力\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>又学到一招，用这个链接，别人点开之后，twitter会弹窗问要不要关注，大多数人都会点击关注按钮的。 这样如果我们有外部流量的话，很容易引导用户关注我们的推特帐号。 <a href=\"https://twitter.com/intent/user?%C2%AEion=follow&amp;screen_name=ozdemirdev\" target=\"_blank\" rel=\"noopener noreferrer\">https://twitter.com/intent/user?®ion=follow&amp;screen_name=ozdemirdev</a> 我们产品官网也可以放这个链接引导用户关注产品的推特官方帐号 @阳光杉木 @阿彪\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-19 15:35",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fetbqltdli_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:07:18.058Z"
+}

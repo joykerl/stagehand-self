@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/68vv6fxkmp",
+  "title": "【2023.9.21案例拆解】populationu.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这是总量排行榜，可以根据这个数据，按照人均GDP重新排序一下\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这有一张表，按照2023年的GDP总量排序，还预测了之后几年的。 <a href=\"https://www.populationu.com/gen/countries-by-gdp\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.populationu.com/gen/countries-by-gdp</a></div>\n<div>在这张表的基础上，把人口数放进来，就能算人均GDP了</div>\n<div>别人的不一定是适合自己的，我的建议一直都是，先自己手动摸索，找到自己的方法。 然后在每一个环节，去慢慢提高效率。可以自动化的就自动化，不能的地方依然手动。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>人均GDP排行榜\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><a href=\"https://zh.wikipedia.org/wiki/%E5%90%84%E5%9B%BD%E4%BA%BA%E5%9D%87%E5%AE%9E%E8%B4%A8%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E5%88%97%E8%A1%A8\" target=\"_blank\" rel=\"noopener noreferrer\">https://zh.wikipedia.org/wiki/%E5%90%84%E5%9B%BD%E4%BA%BA%E5%9D%87%E5%AE%9E%E8%B4%A8%E5%9B%BD%E5%86%85%E7%94%9F%E4%BA%A7%E6%80%BB%E5%80%BC%E5%88%97%E8%A1%A8</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>各个排行榜都不太一样</div>\n<div>也是不一定要限定50这个数。 而且还需要考虑到网民数量。</div>",
+  "publishDate": "2025-12-04 16:57",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/68vv6fxkmp_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:41:48.016Z"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/i3xqljy0s4",
+  "title": "【2024.1.15案例拆解】poe",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i3xqljy0s4_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>poe 的页面，这是登录前的，输出内容给搜索引擎抓取。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i3xqljy0s4_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这是登录后的，给真实用户使用的界面。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i3xqljy0s4_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>同一个 URL 有两个不同的界面，这是可以的。</div>\n<div>以前有黑帽SEO做法会识别爬虫的UA，专门给爬虫定制输出html，但是这种做法搜索引擎是不欢迎的。</div>\n<div>可以的，甚至其中一个是可以部署在 vercel 的</div>\n<div>能够赚回域名注册费用，就是第一步，至少域名不用花钱续费了</div>\n<div>全是钱</div>",
+  "publishDate": "2025-11-18 10:18",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i3xqljy0s4_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i3xqljy0s4_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:15:04.153Z"
+}

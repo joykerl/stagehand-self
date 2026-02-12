@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ayvmngf3kg",
+  "title": "【2024.10.28案例拆解】https://www.memelord.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ayvmngf3kg_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ayvmngf3kg_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>看到一个卖乐谱网站 musicnotes.com ，用于提升访客到注册转化率的交互方式挺好的，分享给大家。 打开网站之后，就给访客弹一个浮层，提示可以领取 75 折优惠券，这个优惠可以在下次购买时使用。 但想要领取这个优惠，前提是访客输入邮箱，订阅这个网站的 Newsletter 并且注册账号。 如果访客不想领取，就直接关闭或者选择 no thanks 就好了。</div>\n<div>当访客关闭浮层后，在网页右下角，还会有入口，点击可以再次打开浮层，领取优惠。 只有访客主动点击这个入口的x关闭入口后，才会真的消失。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ayvmngf3kg_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-10-30 16:52",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ayvmngf3kg_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ayvmngf3kg_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:24:36.932Z"
+}

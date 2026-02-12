@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/an23gz1xjw",
+  "title": "【2024.5.4案例拆解】ThinkAny.AI",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/an23gz1xjw_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>AI 搜索引擎的这个帖子，我有一些不一样的看法👇 1. AI 搜索引擎的第一要义是准确度。 准确度的决定性因素主要是两个：问答底座模型的智能程度 + 挂载上下文的信息密度。 做好 AI 搜索引擎的关键，选用最智能的问答底座模型，再对 RAG 的检索结果进行排序去重，保证信息密度。 第一个步骤容易，第二个步骤很难。所以现在市面上大部分的 AI 搜索引擎，包括 Perplexity，准确度也就 60% 左右。 2. ChatGPT自己做搜索，首先保证了问答底座模型的智能程度。 其次在检索联网信息层面会做黑盒优化，包括 Query Rewrite / Intent Detection / Reranking 这些措施。 最终依赖自身模型的 Long Context 特性，效果就能做到比其他纯 Wrapper 类型的 AI Search Engine 要好一点。 3. 我并不觉得大模型厂商自己做 AI 搜索 就一定会比第三方做的好。 比如我做 ThinkAny， 首先接入 claude-3-opus，在模型底座智能程度方面，就不会输 gpt-4，第三方甚至能有更多的选择，针对不同的场景切换不同的模型。 其次，Long Context 也有很多模型能够保证。 再者，工程层面对 RAG 挂载上下文内容的优化，ChatGPT 能做，第三方也可以做。 4. 做好 AI 搜索引擎，最重要的三点是准 / 快 / 稳，即回复结果要准，响应速度要快，服务稳定性要高。 其次要做差异化创新，错位竞争。比如对问答结果以 outline / timeline 等形式输出，支持多模态搜索问答，允许挂载自定义信息源等策略。 5. AI 搜索引擎是一个持续雕花的过程。 特别是在提升准确度这个问题上，就有很多事情可以做，比如 Prompt Engineering / Query Rewrite/ Intent Detection / Reranking 等等，每个步骤都有不少坑。 其中用 function calling 去做 Intent Detection 就会遇到识别准确度很低的问题。 用 llamaindex + embedding + Vector DB 做 Reranking 也会遇到排序效率低下的问题。 6. AI Search + Agents + Workflows 是趋势。 AI Search 做通用场景，通过 Agents 做垂直场景，支持个性化搜索需求。 通过 Workflows 实现更加复杂的流程编排，有机会把某类需求解决的更好。 使用 GPTs 做出的提示词应用或知识库挂载型应用，价值点还是太薄。 7. 我个人不是太看好垂直搜索引擎。 一定程度上，垂直搜索引擎可以在某个场景做深做透，但是用户的搜索需求是非常多样的，我不太可能为了搜代码问题给 A 产品付费，再为了搜旅游攻略给 B 产品付费。 垂直搜索引擎自建 index 索引，工程投入比较大，效果不一定比接 Google API 要好，而且接入的信息源太有限。 8. AI 搜索是一个巨大的市场，短时间内很难形成垄断。 海外 Perplexity 一家独大，国内 Kimi/秘塔小范围出圈。各家的产品体验，市场占有率还没有达到绝对的领先，后来者依然有机会。 9. AI 搜索引擎需要尽早考虑成本优化。 主要支出在于大模型的 token 成本和搜索引擎的 API 请求费用。 成本优化是个持续的过程，比如可以自行部署 SearXNG 来降低搜索的成本，部署开源模型来降低大模型的 API 调用成本。 day one payment，趁早向用户收费也许是一种 cover 成本的好办法，但是也要考虑用户流失的问题。 👆以上是我个人做 ThinkAny.AI 一个多月以来的一些经验和思考。欢迎交流探讨。</div>",
+  "publishDate": "2025-11-10 10:19",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:49:26.714Z"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/j8un9wb117",
+  "title": "【2023.9.9案例拆解】smashorpass.ai",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/j8un9wb117_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>也不用太复杂的，你看 <a href=\"https://www.smashorpass.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.smashorpass.ai/</a> 多简单。</div>\n<div>现在别搞这个了，谷歌不给你排名了，需要花很大的精力，很长的时间才有可能有流量。</div>\n<div>这个体验一下，把不好的地方改改，立马可以做一个新的出来。</div>\n<div>给男生的，给女生的，给爱猫爱狗人士的</div>\n<div>用的谷歌云对象存储</div>\n<div>你先得理解 <a href=\"https://www.smashorpass.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.smashorpass.ai/</a> 的玩法</div>\n<div>都是预先用mj或者sd手工生成的</div>\n<div>要理解这个网站，得了解一下facebook的创业故事，了解一下扎克伯格的第一次创业做的网站。</div>\n<div>这就是目前这个站被人诟病的地方</div>\n<div>它本身想要实现的，跟他目前已经实现的，不一致。</div>\n<div>这才有改进的机会</div>\n<div>我不知道你说微信策略指的是什么</div>\n<div>本来这个网站，想实现的是，AI随机生成一张美女图片，然后给你显示，你来判断喜欢或者不喜欢，然后根据你的喜好，给你推荐你会喜欢的美女。 这里就应该有一套算法，去找出你你不喜欢的和喜欢的对应的提示词分别有哪些，然后让AI去生成你会喜欢的美女的提示词，最终生成图片。</div>\n<div>但这一套做下来，就会需要很大的精力。 所以他这个站点，目前的做法是简化。 从实时生成简化成提前手工生成。</div>\n<div>虽然是提前生成的，但是你的每次选择，其实还是会对之后的图片产生影响的。</div>\n<div>举例，每张图片都有10个指标，那么你的每次打分，其实就是10个指标的变化。 后面每次给你的图片就是最接近你的10个指标的图片。</div>\n<div>甚至不一定自己去生成图片，你直接去 <a href=\"https://prompthero.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://prompthero.com/</a> 找图片和提示词就行。</div>\n<div>推荐靠的是提示词，所以需要连着提示词一起存起来</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/j8un9wb117_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这种已经不会一眼假了</div>\n<div>也可以搞个八块腹肌的男友网站</div>\n<div>如果要自己生成的话，目前 ideogram.ai 是免费的</div>\n<div>github 搜索 js upload ，找个库</div>",
+  "publishDate": "2025-12-09 18:17",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/j8un9wb117_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:29:19.714Z"
+}

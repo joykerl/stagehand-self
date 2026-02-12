@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/dvwc5g2nqd",
+  "title": "【2023.12.1案例拆解】disavow-links",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>中文版 <a href=\"https://support.google.com/webmasters/answer/2648487?hl=zh-Hans\" target=\"_blank\" rel=\"noopener noreferrer\">https://support.google.com/webmasters/answer/2648487?hl=zh-Hans</a> 学到了，如何拒绝链接</div>\n<div>拒绝指向您网站的链接工具 <a href=\"https://search.google.com/search-console/disavow-links\" target=\"_blank\" rel=\"noopener noreferrer\">https://search.google.com/search-console/disavow-links</a></div>\n<div>GSC 很好的一点就是不会一下子把全部功能列出来，而是大家可以按需打开使用，对于新人很友好，不会迷失在功能列表里。</div>\n<div>我这里也是这样\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我们后台添加时有两种模式，一种是网域资源，一种是网址前缀</div>\n<div>我这里用的网址前缀添加的网站，提示词不一样了</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个可以上传列表</div>\n<div>不删，可以重复添加</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我测试了点开这两个，看到的效果界面的数据是一样的。所以的确重复。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-21 11:19",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dvwc5g2nqd_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:57:04.053Z"
+}

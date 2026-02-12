@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/o62dwu42dq",
+  "title": "New.Web.Cafe 支持微信登录了",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o62dwu42dq_avatar.jpg",
+  "tags": [
+    "社区治理"
+  ],
+  "content": "<div>继 1 月 19 日<a href=\"https://new.web.cafe/topic/a6lkhtre0s\" target=\"_blank\" rel=\"noopener noreferrer\">上线收藏功能</a> 后，1 月 30 日再次更新，目前支持微信扫码登录了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o62dwu42dq_img1.png\" alt=\"fb7d7dd267706ec1eb7d0953377b7c9d.png\" loading=\"lazy\"></div>\n<div>不过为了兼容之前的账号体系，这个功能暂时限制了需要你先用谷歌登录进去，在个人中心 <a href=\"https://new.web.cafe/profile\" target=\"_blank\" rel=\"noopener noreferrer\">new.web.cafe/profile</a> 页面绑定个人微信之后，下次才能用微信扫码登录。</div>\n<div>也就是说，如果你没有先绑定，直接扫码，会提示“登录失败”，会让你先绑定。</div>\n<div>这里这样做，是为了尽快上线功能。</div>\n<div>后面会修改成，微信登录后，判断到你没有绑定个人微信，那么可以让你此时谷歌登录一下，拿到邮箱后，做好绑定处理，就不用提示“登录失败”了。</div>",
+  "publishDate": "2026-01-30 16:27",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o62dwu42dq_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:23:11.536Z"
+}

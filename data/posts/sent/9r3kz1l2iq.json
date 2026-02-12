@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/9r3kz1l2iq",
+  "title": "【2024.1.19案例拆解】iconce.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9r3kz1l2iq_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9r3kz1l2iq_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>ICONCE <a href=\"https://iconce.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://iconce.com/</a> 一个 SVG 图标生成器，模仿了 <a href=\"https://icon.ray.so/\" target=\"_blank\" rel=\"noopener noreferrer\">https://icon.ray.so/</a> 的 UI 实现的 SVG 图标生成。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9r3kz1l2iq_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这种模式生成 LOGO 的会有需求，只需要在 ICON 的基础上再增加文字就好了，搭配一些免费的字体即可。</div>",
+  "publishDate": "2025-11-17 17:51",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9r3kz1l2iq_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:15:46.218Z"
+}

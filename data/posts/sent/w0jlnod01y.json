@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/w0jlnod01y",
+  "title": "【2024.3.4案例拆解】SoraWebui",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>这里我是“受害者”，谷歌搜索“SoraWebui”，又个用了开源代码的网站排名第三。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>因为用的我的开源代码，他什么都没改</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>连 Canonical 都没改</div>\n<div>这次SoraWebui 是一个很好的案例，短时间大量上线相似网站，谷歌的确会无法分清楚谁是正主。 所以现在如果谷歌语言设置是中文，其实排名第一的是coolsora.com</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>修正下，他排第二名。 而我的网站在中文里直接没有排名，所以之前我才猜测是不是因为某些原因被惩罚了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>jasper.ai 1月访问量233万，clipdrop.co 479万。 而六个月前，分别是 475万和1361万。 两家都在走下坡路。</div>\n<div>ChatGPT 发布了，他的日子就难过了</div>\n<div>通常抢别人品牌词，很难拿到第一名的，有第二名就是万幸了。</div>\n<div>而想要拿到某个词的排名，其实还是之前我们聊过的方法，首先是你的网站要能够满足这个词的搜索需求，然后是足够多的强大的外链。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>SoraWebui.com 上线2周的 PV 过6万了。 然而暂时没啥用，而且热度还在持续降低。</div>\n<div>我试试，提前申请好，万一后面SoraAPI开放了再申请就来不及。</div>",
+  "publishDate": "2025-11-12 18:30",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w0jlnod01y_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:29:13.682Z"
+}

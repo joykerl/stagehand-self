@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/9plgi221b3",
+  "title": "【2024.12.16案例拆解】Show.Web.Cafe",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9plgi221b3_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>顺便向大家发布我们团队做的一个小产品 Show.Web.Cafe 。 首页，人人都能来抢头条，提交自己的网站，就可以占领最多10分钟头条，同一时间，只能有一个网站占领头条。 内页，目前做了List功能，人人都可以建立一个清单列表，然后往这个列表里添加网站，之后你就可以按照流量从大到小看到所有网站的访问量数据。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9plgi221b3_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>当头条没有被人占领时，你可以通过点击刷新按钮，让自己的网站再次出现在头条。 当有人抢占了头条之后，其它已经提交过的网站，就不能点击刷新按钮了。 此时，也可以提交新的网站，但是只能在第二名。</div>\n<div>这里参考的是分类信息网站列表的做法，你可以付费刷新，让自己出现在列表最前面。 在 Show.Web.Cafe ，不需要付费，直接点击个按钮就可以了。 如果后期人人都来这里提交之后，就好玩了。</div>\n<div>这里参考的是分类信息网站列表的做法，你可以付费刷新，让自己出现在列表最前面。 在 Show.Web.Cafe ，不需要付费，直接点击个按钮就可以了。 如果后期人人都来这里提交之后，就好玩了。</div>\n<div>完全匿名机制，不需要登录注册，你可以提交任何人的网站，也可以提交你的网站。</div>\n<div><a href=\"https://show.web.cafe/list/campus-website\" target=\"_blank\" rel=\"noopener noreferrer\">https://show.web.cafe/list/campus-website</a> 给大家看下，这个产品的用法，你可以创建任意一个主题的网站清单列表，然后不断把你收集到的网站域名扔进去就好了。 之后就可以在一个页面，持续观察这些网站的访问量变化。</div>\n<div>我经常有这个需求，通过关键词挖掘，找出来了一批相关的网站，我就想要有一个地方能够让我把这些网站给列出来，于是就做了这么一个小产品。 希望对大家也有帮助。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9plgi221b3_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个网站域名年龄才8个月，说明 Question AI 赛道，也还是可以做的，没有那么拥挤。</div>",
+  "publishDate": "2025-10-28 17:36",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9plgi221b3_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9plgi221b3_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:36:39.843Z"
+}

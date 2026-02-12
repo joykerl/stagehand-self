@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/q36f8lvy83",
+  "title": "【2023.11.13案例拆解】 gptshunter.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>gptshunter.com 国内流量还是挺多的\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>一个 Chorme 插件的宣传特点是，如果你分享到推特，就能上 GPTsHunter.com 首页\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><a href=\"https://chromewebstore.google.com/detail/gpts-share-on-x/bkofgmimbdaeojnpeacpdjkgikjeineh\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/gpts-share-on-x/bkofgmimbdaeojnpeacpdjkgikjeineh</a></div>\n<div>levelsio 也做了个 GPTs NomadGPT <a href=\"https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt\" target=\"_blank\" rel=\"noopener noreferrer\">https://chat.openai.com/g/g-0k9rvxdJn-nomadgpt</a></div>\n<div>去海外各个地方宣传吧</div>\n<div>占领海外</div>\n<div>我之前的处理方式： 把几百个名字拿给ChatGPT让他进行分类，得到了初始的分类列表。 然后把剩下的每一个名字都调用GPT api 问问他，是否可以放进某个分类，如果不能，请给一个新分类名称。</div>\n<div>如果你生成的是静态页面，可以用 .html 。 如果有后端，前者更方便。 但其实都没多大关系</div>\n<div>sitemap.xml 也可以动态生成</div>\n<div>动态生成，或者定时更新都可以</div>\n<div>是的，任何流量都能变现，只不过不同的流量单价不一样。 我们之前看cpc，主要是想找更值得去做的关键词。 不是说为0就不能做。</div>\n<div>卡顿问题很快就可以解决了</div>\n<div>可以搞个 BookGPTs ，为每一本有电子书的书籍做一个 GPTs ，然后收录。</div>\n<div>还可以做大佬语录 GPTs ，这个就有点抢 c.ai 饭碗了。</div>\n<div>垂直 GPTs 可以卷一卷了</div>\n<div>漂亮\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>程序员配设计师，绝配</div>\n<div>中间大大的黑色“Discover GPT Store”是用来抢以后官方GPT Store上线后的搜索流量的\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这是群里另一位朋友的\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>类似于豆瓣的豆列了，挺好的</div>\n<div>果然是大家一起竞争，就会百花齐放，各种想法都会出来</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这里看起来好局促，可以调整下UI\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>所以果然是有各种细节要处理的</div>\n<div>用户一下子看不完那么多的，不建议全部放上去。 你可以一打开放100个，滑动页面时再加载更多，或者简单一点，做翻页。</div>\n<div>网站上线只是第一步，后面让更多用户来使用，才真正的考验大家。</div>",
+  "publishDate": "2025-11-24 18:04",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q36f8lvy83_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:47:57.617Z"
+}

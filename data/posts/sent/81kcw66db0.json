@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/81kcw66db0",
+  "title": "【2023.9.3案例拆解】Fooocus",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/81kcw66db0_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/81kcw66db0_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>Fooocus 是一款新的Stable Diffusion应用，由 ControlNet 的创建者开发。它重新思考了Stable Diffusion和Midjourney的设计。 让用户只需关注提示和图像，无需手动调整复杂的技术参数。从下载到生成第一张图像，所需的鼠标点击次数严格限制在3次以内。 工作原理： 通常，稳定扩散应用都有复杂的用户界面，因为它们具有很多功能。Fooocus 采取了不同的方法，它追求极简，同时在需要的时候提供灵活性。它就像是稳定扩散的 Instagram，只需选择一个滤镜并生成图像。你可以在电脑上免费使用它，只需一键即可安装和运行。 因为Fooocus已经集成了一系列用于提高性能和用户体验的优化措施，并且这些优化是自动进行的。换句话说，用户不需要手动进行设置或调整，应用会自动执行这些优化任务。 例如，如果Fooocus用于图像处理，它可能已经内置了一些算法来自动调整图像的亮度、对比度或锐度，以便输出更高质量的图像。这些都是在后台自动完成的，用户只需要点击一个按钮或选择一个选项。 这样的自动化优化和质量改进通常会让应用更加用户友好，同时也能提供更高质量的输出结果。 性能： 而且Fooocus最低GPU内存要求只有4GB（Nvidia）。在一台相对低端的笔记本电脑上（16GB系统RAM和6GB VRAM（Nvidia 3060笔记本））的速度约为每次迭代1.35秒。 GitHub：<a href=\"https://github.com/lllyasviel/Fooocus?ref=aiartweekly\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/lllyasviel/Fooocus?ref=aiartweekly</a> Colab：<a href=\"https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/colab.ipynb\" target=\"_blank\" rel=\"noopener noreferrer\">https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/colab.ipynb</a> Fooocus还开发了Advanced Features 高级功能，以便高级用户获得完美的结果。 <a href=\"https://github.com/lllyasviel/Fooocus/discussions/117\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/lllyasviel/Fooocus/discussions/117</a>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/81kcw66db0_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-12-10 15:56",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/81kcw66db0_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/81kcw66db0_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:28:13.300Z"
+}

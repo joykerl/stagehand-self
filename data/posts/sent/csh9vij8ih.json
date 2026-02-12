@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/csh9vij8ih",
+  "title": "【2023.10.10案例拆解】meme",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/csh9vij8ih_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/csh9vij8ih_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个功能，可以做个英文工具，老外有浓厚的meme文化，他们喜欢这类东西。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/csh9vij8ih_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>配合AI生成图片</div>\n<div>先去收集1000个最热门的meme图片，然后用chatgpt多模态解读meme图片，得到文字，之后用文字配合用户输入生成新图</div>\n<div>做内容站，或者导航站，靠这些词吸量，带动你的正经功能</div>",
+  "publishDate": "2025-11-27 16:33",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/csh9vij8ih_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:07:05.549Z"
+}

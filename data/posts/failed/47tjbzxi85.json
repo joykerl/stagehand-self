@@ -1,0 +1,23 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/47tjbzxi85",
+  "title": "【2023.11.25案例拆解】vectorart.ai",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>vectorart.ai 做了API 整合，文字生成图片用的估计是SD，然后图片生成矢量图svg不知道用的哪个API。 最终的效果就是文字生成矢量图。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这东西我们能不能做呢？完全可以做，因为 vectorizer.ai 提供了图片转SVG的 API 。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>vectorizer.ai 流量也是一直在上升的，现在已经快400万月访问量了，说明需求强劲。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>vectorizer.ai 直接访问量有 64% ，说明用户粘性高，会记住网址，或者会放在书签栏里。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>vectorart.ai 主要访问量来自于自然搜索，居然高达82%，目前主要来自于 ai vector generator 等关键词</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>目前这个词排名第一的是 kittl.com 的一个内页，月访问量150多万。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>并不会一天刷N次，一个月用几次，不会导致 ecpm 下降。</div>\n<div>生成的 SVG</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>只要谷歌趋势这个词的量是不断增长的，就值得去做，去提前占位。</div>\n<div>完全向钱看来设计的网站\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img8.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>他给他网站加了好多图片相关的小功能</div>\n<div>让小朋友的照片动起来，估计会有妈妈买单，可以搞个小程序了</div>\n<div>有的，找找</div>",
+  "publishDate": "2025-11-21 15:45",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img7.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/47tjbzxi85_img8.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:55:02.407Z"
+}

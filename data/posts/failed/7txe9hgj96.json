@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/7txe9hgj96",
+  "title": "域名监控和网站监控的实现(inostop.com)",
+  "author": "Mark",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7txe9hgj96_avatar.jpg",
+  "tags": [
+    "工具分享",
+    "建议",
+    "工具",
+    "Chrome 插件"
+  ],
+  "content": "<div>去年我加入哥飞，自己也开发了一些网站，同时自己也是linux运维工程师，我最近用空闲的服务器开发了一个<a href=\"https://inostop.com/en/\" target=\"_blank\" rel=\"noopener noreferrer\">网站监控</a> 用来监控自己的网站，此前我开发的业务都是用于内部使用。</div>\n<div>一般而言，作为网站的运维人员，我会做系统监控，接口监控以及部分CDN监控，部分是开源产品和平台服务集成。</div>\n<div>而与开发人员的配合中会辅助使用ELK日志监控，链路监控(OpenTelemetry)，但这些手段都并非轻量，也不利于简单集成。</div>\n<div>我用最简单的办法做了一个网站，主要用于网站监控，它不是侵入式的。\n通过旁路检测的方式来预测网站的可用性，给出一个相对保守的阈值来判断网站的。</div>\n<div>我解决了一些问题:</div>\n<div>1.简单的域名和证书监控/ping/telnet -- 容易实现</div>\n<div>2.简单的警报阈值和多阶段的警报沉默 -- 抑制警报风暴 支持飞书/dingding/whatsapp/telegram</div>\n<div>3.chrome插件可同步 -- 已经实现</div>\n<div>我遇到了一些问题:</div>\n<div>1.判断网站打开的用户体验是否合理 -- 不太理想</div>\n<div>2.AI只能作为对已获取的数据的分析而不是主动发起真实网络请求</div>\n<div>目前还处于测试，我寻求各位的建议，如果你的建议/BUG发现被采纳，请留下邮箱，我将赠送3个月以上的时间用度</div>\n<div>体验总换码： 14006a1f90b61e392c14fd64272fc970</div>\n<div><a href=\"https://inostop.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://inostop.com</a></div>",
+  "publishDate": "2026-02-07 12:50",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:20:29.711Z"
+}

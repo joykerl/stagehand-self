@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/mi9usrrdyh",
+  "title": "Chrome域名批量查询插件",
+  "author": "自在",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mi9usrrdyh_avatar.jpg",
+  "tags": [],
+  "content": "<div>Chrome域名批量查询插件  <a href=\"https://chromewebstore.google.com/detail/website-traffic-checker/cdihhppcinofdbnckhidmooiabpkmppo\" target=\"_blank\" rel=\"noopener noreferrer\">chrome插件地址</a> <a href=\"https://websitetrafficchecker.net/\" target=\"_blank\" rel=\"noopener noreferrer\">官网地址</a></div>\n<div>之前用过哥飞的domain查询工具，体验后发现查询速度偏慢，于是自己重写了个Chrome插件，做了一些优化。</div>\n<div>主要改进：</div>\n<ul>\n<li>查询速度更快</li>\n<li>支持域名排序（做similarweb导入流量时特别方便）</li>\n<li>批量查询WHOIS信息：注册日期、过期时间等</li>\n</ul>\n<div>适用场景：</div>\n<ul>\n<li>域名批量筛选</li>\n<li>竞品网站分析</li>\n<li>SEO数据调研</li>\n</ul>\n<div>目前插件还在持续优化中，功能会不断完善。大家使用过程中遇到任何问题或有好的建议，欢迎随时反馈，我会尽快跟进优化。</div>\n<div>希望能帮到有同样需求的朋友！</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mi9usrrdyh_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-12-22 13:37",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mi9usrrdyh_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:42:32.968Z"
+}

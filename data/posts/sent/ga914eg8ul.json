@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ga914eg8ul",
+  "title": "【2024.6.6案例拆解】Stability.AI",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ga914eg8ul_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>Stability.AI 开源了他们的音频生成模型 Stable Audio Open <a href=\"https://stability.ai/news/introducing-stable-audio-open\" target=\"_blank\" rel=\"noopener noreferrer\">https://stability.ai/news/introducing-stable-audio-open</a></div>\n<div>这个产品有个特点，可以生存除了人声外的其他声音，如鸟叫</div>\n<div>可以多测试，如果真的可以生成各种音效的话，就可以做一个AI音效下载网站了，我以前做H5时，经常用 <a href=\"https://yinpin.chinaz.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://yinpin.chinaz.com/</a> 下载一些按钮点击声音。</div>",
+  "publishDate": "2025-11-06 16:55",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:57:40.069Z"
+}

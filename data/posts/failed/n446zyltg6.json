@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/n446zyltg6",
+  "title": "【2024.10.17案例拆解】WindowSwap",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/n446zyltg6_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>WindowSwap 与网友交换窗口的风景网站，目前月访问量500K。 疫情期间，全球很多人都被关在家里。 有人发起了这个网站，全球各地人都可以拍摄自家窗外10分钟的视频，上传到这个网站。 然后每一个访客，都可以随机打开一扇窗户来看风景，也可以选择某个地点来看。 <a href=\"https://www.window-swap.com/Window\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.window-swap.com/Window</a> 现在甚至还有了付费订阅服务，每个月5美元，就可以解锁全球用户上传的所有窗口风景视频。 不付费的免费用户，则只能每周最多看250个窗口。</div>\n<div>UI 挺好看的</div>\n<div>ai outpainting 相关关键词排名第一，很不错了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/n446zyltg6_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/n446zyltg6_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>在3群</div>\n<div>URL Slug 生成器，差不多100K每月访问量。 <a href=\"https://slugify.online/\" target=\"_blank\" rel=\"noopener noreferrer\">https://slugify.online/</a> 纯前端工具，不需要任何后端服务提供支持。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/n446zyltg6_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个站长还做了一系列工具站，不过最大的就是 slugify.online 。 bcrypt.online 月访问量 70K sha512.online月访问量 14.6K argon2.online月访问量 7.1K crc32.online月访问量 5.5K contrastchecker.online 月访问量 1.8K</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/n446zyltg6_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>站长的主页在这里，汇总了他做的工具站。 <a href=\"https://esse.tools/\" target=\"_blank\" rel=\"noopener noreferrer\">https://esse.tools/</a> 这位站长的工具站都有一个特点，会在自己网站给出一些权威网页的链接。 如 url slug 生成器这里就给出了 url slug 的维基百科页面链接，和 Moz 关于 url 解释的链接。 这样做是有一定好处的。</div>\n<div>我们写一篇文章，发到别的博客平台，如果把我们网站的链接跟一些权威网站的链接放一起，对我们网站也是有好处的。</div>",
+  "publishDate": "2025-10-31 15:49",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/n446zyltg6_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/n446zyltg6_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/n446zyltg6_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/n446zyltg6_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:21:31.402Z"
+}

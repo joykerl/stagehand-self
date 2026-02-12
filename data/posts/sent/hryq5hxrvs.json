@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/hryq5hxrvs",
+  "title": "你的快速添加博客外链的Chrome 插件更新啦",
+  "author": "Hi_Quan",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hryq5hxrvs_avatar.jpg",
+  "tags": [
+    "Chrome 插件",
+    "外链建设",
+    "工具分享",
+    "SEO",
+    "外链"
+  ],
+  "content": "<div>大家好， 我是 6 群的圈圈。</div>\n<div>感谢甜果果🍎🍊群友的反馈插件出现了不可用的情况。</div>\n<div>当初我开发这个 Chrome 插件，主要是为了自用，默认使用了 Google AI Studio 的免费 API。</div>\n<div>前两天，AI Studio 取消了免费额度，导致调用 API 时出现报错：“You exceeded your current quota, please check your plan and billing details”。</div>\n<div>是时候添加一些早就计划好的新功能了！这次更新主要增加了自定义 API 的支持，目前已接入 openrouter 和 硅基流动。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hryq5hxrvs_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>从 4 月初发布到现在，我的插件已经经历了几次小版本更新。主要更新内容包括：</div>\n<ol>\n<li>新增 BBCode 格式选项；</li>\n<li>增加自动填充功能（虽然还不是 100% 成功）；</li>\n<li>主页面优化，能更方便地切换要添加的外链网站；</li>\n<li>同一网站含有多个关键词时，会随机选择一个锚文本来嵌入链接。</li>\n</ol>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hryq5hxrvs_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">新功能：付费墙</h3>\n<div>为了让插件更好地支持大家，新增了付费功能。当你添加的网站超过 5 个时，需要使用授权码。\n每个授权码的价格是 29.9，可以无限制添加所有网站，并且每个授权码可以绑定 2 台设备。</div>\n<div>我知道最初这个插件是免费的，毕竟最初的目的只是自用。但后来为了方便大家使用，我决定将它发布到 Chrome 插件商店。考虑到开发和维护的时间，我决定加入付费墙，希望大家能够理解。</div>\n<div>无论你是否决定继续使用这个插件，我都非常感谢你曾经使用它。</div>\n<hr class=\"h-2 my-2\">\n<div>插件下载地址：\n<a href=\"https://wechat.takennap.com/aisac-extension.zip\" target=\"_blank\" rel=\"noopener noreferrer\">插件下载链接</a></div>\n<div>Google 官方插件地址（官方版审核中，暂时未更新到 1.0.11 版本）：\n<a href=\"https://chromewebstore.google.com/detail/ai-summary-and-comment-ge/embgjndohlgjndokmepcefefoeneanid?hl=en-US&amp;utm_source=ext_sidebar\" target=\"_blank\" rel=\"noopener noreferrer\">Chrome 插件商店链接</a></div>\n<div>原插件文章地址：\n<a href=\"https://new.web.cafe/topic/bv51u66hlu\" target=\"_blank\" rel=\"noopener noreferrer\">原文章链接</a></div>",
+  "publishDate": "2025-12-10 21:31",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hryq5hxrvs_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hryq5hxrvs_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:27:50.062Z"
+}

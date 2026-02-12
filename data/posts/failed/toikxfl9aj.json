@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/toikxfl9aj",
+  "title": "【20231.12.23案例拆解】www.qiuyumi.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/toikxfl9aj_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>再发下之前发过的： 这个技巧核心就是利用哥飞前几天分享的动态生成网页技巧。 有很多网站的里有跳出链接，而这个跳出链接可以通过网址里的url参数来控制。 如秋玉米网站，就有一个链接可以自己控制。 那我们就可以去找类似的可以通过参数控制的页面。 下面以秋玉米的页面来说明操作步骤： 1、打开秋玉米的 whois 查询页面<a href=\"https://www.qiuyumi.com/whois/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.qiuyumi.com/whois/</a> 2、在输入框中输入我们自己的域名，我们用 baidu.com 来演示，输入后点击查询，网址变成了下面这个<a href=\"https://www.qiuyumi.com/whois/?domain=baidu.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.qiuyumi.com/whois/?domain=baidu.com</a> 3、可以看到，网页里有个链接，名字是“打开baidu.com网站”。 4、最妙的是，这个链接用的是 a 标签，且没有 nofollow ，是完美的外链。 5、这种就属于动态生成的网页，只有你浏览器打开时，这个指向百度的链接的网页才会存在，搜索引擎发现不了。 6、但是，如果我们在我们自己网页里增加一个链接，指向上面秋玉米的链接，让搜索引擎的爬虫在爬我们的网页时，能够发现这个我们动态制作出来的链接，并且被搜索引擎收录，那么这个链接就永久存在了。</div>",
+  "publishDate": "2025-11-20 11:36",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:05:24.767Z"
+}

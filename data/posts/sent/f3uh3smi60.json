@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/f3uh3smi60",
+  "title": "SEO 外链效能插件（支持飞书/Google Sheets 双向同步）",
+  "author": "一箭",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f3uh3smi60_avatar.jpg",
+  "tags": [],
+  "content": "<div>BacklinkHelper 是一款 Chrome 插件，旨在辅助独立开发者和 SEO 站长进行高效的页面分析与外链管理。</div>\n<div>🔥 本次更新 (v2.0.0)：</div>\n<ul>\n<li>全新皮肤</li>\n<li>新增 飞书多维表格 双向实时同步。打破本地存储限制，支持数据在本地与云端表格间实时互通，方便多端备份与团队协作。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f3uh3smi60_img1.webp\" alt=\"BacklinkHelper.webp\" loading=\"lazy\"></li>\n</ul>\n<div>🛠 核心功能清单：</div>\n<ol>\n<li>智能表单填充 (Smart Fill)</li>\n</ol>\n<div>自动化识别： 自动解析页面表单结构，智能匹配并填入预设的 SEO 信息（姓名、邮箱、网址、评论）。</div>\n<div>多项目管理： 支持配置多套网站（Project）信息，针对不同推广目标，一键切换当前填充的“身份”与 TDK 数据。</div>\n<ol start=\"2\">\n<li>页面深度检测 (Page Audit)</li>\n</ol>\n<div>基础指标： 实时显示当前页面的 TDK (Title, Description, Keywords)。</div>\n<div>链接属性： 自动高亮识别页面内链接的 Dofollow / Nofollow 属性。</div>\n<div>域名资历 (Whois)： 集成 Whois 查询接口，一键检测当前网站域名注册时间/年龄。</div>\n<ol start=\"3\">\n<li>AI 评论辅助 (AI Writer)</li>\n</ol>\n<div>内容生成： 基于页面上下文，AI 自动生成相关性高的评论。</div>\n<div>自定义配置： 支持自定义 Prompt、语种选择及锚文本插入策略。</div>\n<ol start=\"4\">\n<li>外链数据追踪 (Link Tracker)</li>\n</ol>\n<div>状态记录： 识别当前页面是否已经添加过外链。</div>\n<div>数据管理： 支持数据的批量导入、导出及清洗，防止重复建设。</div>\n<div>🔒 数据隐私说明 (Privacy)</div>\n<div>Local First： 采用本地存储架构，数据保存在用户浏览器中。</div>\n<div>授权同步： 仅在用户主动填写 API Token 并开启同步后，数据才会传输至用户指定的飞书或 Google 表格，无第三方中转。</div>\n<div>🔗 插件下载/体验地址： <a href=\"https://chromewebstore.google.com/detail/backlinkhelper-%E2%80%93-%E6%99%BA%E8%83%BD%E5%A4%96%E9%93%BE%E6%8F%90%E4%BA%A4%E5%8A%A9%E6%89%8B/njplbneiegbjpmaiemjogaeilmbjnkij\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/backlinkhelper-%E2%80%93-%E6%99%BA%E8%83%BD%E5%A4%96%E9%93%BE%E6%8F%90%E4%BA%A4%E5%8A%A9%E6%89%8B/njplbneiegbjpmaiemjogaeilmbjnkij</a></div>",
+  "publishDate": "2026-01-02 20:33",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f3uh3smi60_img1.webp"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:37:47.154Z"
+}

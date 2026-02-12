@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/kw6qy84y39",
+  "title": "【2024.12.5案例拆解】 browserling.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>一个在线远程浏览器服务 browserling.com ，月访问量150万。 免费可用，付费可以解锁更多功能。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>600万周活的浏览器插件，只做一件事情，显示Youtube视频下的 dislike 数据。 <a href=\"https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi?hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi?hl=en</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>一个全新的视频，怎么判断 dislike 数量的？ 一是基于大盘基础比例，如5%，之后根据已经安装了插件用户的 like 和 dislike 比例去修正数据。</div>\n<div>他的官网 returnyoutubedislike.com 也有三十多万的月访问量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>他们首先存储了近 10 亿个 2021 年 12 月 13 日之前的视频数据。 这样就得到了一个大盘数据。 之后的新视频，就是按照我刚才说的方式，估算出来的。</div>",
+  "publishDate": "2025-10-29 14:33",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kw6qy84y39_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:31:24.170Z"
+}

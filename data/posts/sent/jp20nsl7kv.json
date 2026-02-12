@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/jp20nsl7kv",
+  "title": "【2024.1.28案例拆解】namu.wiki",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>一个汉语百科网站 namu.wiki 仅仅靠韩国，仅仅靠搜索，每个月有2亿访问量。 谷歌切换到韩国，搜索很多词，这个站都排到了前几的位置。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>比维基百科韩语版排名还靠前。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>2005年开始做的，Similarweb 上是韩国流量第八的网站。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个是好，不过我还没用上。</div>\n<div>还有个功能是看用户热力图</div>\n<div>发现一个小问题，ChatGPT 切换到中文语言后，点击计划无法弹出界面，切换回英文就可以</div>",
+  "publishDate": "2025-11-17 15:08",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jp20nsl7kv_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:18:24.229Z"
+}

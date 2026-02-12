@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/oz62rr26c1",
+  "title": "【2024.2.27案例拆解】favicon.ico",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>确保浏览器可以通过域名/favicon.ico 打开图标，确保网页html的head中显式指定了favicon</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个开发者搞得复杂了一些，显示最新的贴纸居然用上了websocket，这样部署成本高了好多。 如果是我做的话，我会把最近50张图片取出来，页面上先显示最早的30张，然后定时每秒显示1张，把剩下的20张花20秒显示出来。 还可以每隔10秒向后端查询一下有没有最新的图片，取出最新的10张，放到待显示列表。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>为什么要这么做？ 因为的确可以给用户，你这个产品很多人在用的感觉。</div>\n<div>这个交互，大家的网站都可以学一下。</div>\n<div>And double/cross post to LinkedIn. HN has good reach, but LI shit like this can catch fire and Netlify PR team will be all over it screaming at the accounts team 这个支招的很懂如何把影响力搞大</div>\n<div>看了下 HN 的讨论，netlify 好多黑料。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个网站 stickermule.com 月访问量 250万，正在打广告，让你在线挑选贴纸，打印后寄送到你家里。</div>\n<div>每个月要花出去72万广告费。 可以想像量有多大了。</div>\n<div>牛</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>10张贴纸9美元</div>\n<div>贴纸AI站跟Emoji AI站都有个特点，用户生成的内容会被放出来给搜索引擎爬虫抓取，所以被收录的页面会越来越多。 目前贴纸被收录了44个页面，就有好多是用户生成的。 这种页面可以覆盖大量相关关键词。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>Emoji AI 站目前收录了152万个网页，其中有136万个都是用户生成的emoji页面。 而用户生成的内容可能会输入各种关键词，且都是有需求的关键词。</div>\n<div>对于这类网站，除了单个内容要生成页面，最好还能够聚合内容，生成专题页面，进一步巩固关键词权重，拿下更高排名。</div>\n<div>用户在用你的产品过程中，能够帮你产生内容，这类工具站，都可以通过大量内容页占领关键词，获取搜索流量。 是哥飞很建议大家去做的一种站点类型。</div>\n<div><a href=\"https://eightify.app\" target=\"_blank\" rel=\"noopener noreferrer\">https://eightify.app</a> 也是这种类型。</div>\n<div>大家可以想一想，还有哪些可以做的。</div>\n<div>每一张图片都有提示词，这就是文字</div>\n<div>太泛了，你说个具体的</div>\n<div>是的，AI搜索就是一个很好的例子，都是用户真实需求，再加上AI的基本达到及格线以上的回答，就是一个不错的内容页面了。</div>\n<div>张三遇到的问题，李四很有可能也会遇到，那么当李四搜索时，就会搜索到张三的提问。</div>\n<div>大家应该都遇到过这样的例子，去百度搜索某个解决方案，结果搜索到了另一个人在CSDN问的类似问题。</div>",
+  "publishDate": "2025-11-13 14:57",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oz62rr26c1_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:28:16.312Z"
+}

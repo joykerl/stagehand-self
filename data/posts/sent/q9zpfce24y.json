@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/q9zpfce24y",
+  "title": "【2024.11.6案例拆解】buildyourstore.ai",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q9zpfce24y_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>刚看到一个网站 buildyourstore.ai ，很有意思，盈利模式是赚 Shopify 的 CPA ，但他不是简单的跟你介绍开店有什么好处，而是做了个网站，用AI帮你做一些处理，让你快速完整的走完 Shopify 注册和订阅全流程。 推荐大家都去体验一下，这里的交互流程还是挺有意思的。 我们的导航站，如果也做到这么贴心的话，那么Aff转化率应该会大幅提升。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q9zpfce24y_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个网站的第一屏背景颜色也挺好看的，大家自己网站可以借鉴学习。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q9zpfce24y_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我让Claude帮我生成了一张类似风格的svg背景图，分享给大家。 大家可以把这个svg拿给Claude，让他继续换颜色生成类似风格图片。</div>\n<div>或者可以直接使用这个css，也可以实现类似效果。 里边的颜色，也可以让AI帮你修改。</div>",
+  "publishDate": "2025-10-30 15:16",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q9zpfce24y_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q9zpfce24y_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:24:47.763Z"
+}

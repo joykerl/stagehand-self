@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/wt1r9hxxfu",
+  "title": "【2024.12.27案例拆解】charactercalculator.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wt1r9hxxfu_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wt1r9hxxfu_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>刚才那个莫斯码工具站长的另一个站 charactercalculator.com ，这个是很久以前我们讨论过的小需求，在线字数统计工具。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wt1r9hxxfu_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wt1r9hxxfu_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>看到另一个站长的字数统计站，只有韩语，所以97%都是韩国流量。不过最近流量下降了，之前最高有376万，现在只剩74万了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wt1r9hxxfu_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>之前介绍过一个公示，每天1000UV，按照一个UV产生一个PV，一个PV生成一个广告展示，那么一天就有1000个广告展示，刚好是1个ECPM，假设广告单价是1美元，那么收入就刚好是1美元。 假设有个站每天10000UV，每个UV可以产生2个PV，一个PV产生3个广告展示，广告单价是3美元，那么每天收入是 10<em>2</em>3*3 = 180美元</div>",
+  "publishDate": "2025-11-19 15:33",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wt1r9hxxfu_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wt1r9hxxfu_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:07:37.497Z"
+}

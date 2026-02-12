@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/6kv2h62jhv",
+  "title": "【2024.2.2.20案例 拆解】 https://www.gptshunter.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6kv2h62jhv_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>怎么覆盖更多关键词？ 记住一句话，一个页面优化一个主关键词，围绕着主关键词还可以建很多次级关键词页面。 所以想要拿到更多关键词的更多自然流量就要做更多页面，覆盖更多关键词。 而页面，不一定是文章，也可以是模板化的页面。 举例，拿 <a href=\"https://www.toolify.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.toolify.ai/</a> 来说，每多收录一个AI产品，都可能给他带来更多流量。 拿 <a href=\"https://www.gptshunter.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.gptshunter.com/</a> 来说，每多收录一个 GPTs ，都可能给他带来更多流量。</div>\n<div>做好了模板页面，不断向数据库添加数据记录即可。 添加的过程可以是自动化的。</div>\n<div>好了，课堂结束。</div>\n<div>这个时候，你可以打开一个浏览器隐私模式窗口打开网站看看是否正常</div>\n<div>说明特定的请求模式会被拒绝</div>\n<div>这个好像还留着 <a href=\"https://chat.forefront.ai/?version=1\" target=\"_blank\" rel=\"noopener noreferrer\">https://chat.forefront.ai/?version=1</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6kv2h62jhv_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6kv2h62jhv_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><a href=\"https://stable-diffusion-art.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://stable-diffusion-art.com/</a> 在挺多词上拿到了流量，而且也是一个新词收割机，不过他只收录跟图片相关的词。</div>\n<div>这是两个概念，一个是在自己程序里调用GPTs，一个是提供自己的接口给GPTs调用。</div>\n<div>如果是自己的GPTs，那么用 assistants 可以得到差不多的效果。但无法调用别人的GPTs。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6kv2h62jhv_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>分享个词给大家 fooocus ，从 <a href=\"https://stable-diffusion-art.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://stable-diffusion-art.com/</a> 的来源关键词发现的。</div>",
+  "publishDate": "2025-11-13 17:42",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6kv2h62jhv_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6kv2h62jhv_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6kv2h62jhv_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:25:13.976Z"
+}

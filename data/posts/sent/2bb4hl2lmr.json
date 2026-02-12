@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/2bb4hl2lmr",
+  "title": "【2023.11.10案例拆解】3D立体图 GPTs",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2bb4hl2lmr_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>小互做的这个，城市天气信息3D立体图 GPTs 可以学习一下，里边会先调用联网插件查找天气信息，再调用 timeanddate.com 获取日期信息，最后调用 DALL-E 3 画图 <a href=\"https://chat.openai.com/g/g-aTdwKcgsE-postercraft\" target=\"_blank\" rel=\"noopener noreferrer\">https://chat.openai.com/g/g-aTdwKcgsE-postercraft</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2bb4hl2lmr_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-25 11:27",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2bb4hl2lmr_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:42:33.436Z"
+}

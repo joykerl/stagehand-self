@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ptmleqvtgo",
+  "title": "【2023.12.19案例拆解】boringcashcow.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ptmleqvtgo_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><a href=\"https://boringcashcow.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://boringcashcow.com/</a> 无聊的现金奶牛生意</div>\n<div>这是没用过AI吧</div>\n<div>谷歌支持在线修改本地文件了，这里有一个开源示例，不过他的实现比较复杂，我的想法是可以用GPT3.5来重命名。 <a href=\"https://github.com/JasonGrass/rename\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/JasonGrass/rename</a></div>\n<div>用 supabase.com</div>\n<div>不知道是不是群友的，浏览器语言设置为中文了，😂\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ptmleqvtgo_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-20 15:17",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ptmleqvtgo_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:03:44.617Z"
+}

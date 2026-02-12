@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/bmgd9m296g",
+  "title": "windows上安装opencode后启动卡住的解决办法",
+  "author": "乐舒",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bmgd9m296g_avatar.jpg",
+  "tags": [],
+  "content": "<div>（我通过使用npm安装、下载github安装包安装，启动之后都卡住了）</div>\n<div>其实通过choco安装就行</div>\n<div>一、用 PowerShell 安装choco\n1.用管理员权限打开 PowerShell / Windows Terminal（右键“以管理员身份运行”）。</div>\n<div>2.先检查执行策略：\nGet-ExecutionPolicy\n如果返回 Restricted，官方建议用 进程级 Bypass（只对当前窗口生效）：\nSet-ExecutionPolicy Bypass -Scope Process -Force</div>\n<div>3.运行官方安装命令（包含 TLS 1.2 设置）：\n[System.Net.ServicePointManager]::SecurityProtocol =\n[System.Net.ServicePointManager]::SecurityProtocol -bor 3072;\niex ((New-Object System.Net.WebClient).DownloadString('<a href=\"https://community.chocolatey.org/install.ps1\" target=\"_blank\" rel=\"noopener noreferrer\">https://community.chocolatey.org/install.ps1</a>'));</div>\n<div>4.验证choco是否安装成功：\nchoco --version</div>\n<div>如果新开的终端里找不到 choco，通常是 PATH 还没刷新。最简单是关掉终端重开再试。</div>\n<div>二、用 choco 装 opencode：\nchoco install opencode -y</div>\n<div>安装成功之后验证：\nwhere opencode\nopencode --version</div>\n<div>现在输入命令启动：opencode\n应该就不会一直卡住了</div>\n<div>让opencode启动的时候输出日志：\nopencode --print-logs --log-level DEBUG<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bmgd9m296g_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2026-01-11 12:50",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bmgd9m296g_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:35:36.711Z"
+}

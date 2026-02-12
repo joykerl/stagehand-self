@@ -1,0 +1,15 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/qs4ntkvf81",
+  "title": "Claude Code使用agent team的方法（无需Opus 4.6，任意模型）",
+  "author": "乐舒",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qs4ntkvf81_avatar.jpg",
+  "tags": [],
+  "content": "<div>需要先更新Claude Code</div>\n<div>修改setting.json文件（~/.claude/settings.json）</div>\n<div>在env里添加：\"CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS\":\"1\"\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qs4ntkvf81_img1.png\" alt=\"微信图片_20260211125504_979_32.png\" loading=\"lazy\"><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qs4ntkvf81_img2.png\" alt=\"微信图片_20260211125048_977_32.png\" loading=\"lazy\"></div>",
+  "publishDate": "2026-02-11 13:02",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qs4ntkvf81_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qs4ntkvf81_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:13:45.726Z"
+}

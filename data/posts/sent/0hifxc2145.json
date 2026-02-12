@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/0hifxc2145",
+  "title": "【2025.11.12哥飞小课堂】新站被谷歌浏览器提示是危险网站，怎么办",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0hifxc2145_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>大家上一个新站，是否遇到过打开之后，被谷歌浏览器提示是危险网站？</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0hifxc2145_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>最近一年多，时不时有群友网站遇到这样的提示，而且大多都是新站刚上线一两天，就被浏览器提示危险网站。 此时如果打开GSC，大概率会看到一个安全问题，说你的网站被检测到了一个安全问题，你的网页是欺骗性网页。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0hifxc2145_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我总结了一下，最有可能的情况是，新站（我们用A来表示）所用的域名跟之前已经被谷歌收录的网站（我们用B来表示），很相似，容易形成误导。 举例，A跟B相同域名，只是后缀不一样；或者A和B域名后缀一样，但域名很像，只相差一两个字母……</div>\n<div>当然，如果只是域名相似，也不是就一定会被提示危险网站。 如果你域名很相似，网站的标题、网页的内容也很相似，那么就容易被提示危险网站了。 因为谷歌认为，新站A是基于老站B做的一个钓鱼网站，目的是让B的用户混淆，从而直接在A的网站输入账号密码等敏感信息。</div>\n<div>有群友提到，可以在谷歌的这个透明度报告里查询网站状态 <a href=\"https://transparencyreport.google.com/safe-browsing/search\" target=\"_blank\" rel=\"noopener noreferrer\">https://transparencyreport.google.com/safe-browsing/search</a> 我试了一下，如果是太新的网站，这里查不到信息，可能是数据还没同步过来。</div>\n<div>如果大家的网站的确是因为做的同一个关键词，域名很像，而导致被提示危险网站，那么没关系的，直接去GSC申诉就好了，说你不是钓鱼网站，无意模仿别人网站。</div>\n<div>大家也可以把自己遇到的情况，以及解决办法分享一下。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0hifxc2145_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>上午说，遇到这种问题，如果真的是误判的话，去GSC申诉，之后会人工审核，审核通过后，就会撤销安全提示了。</div>\n<div>现在，我又来问一个新问题了，最近是不是大家的 Adsense 频繁遇到限流，说你是低质量流量，暂停展示广告？ 而且，被提示的以小游戏站居多？</div>\n<div>提示无效流量或者低质流量都是差不多情况。</div>\n<div>并且大家也会发现，最近Adsense审核新站变得更严格，按照以前的标准能过的，现在也会被打回来。</div>\n<div>据可靠内部消息，是因为提审的网站变多了，而且很多都是AI直接生成的，或者是套模板快速上站的，整个网站看不到“用心”的痕迹。 而且这些网站几乎都是刚上线没多久就来提审，没啥流量，没啥用户，于是直接在初审时机器审核打分阶段就被打了低分，之后人工看一眼页面，就点了拒绝了。 另外就是，最近算法发现有些被审核通过的新站流量质量不行，尤其是小游戏网站，掺了不少科技流量进去。 或者说，涌进来了太多新玩家，这些玩家不如老玩家那么会造假，于是很容易就被识别出来了。 最终就导致不仅审核变严格了，低质量流量识别也变严格了，就导致了很多站被限制广告展示。 而我们的站，如果太新，账号也太新，流量又暴增，就容易被算法识别，倒不是说直接判定我们的是虚假流量，而是先限制广告投放，同时在限制期间去不断监测我们网站流量质量，两三周后发现流量质量达标，就会去除限制，可以展示广告了。</div>\n<div>一句话总结，严打期间，我们自然流量也受到了一定的波及。 这些波及主要出现在新账号下，老账号有了信任基础，不太会出现。 但是这种情况不会长期存在，大家还是要有信心。</div>\n<div>没有解决办法，只能等着，中间别卸载广告代码</div>",
+  "publishDate": "2025-12-01 15:10",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0hifxc2145_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0hifxc2145_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0hifxc2145_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:58:11.440Z"
+}

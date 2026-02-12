@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/vscvfwiill",
+  "title": "Paypal个人版提现👉众安",
+  "author": "X",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_avatar.jpg",
+  "tags": [
+    "支付",
+    "PayPal"
+  ],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">绑定众安账户</h1>\n<div>👉 <a href=\"https://www.paypal.com/mep/fundsmanagement/money\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.paypal.com/mep/fundsmanagement/money</a></div>\n<ul>\n<li>选择：关联银行账户</li>\n<li>填写（众安APP里账户信息里有）\n<ul>\n<li>银行名称：ZA Bank Limited</li>\n<li>银行代号：387</li>\n<li>账户类型：储蓄</li>\n<li>分行地址：APP里复制</li>\n<li>分行代码：APP里收款账户前三位（很重要，众安APP里有个分行编号一直被误导了，会提示信息错误）</li>\n<li>账号：APP里收款账户除了前三位剩下部分</li>\n<li>账户名称：个人<br>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img1.png\" alt=\"Pasted image 20260210103101.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img2.png\" alt=\"Pasted image 20260210103200.png\" loading=\"lazy\"></li>\n</ul>\n</li>\n</ul>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">提现</h1>\n<div>（目前好多付款还在21天冻结期，还不够提现下限，未验证，但咨询了客服）</div>\n<ul>\n<li>提现周期为3-6个工作日</li>\n<li>最低起提金额为80港币</li>\n<li>币种兑换费是2.5%（跟Stripe港币账户差不多）</li>\n<li>提现手续费\n<ul>\n<li>1000HKD以下是3.5HKD一笔的手续费</li>\n<li>高于1000HKD，不收取提现手续费\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img3.png\" alt=\"Pasted image 20260210100716.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img4.png\" alt=\"Pasted image 20260210095907.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img5.png\" alt=\"Pasted image 20260210101400.png\" loading=\"lazy\"></li>\n</ul>\n</li>\n</ul>",
+  "publishDate": "2026-02-10 10:53",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vscvfwiill_img5.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:19:57.669Z"
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/fzb82qc3d0",
+  "title": "【2023.9.24案例拆解】小程序：林采易",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>有一个专业小程序，很好用，#小程序：林采易</div>\n<div>虽然交互做得不是很好，但是能够识别植物和动物</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>运营能力也属于一通百通的，基本原理国内外适用</div>\n<div>demo是canvas做的假效果</div>\n<div>或者说，是提前处理好的数据，不是时时运算的</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>拿这张图来说，这个地方动不了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这片可以动\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这片看起来更明显。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>是的，这几个demo是事先识别好了，切割好的</div>",
+  "publishDate": "2025-12-04 15:55",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fzb82qc3d0_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:45:48.799Z"
+}

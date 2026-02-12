@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/w29b8n9wfm",
+  "title": "【2024.1.30案例拆解】everand.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><a href=\"https://foxy.ai/explore\" target=\"_blank\" rel=\"noopener noreferrer\">https://foxy.ai/explore</a> <a href=\"https://www.gptgirlfriend.online/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.gptgirlfriend.online/</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>又看到一个“新”网站 everand.com ，域名是 2005 年注册的，但其实是2023年10启用的。</div>\n<div>不过我看了暂时有点迷糊，没看出来流量从哪里来的。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个网站背靠大公司，这个公司旗下有几个大网站 slideshare.net 5228万 scribd.com 1.42亿</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>10月上线，3多个月时间收录244万页面。</div>\n<div>上次我们分析过一个类似旱地拔葱的网站，是切换域名导致的。</div>\n<div>当时这个就是切换了域名。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>从这可以看出，有部分 scribd.com 页面 301 到了这个新网站\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>而且承接了维基百科的高权重外链权重</div>\n<div><a href=\"https://www.scribd.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.scribd.com</a> 这个网站也还在。 有可能是为了给新网站快速起量增加权重，从老网站导了一些高权重外链过去。</div>",
+  "publishDate": "2025-11-14 19:15",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w29b8n9wfm_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:19:25.429Z"
+}

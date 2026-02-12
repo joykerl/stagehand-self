@@ -1,0 +1,23 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/rj3fkc57up",
+  "title": "【2024.2.26案例拆解】play2048.co",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>这个作者也是哥飞的朋友们</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>AI自动玩2048游戏 <a href=\"https://aj-r.github.io/2048-AI/\" target=\"_blank\" rel=\"noopener noreferrer\">https://aj-r.github.io/2048-AI/</a></div>\n<div>代码是开源的 <a href=\"https://github.com/aj-r/2048-AI\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/aj-r/2048-AI</a></div>\n<div>我找到了当时介绍的这个做了10年的2048游戏的开源代码了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>开源地址：<a href=\"https://github.com/gabrielecirulli/2048\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/gabrielecirulli/2048</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个作者明显是老外，所以我收回之前那句话： “刚收到最新消息，这个站是群里某个朋友的朋友做的。人在成都，靠很多这些游戏站养着，活得好安逸。” 有一个可能，告诉我消息的人的朋友的确有做了2048相关网站，但不是 play2048.co 这个域名。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>Similarweb 可以看到大概的数据</div>\n<div>回到刚才的2048游戏，现在我们可以理解为什么 play2048.co 上线就有流量了，因为最开始游戏是放在 Github Pages 上的，已经有了传播有了流量，后面作者才买了 play2048.co ，并且把 <a href=\"http://gabrielecirulli.github.io/2048/\" target=\"_blank\" rel=\"noopener noreferrer\">http://gabrielecirulli.github.io/2048/</a> 跳转到了 play2048.co 。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img8.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>Adsense 代码放了一天就移除了，估计是因为觉得广告代码影响体验。 并且那时候其实他已经做了 App 了，估计通过App能够赚更多钱。</div>",
+  "publishDate": "2025-11-13 15:09",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img7.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rj3fkc57up_img8.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:27:24.121Z"
+}

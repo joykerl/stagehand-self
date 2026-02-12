@@ -1,0 +1,28 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/qivbgr8a1h",
+  "title": "【2023.11.16案例拆解】worldwide",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>看起来是一个网页小游戏</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>可以看到，流量被他自己的域名承接了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>为什么要这么跳转呢？ 可能是 github.io 域名无法放广告？</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>看他自己的域名，可以发现，流量有来自搜索的。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>现在我们知道他的热门搜索关键词是什么了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>上推搜索下，已经是热门标签了</div>\n<div>上面就是他自己网站链接。</div>\n<div>他最开始用 github.io 的域名部署了一个在线游戏，火了。 后来换成了用自己的域名。</div>\n<div>至于怎么火的，可以参考合成大西瓜的火爆路径，这种一定是社交媒体先引爆的。</div>\n<div>这里说的是Switch 游戏，但并不是人人都有Switch，所以有人做了H5版本给大家玩。</div>\n<div>这里还有个值得我们学习的，炒冷饭永不过时，每年都可以把以前火爆过的拿出来稍微换个皮肤继续炒，说不定就火了。</div>\n<div>如“制霸地图”，去年我在微博看到了，然后在即刻发了，后来即刻里刷屏了，今年又看到微博继续火。</div>\n<div>回到刚才的网站，我们知道了这个网站的爆火路径后，是不是可以趁着这股火，自己也复制一个游戏发出去，浑水摸鱼。</div>\n<div>代码开源了，拿来就用 <a href=\"https://github.com/tkgames-develop/holo_watermelon\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/tkgames-develop/holo_watermelon</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>注意一下License</div>\n<div>好了，这个网站分析完了，刚才给大家的列表里还有八百多个网站，大家自己去分析吧。</div>\n<div>别想着自己去开发一个游戏了，因为花了几个星期开发出来了，可能用户只有几个。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>js.org 下的子域名也可以看\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>本身做这个的，可以尝试下哈，靠社交媒体炒作引爆游戏</div>\n<div>别想太深入了，这个仅仅是第一个网站是这种小游戏，并不是每一个都是小游戏。</div>\n<div>共享的</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img8.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>第二个子域名，就不是刚出现的了，最近半年都有流量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img9.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img10.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>第二个站，是碧蓝航线的游戏辅助页面，帮助你查看所有舰船的评级。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img11.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>每一个域名，都能够帮助大家打开一扇门，了解一个需求，又到周末了，可以去研究一下了。</div>\n<div>对。 不过我发现有些平台的查不到数据，如 vercel.app 。</div>\n<div>注意，里边我直接导出的数据，没有任何过滤，有些网站，别在公司打开。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img12.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>刚确认了，github.io 域名可以放自己的广告\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img12.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img13.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个站流量曲线不错</div>\n<div>这是新东西，可以看看有没有我们的机会。</div>",
+  "publishDate": "2025-11-24 17:10",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img7.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img8.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img9.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img10.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img11.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img12.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qivbgr8a1h_img13.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:50:53.169Z"
+}

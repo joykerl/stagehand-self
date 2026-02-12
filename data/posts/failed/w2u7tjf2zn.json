@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/w2u7tjf2zn",
+  "title": "【2023.12.3案例拆解】prototypr.io  brandmark.io",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w2u7tjf2zn_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>这个给设计师、开发者用的内容网站挺不错的，有各种不错的内容，本身网站流量也还不错，访问量有二十多万每月。 <a href=\"https://prototypr.io/\" target=\"_blank\" rel=\"noopener noreferrer\">https://prototypr.io/</a></div>\n<div>如这篇介绍 Vercel 模板库的网站，结合了他自己制作的网站为例来讲解的。 <a href=\"https://prototypr.io/post/never-start-from-scratch-vercel-template-library\" target=\"_blank\" rel=\"noopener noreferrer\">https://prototypr.io/post/never-start-from-scratch-vercel-template-library</a></div>\n<div>用 tailwind css 实现瀑布流 <a href=\"https://prototypr.io/post/masonry-layout-css-tailwind\" target=\"_blank\" rel=\"noopener noreferrer\">https://prototypr.io/post/masonry-layout-css-tailwind</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w2u7tjf2zn_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个logo制作网站的交互挺不错的，不需要自定义调整，而是让你从几种布局中选择一种。 <a href=\"https://brandmark.io/\" target=\"_blank\" rel=\"noopener noreferrer\">https://brandmark.io/</a>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w2u7tjf2zn_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w2u7tjf2zn_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>每个月有一百多万的访问量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w2u7tjf2zn_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>52%流量来自于搜索引擎</div>\n<div>用 eventsource ，后端接收 replicate 的通知，然后 eventstream 返回给前端，就不用轮询了。</div>",
+  "publishDate": "2025-11-21 11:12",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w2u7tjf2zn_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w2u7tjf2zn_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w2u7tjf2zn_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:57:16.614Z"
+}

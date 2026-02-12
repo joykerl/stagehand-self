@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/2q6efklhau",
+  "title": "【2023.7.10案例拆解】threadspage.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>做这个页面时，我忘记了一个操作，导致首页被收录了两次。 对于搜索引擎来说，这就是重复内容。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>header 少了这一句</div>\n<div>这个是用来告诉搜索引擎，当前页面如果有多个网址都可以打开时，以哪个网址为准。 不仅仅首页需要放，任何一个页面都需要放。</div>\n<div>举例，苹果appstore页面，就有这个 微信app的详情页有多个，以下地址都可以打开 <a href=\"https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124\" target=\"_blank\" rel=\"noopener noreferrer\">https://apps.apple.com/cn/app/%E5%BE%AE%E4%BF%A1/id414478124</a> <a href=\"https://apps.apple.com/cn/app/id414478124\" target=\"_blank\" rel=\"noopener noreferrer\">https://apps.apple.com/cn/app/id414478124</a> <a href=\"https://apps.apple.com/cn/app/weixin/id414478124\" target=\"_blank\" rel=\"noopener noreferrer\">https://apps.apple.com/cn/app/weixin/id414478124</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>不管用什么网址打开，苹果都指定了官方推荐链接\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这样搜索引擎就不会迷糊</div>\n<div>搜索引擎很忌讳一个网站的同一个页面有多个网址，系统会认为网站想批量复制同样内容的页面来霸榜。</div>",
+  "publishDate": "2025-12-03 14:57",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q6efklhau_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:48:49.316Z"
+}

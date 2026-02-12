@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/o7h3uy7p4f",
+  "title": "【2024.10.24案例拆解】tapfiliate.com  tolt.io",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o7h3uy7p4f_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>周五的晚上，送给大家一句话，或者说，一种思维方式。 每一个给站长用的 SaaS 服务，都可以用来找到那些正在赚钱的网站。 因为只有真的赚钱了，才舍得去用哪些长期收费的服务。 那么，只要找到哪些服务是给站长做的，就能够顺藤摸瓜，找到更多的赚钱风向标。 举例，很多网站都会接入第三方的 Affiliate 系统，拿 Pollo 举例，用的是 tapfiliate.com 。</div>\n<div>我们注意到 tapfiliate.com 用的是子域名形式，那么找出所有的子域名，尤其是大流量的子域名，是不是就可以找到哪些订单量比较大的有 Affiliate Program 的网站？ 在 Similarweb 里查看这个网站的落地页，再使用 URL 规则，过滤出所有的子域名，就得到了截图的这个列表。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o7h3uy7p4f_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>一般来讲，很多同行都会在谷歌 Ads 购买竞争对手的品牌词，如果我们如谷歌搜索 tapfiliate 会发现什么呢？ 我们发现了另一个做 Affiliate Platform 平台的产品 trackdesk.com 。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o7h3uy7p4f_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o7h3uy7p4f_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>继续用谷歌搜索 trackdesk ，我们有得到了另一个同行 tolt.io 。 就这样不断的搜索下去，几乎我们就能够把Affiliate Platform 平台一网打尽了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o7h3uy7p4f_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>当然，用 Similarweb 的相似网站功能，也能找出一些。 如通过找 tolt.io 的相似网站，我们发现了 rewardful.com 。 不过列表里的其他网站，就不一定是真的竞品，需要逐一打开网站去分辨。</div>\n<div>通过以上方法，我们可以顺藤摸瓜，把每一个需求的相关网站都摸出来。 然后就可以去看这些网站： 流量多大？ 有哪些流量渠道？ 哪个渠道好搞流量？ 外链有哪些？ 权益有哪些，怎么定价的？ 从哪些关键词通过怎么样的页面拿到了搜索流量？ ……</div>",
+  "publishDate": "2025-10-31 11:51",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o7h3uy7p4f_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o7h3uy7p4f_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o7h3uy7p4f_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o7h3uy7p4f_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:22:49.262Z"
+}

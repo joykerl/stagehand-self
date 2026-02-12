@@ -1,0 +1,25 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/d1kpwd9cw0",
+  "title": "【2024.9.9案例拆解】mcds-menu.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>因为挖掘到有人会搜索麦当劳价格、麦当劳菜单等关键词，于是就做了一个网站来满足这样的搜索需求。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>两个多月的时间，每个月有100多K的访问量了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>不同国家搜索排名不同，在美国排名就在麦当劳官网下面，在别的国家排到了官网前面。</div>\n<div>这样的网站还不止1家。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img8.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img9.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这些网站的盈利模式都是靠谷歌广告赚钱。 虽然目前这个流量看起来不多，但是每天赚一餐饭钱还是有可能的。</div>\n<div>对于这个案例，大家看了有什么启发吗？</div>\n<div>把这些大厂的招聘信息聚合起来，如果你从20年前开始干，你就做出来了 indeed.com ，一个现在月访问量4.3亿的大型网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img10.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>一般都不是直接爬内容，而是收集数据，整理成为结构化数据，然后做好网页模板，填充数据到网页里</div>\n<div>得先有需求，然后才会去找对应的数据。 举例你要做一个招聘网站，是不是要去抓取各大公司的官网招聘板块，以及其他能够找到招聘信息的地方。</div>",
+  "publishDate": "2025-11-03 15:36",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img7.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img8.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img9.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/d1kpwd9cw0_img10.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:15:28.092Z"
+}

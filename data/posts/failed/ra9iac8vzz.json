@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ra9iac8vzz",
+  "title": "用对面包屑导航，告诉搜索引擎页面层级结构",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ra9iac8vzz_avatar.jpg",
+  "tags": [
+    "站点地图",
+    "内链",
+    "网站建设",
+    "On-Page SEO",
+    "SEO"
+  ],
+  "content": "<div>之前有群友问过，网址是否需要严格遵循物理层级关系，如分类 1 下面的分类 1-1 下的某个页面 1-1-1 的 URL，是否应该真的是：\n/category1/category1-2/page-1-1-1</div>\n<div>其实不一定的，严格的物理层级关系，的确可以告诉搜索引擎页面的层级结构，但是有时候物理层级不方便处理时，其实是可以用面包屑导航来告诉搜索引擎，你网站的逻辑层级结构是什么的。</div>\n<div>下面用一个实际案例来跟大家说明。</div>\n<div>有另一位群友问我，谷歌搜索某个关键词，他的网站出现在了第一页，点搜索结果进去是首页，鼠标放在搜索结果里看到的网址也是首页，但是为什么谷歌显示为一个内页？</div>\n<div>为了方便大家理解，我给大家截图了一个非群友网站的正常搜索结果。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ra9iac8vzz_img1.png\" alt=\"e5fe343f-6abb-49c2-a32c-1dae207e4d7c.png\" loading=\"lazy\"></div>\n<div>先看上图，答案其实很简单，显示在位置 1 的网址，其实是谷歌基于网站页面结构推理出来的层级关系，不代表真实网址，虽然大多数时候显示的跟真实网址是一致的。</div>\n<div>群里网站的特殊结果，是因为群友用错了面包屑导航，在首页里写的面包屑导航，写成了内页的格式。</div>\n<div>举例，一个正常内页的面包屑导航可能是这样的：\n网站名称 &gt; 首页 &gt; 某分类 1 &gt; 分类 1 下的某个内页</div>\n<div>而如果当前页面是首页，面包屑导航应该是这样的：\n网站名称 &gt; 首页</div>\n<div>但是群友在首页里，用了下面的面包屑导航：\nHome &gt; games &gt; 某游戏名称</div>\n<div>于是谷歌给显示的搜索结果里，位置 1 显示的也是：\n域名&gt;games&gt;某游戏名称</div>\n<div>所以总结一下，你完全可以通过面包屑导航，合理向搜索引擎传达页面之间的层级结构的。</div>\n<div>并且，面包屑导航，其实也算是内链的一种形式。</div>",
+  "publishDate": "2026-02-12 15:23",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ra9iac8vzz_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:19:23.617Z"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/249zprzhvd",
+  "title": "【2024.12.10案例拆解】anythingtranslator.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/249zprzhvd_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>刚才有朋友问我，昨天的 anythingtranslator.com 是怎么发现的。 我把方法也发到群里，这个方法你用好了，威力无穷。 基于任意一个关键词，去拓词，方法我们之前群里讲过了。 举例，你可以用Similarweb的关键词生成器。 输入一个基础关键词，得到关键词列表，导出这里的每一个关键词。 再拿关键词去谷歌搜索，找到排名前10的网站，再去看这些网站的域名注册时间，选择1年内注册的新网站，按照网站流量进行筛选查看。 然后，你会有很多新发现。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/249zprzhvd_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/249zprzhvd_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>你打开一个浏览器插件，看到页面上显示这个插件有600万用户数。 那么这里的用户数量是什么意思呢？ 到底是600万的什么呢？ 估计很多人都不知道，我调研了一番，搞清楚了含义，并且让 Claude 画了一张图给大家解释说明。</div>\n<div>很多朋友好奇，这个插件怎么赚钱？ 我提示一下，这个数据是很有价值的，有多少真人看了哪些视频，喜欢了、不喜欢了哪些视频。 很多机构都会买这些数据的。 他甚至提供了API，人人都能调用数据，但是限制了每分钟100次和每天10000次。 那么，给钱能不能放开限制呢？我猜是可以的。</div>",
+  "publishDate": "2025-10-29 11:36",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/249zprzhvd_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/249zprzhvd_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:33:42.694Z"
+}

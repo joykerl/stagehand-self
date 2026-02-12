@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/6f5aeoagzw",
+  "title": "【2023.10.19案例拆解】speechless.fun",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6f5aeoagzw_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>微博导出工具</div>\n<div>不仅可以导出自己的微博，还可以导出别人的微博</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6f5aeoagzw_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>最近一周有4000活跃用户\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6f5aeoagzw_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>产品开源的，既然能导出为pdf，就能改为导出为文本格式，如 markdown 格式。 那么就可以实现把一些经常分享优质资源的博主发的内容备份导出了。</div>\n<div>没有特定的要求，几百上千就可以了。 一会看你的网站内容多不多，二会看你的域名是不是最近注册的。</div>\n<div>基本上有了几百pv后，网站也有几十篇文章后，就能申请通过</div>",
+  "publishDate": "2025-11-26 17:30",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6f5aeoagzw_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:20:59.845Z"
+}

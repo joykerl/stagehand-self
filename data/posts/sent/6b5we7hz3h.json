@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/6b5we7hz3h",
+  "title": "【2024.9.10案例拆解】 urlscan.io",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6b5we7hz3h_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>下午分享过的 urlscan.io ，大家知道这个网站一年访问量多少吗？ Similarweb 显示，最近12个月访问量1619万。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6b5we7hz3h_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>从曲线可以看到，最近12个月，流量是不断上升的。</div>\n<div>主要流量来自于自然搜索，和直接访问。 自然搜索占比55.54%，最近12个月有900万流量来自于自然搜索。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6b5we7hz3h_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6b5we7hz3h_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>在线版网站提供了很多免费功能，主要盈利靠卖API，看他这个套餐定价还真不便宜。</div>\n<div>接下来，就可以去研究，这个网站靠哪些页面，从搜索引擎获取了这么多的访问量。 就当是给大家的作业了，感兴趣的可以研究一下。 提示一下，也是海量页面，并且是用户生成内容模式。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6b5we7hz3h_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个东西，有人包装了一个产品出来了 reshot.ai ，没想到现在 Levelsio 也盯上了。</div>",
+  "publishDate": "2025-11-03 15:18",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6b5we7hz3h_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6b5we7hz3h_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6b5we7hz3h_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6b5we7hz3h_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:16:00.225Z"
+}

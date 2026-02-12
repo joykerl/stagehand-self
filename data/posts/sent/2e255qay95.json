@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/2e255qay95",
+  "title": "【2024.9.24案例拆解】https://thatsnotmyneighbor.org/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>分析别的网站的外链，是的确能够挖掘出一些获取外链的方式的。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>昨天小课堂提到游戏站，截图这个就是一个典型的游戏站，专门为某个游戏注册一个域名，这个域名主页就是这个游戏，但同时列出更多游戏给用户玩，提升用户停留时间，降低跳出率。 <a href=\"https://thatsnotmyneighbor.org/\" target=\"_blank\" rel=\"noopener noreferrer\">https://thatsnotmyneighbor.org/</a></div>\n<div>这些站，几乎可以做成纯静态页面，这样服务器成本就几乎为零，只需要出一点CDN的成本就行。</div>\n<div>这个站的域名 thatsnotmyneighbor.org 是今年3月5日注册的。 3月访问量 95万， 4月访问量 205万， 5月访问量 188万， 6月访问量 181万， 7月访问量 68万， 8月访问量 29万， 随着游戏热度的下降，网站访问量也在下降，但也不会完全降到0。 而这种站的建站成本也很低，有模板积累的话，上一个新的游戏站，可能也就是半天一天的时间。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这几个月的时间，总访问量是769万，假设我们认为这个是PV，而这个网站首页4个广告位，那么广告曝光就是 769万x4=3076万，也就是3万个ecpm。 按照1个ECPM3美元计算，这个站这几个月时间的广告费收入就是9万美金。</div>\n<div>那么他的成本有多少呢？ 可能主要成本在买外链上了，这部分成本我们实际不清楚，但是大概估算一下，假设平均每个外链10美金，那么成本就是8420美金，再加上一些人工费，就算总共1万美金吧。 9万-1万=8万美金的利润。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>总结一下，就是AI工具站可以做，游戏站，也可以去尝试一下。 尤其游戏站不需要接支付，也就不需要注册海外公司。 你只需要有一个Google账号，就可以接入Adsense赚钱。 而且钱还可以直接打入到你的国内银行卡。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>从外链变化来看，其实后面一直在新增外链，前面的可能是买的，后面很可能就是自然增长的外链了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>继续挖下去，更有意思事情的出现了，其实这个站本身并没有做这个游戏，甚至没有内嵌。 而是做了一个假的，看起来像是H5游戏的界面。 当你点击Play按钮时，他用 js 打开了一个新窗口，给你玩游戏，游戏地址是 <a href=\"https://thatsnotmyneighbor.online/\" target=\"_blank\" rel=\"noopener noreferrer\">https://thatsnotmyneighbor.online/</a> 。</div>\n<div>thatsnotmyneighbor.online 3月到现在，总访问量868万。</div>",
+  "publishDate": "2025-11-03 11:04",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2e255qay95_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:18:02.271Z"
+}

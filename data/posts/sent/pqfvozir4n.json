@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/pqfvozir4n",
+  "title": "【2023.10.17案例拆解】textrapp.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pqfvozir4n_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>#WebAssembly 这个技术挺牛的，让很多代码可以运行在浏览器里，如可以让 wordpress 运行在浏览器里，不需要后端服务器。 figma 也是依赖这个技术。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pqfvozir4n_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>textrapp.com 月访问量69万，提供虚拟电话卡服务，但是通过对很多关键词优化，得到了一些免费流量。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pqfvozir4n_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我们的业务也是一样的，可以找找我们产品的潜在用户可能是什么人群，他们可能还需要哪些服务，然后去吸引流量。</div>\n<div>也就是做网站，不一定只做我们自己有的业务介绍网站，还可以是我们没有的，但可以给我们带来潜在客户的功能。</div>\n<div>纯用GPT4生成页面，自己不做任何代码细节上的修改，要改也让GPT4去改，最终生成了一个前端页面。</div>",
+  "publishDate": "2025-11-26 18:20",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pqfvozir4n_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:14:37.144Z"
+}

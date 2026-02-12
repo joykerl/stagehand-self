@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/0vi8agljw2",
+  "title": "【2024.9.5案例拆解】https://companieslogo.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>大家下午好，今天#哥飞小课堂 给大家分享一家年收入4000万美金的小网站，就上面这个截图，任谁也看不出来他一年能赚这么多是吧。 <a href=\"https://companieslogo.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://companieslogo.com/</a> 大家可以先打开这个网站看看，研究一下，他到底怎么赚钱的。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>先说下收入数据来源，是LinkCloud的JK老师在8.24的北京线下分享时提到的数据。 我刚才算了一下，假如按照大家都购买199美元的套餐计算，并且每一位客户都会购买12个月，那么需要16750个客户，才能达到4000万美元的年收入。 我刚才在谷歌搜索了一下，没有找到4000万收入的信源，所以又去问了JK老师，等他回复中。</div>\n<div>我们先忽略具体的收入数据，先分析一下网站流量数据，以及卖点是什么，什么客户会愿意购买。 说这个网站之前，得先说这家公司的另一个网站 CompaniesMarketCap.com。</div>\n<div>的确</div>\n<div>CompaniesMarketCap.com 的年访问量是3360万，7月访问量366万。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>主要流量来自于自然搜索，占比60%。 用户主要搜索某某公司市值时能够找到这个网站。 如搜索 nvidia market cap ，结果前面是谷歌直接给出的数据和相关新闻，这两部分之后，第一个网页就是 <a href=\"https://companiesmarketcap.com/nvidia/marketcap/\" target=\"_blank\" rel=\"noopener noreferrer\">https://companiesmarketcap.com/nvidia/marketcap/</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>在显示公司市值时，就需要用到相关公司的Logo。 而 CompaniesMarketCap.com 在网站底部说明了，Logo 来自于 CompaniesLogo.com 。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>而 CompaniesLogo.com 提供的主要服务，就是卖各大公司的高清 Logo API，注意，他不是提供 Logo 设计服务，仅仅是提供他们收集整理的 PNG 和 SVG 格式 Logo 文件。 通过 API 可以列表形式下载全部 Logo，也可以用公司域名或者股票代码搜索 Logo 。</div>\n<div>客户是谁呢？ 是那些各种券商或者一些机构。 他们会定期出各种研究报告，在报告里需要用到公司Logo，但是收集整理很麻烦，于是就去购买这个 Logo API 服务。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我们现在再回过头来看看这个网站的流量，会发现访问量特别小，最近12月总的访问量才118万，而7月访问量是8万多。</div>\n<div>具体的收入数据来源，我还在等JK老师的回复。 不过我们可以先大概估算一下，去重后的访客才不到5万，如果要积累下来一年1.67万个客户，那么转化率需要33%。 这个转化率太恐怖了，不太可能达到的数字。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>忽略收入数据，这个网站对我们有什么启发呢？ 他的卖点其实是方便快捷的API，帮助那些不想浪费时间的人节省时间，顺便赚他们的钱。 那么还有其他什么服务，也是能够帮助别人节省时间的呢？ 我们去收集整理这些资料，然后一份资料卖给多个人。 举例来说，卖 Leads 就是这样的服务，你到处收集整理的邮箱等联系方式，就会有人想要来购买。 广州的探迹 tungee.com 就是这么一家卖外贸线索起家的公司，不过现在他们不仅仅只卖线索了，已经是一家 SaaS 公司了。</div>\n<div>关于今天分享的 companieslogo.com 年收入4000万美金的数据，跟 JK 核对了一下，来自于他在纽约的投资人朋友说的。 这个网站卖的是API，所以用户量不太容易在Similarweb上体现出来。 不过，即使这个金额打个超级大折扣，一年40万美金，也很多了。 卖水这件事情，还是很值得做的。</div>",
+  "publishDate": "2025-11-03 16:12",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0vi8agljw2_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:14:52.688Z"
+}

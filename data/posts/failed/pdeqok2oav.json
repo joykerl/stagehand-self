@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/pdeqok2oav",
+  "title": "【2023.11.29案例拆解】gptzero.me",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>gptzero.me 到底是怎么做到的，持续增长？\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>对呀，怎么又拿出来了\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>主要流量来源渠道是自然搜索，占比63%。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这么大的需求，我们能不能做点什么呢？\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>zerogpt.cc 都46万了</div>\n<div>找到接口了朋友们，可以上站了。 <a href=\"https://replicate.com/hieunc229/detect-ai-content\" target=\"_blank\" rel=\"noopener noreferrer\">https://replicate.com/hieunc229/detect-ai-content</a></div>\n<div>一次检测在5厘钱左右，很便宜。 先别管准不准，至少能检测了不是吗，赶紧上站。</div>\n<div>最简单的，你网页里做一个多行文本输入框，让用户粘贴待检查的内容，点击按钮后，跳转到一个等待检查结果的页面，同时后端调用 Replicate 接口，获取检查结果，最后等结果出来了，又跳转到一个新页面显示结果。 这样一个用户至少给你产生3个PV，一个PV假设平均产生2个广告显示，那么166个访客，就有1个ECPM，广告费大约3美元。 而166次检测，费用不到1人民币。</div>",
+  "publishDate": "2025-11-21 11:47",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pdeqok2oav_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:55:32.986Z"
+}

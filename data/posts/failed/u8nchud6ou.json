@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/u8nchud6ou",
+  "title": "【2023.12.26案例拆解】cocrea.world",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u8nchud6ou_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>这个游戏，其实是11月9日首发到 cocrea.world 的，作者还开源到了 Github ，也有一个 Github Pages 版本可以玩。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u8nchud6ou_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>cocrea.world 这个网站我们之前介绍过，用户可以把在 scratch.mit.edu 开发好的游戏，上传到 cocrea.world 发布。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u8nchud6ou_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个游戏，去看 html 代码就知道，依然还是在 scratch.mit.edu 开发好，然后用 packager.turbowarp.org 打包出来变成了 html 游戏代码。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u8nchud6ou_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>「哥飞：[该消息类型暂不能展示]」 - - - - - - - - - - - - - - - 现在回过头来看9月23日的这个分享，其实我暗示得已经很明显了，甚至直接给出答案了。</div>\n<div>昨天$55K 的所有秘密，都藏在了9月23日的分享里。</div>\n<div>有时候，我在做什么事情，我当时不一定会明示，但是大概率，基础方法，会当时就告诉大家。 这就要求大家，不要错过群里的分享，每一条分享，我都不是乱发的，一定是有原因的。</div>\n<div>好了，现在总结一下，怎么找到早上说的关键词的： 1、你可以在 scratch.mit.edu 这个源头去看最新发布的游戏； 2、你可以去 cocrea.world 看用户发布的最新游戏； 3、你可以去 Github 看最新发布的开源游戏； 4、你还可以关注一大波游戏网站，关注他们最新发布的游戏。</div>\n<div>找到游戏了，就去看这个游戏是否允许我们自己拿来使用，如果可以的话，就可以做个网站，然后等待游戏火起来，你就有流量了。</div>",
+  "publishDate": "2025-11-19 18:23",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u8nchud6ou_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u8nchud6ou_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/u8nchud6ou_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:06:41.313Z"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/y502dgnffh",
+  "title": "Bing SEO 和 Webmaster 常见问题和解决方法",
+  "author": "蓝星空",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/y502dgnffh_avatar.jpg",
+  "tags": [
+    "Bing",
+    "SEO"
+  ],
+  "content": "<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">一、 被 Bing K 站了，或一直没有被收录怎么办？</h2>\n<div>提交申诉：<a href=\"https://www.bing.com/webmasters/support\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.bing.com/webmasters/support</a></div>\n<div>申诉方法可以参考这个帖子：\n<a href=\"https://new.web.cafe/topic/kdalklfk7v\" target=\"_blank\" rel=\"noopener noreferrer\">被 Bing K 站了怎么办？（历时整整2个月的完整解决过程） </a></div>\n<div>另外，如果你的网站确实没什么问题的话，第一次申诉失败了，可以过几天再重新提交申诉。</div>\n<div>如果你实在搞不定的话，可以来找我帮忙看看。</div>\n<hr class=\"h-2 my-2\">\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">二、 怎么提高 Bing 的收录速度和效果？</h2>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">1. 去 Bing Webmaster 提交 sitemap；</h3>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">2. 使用 IndexNow 提交。</h3>\n<div>官方文档：<a href=\"https://www.bing.com/indexnow/getstarted\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.bing.com/indexnow/getstarted</a></div>\n<div>第一步：生成 API Key 并上传到网站根目录下；</div>\n<div>第二步：提交 URLs。</div>\n<div>我个人常用的方法是通过 API 直接提交向 IndexNow 提交 URLs ：</div>\n<div>方法A：自己拼接 curl 或在线生成 curl 命令后在本地电脑终端上运行。\n我为了自己使用方便，写了个在线生成 curl 命令的工具（纯前端，服务器不保存数据）：</div>\n<div><a href=\"https://www.lanxk.com/zh/tools/indexnow/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.lanxk.com/zh/tools/indexnow/</a></div>\n<div>方法B：使用浏览器插件直接提交。\n因为上面这个方法要先复制网址到输入框，生成 curl 命令再复制到本地执行又多了一步，所以我就写了个 浏览器插件（<a href=\"https://chromewebstore.google.com/detail/seo-tools-extension/mlgbighohapadnlachaacjecpipdbllg\" target=\"_blank\" rel=\"noopener noreferrer\">Chrome版</a> / <a href=\"https://microsoftedge.microsoft.com/addons/detail/seo-tools-extension/oapgionmbincanbflgmfplklaokedeid\" target=\"_blank\" rel=\"noopener noreferrer\">Edge 版</a>）来提高效率，这个插件可以直接在线自动导入 sitemap 里面的网址（可以通过关键词来筛选 URL），直接在线一键提交。</div>\n<div>另外也可以自己在网站程序里面写自动提交功能，或通过 CMS 系统的第三方插件来提交。</div>\n<div>Cloudflare 也有这个功能，但是我个人不推荐，效果很差。</div>\n<hr class=\"h-2 my-2\">\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">三、 Bing Webmaster 网站扫描给的配额太低怎么办？能通过申诉提高吗？</h2>\n<div>首先说答案：无法通过申诉提高。\n我有一个网站给的扫描配额只有 10个页面，已经申诉过两次了，每次回复都是说这是系统自动配置的，不能改。</div>\n<div>但是有另外一个方法可以试试：删除然后重新添加网站（我暂时还没有试过这个方法）。</div>\n<hr class=\"h-2 my-2\">\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">四、 提示：我们无法连接到此 URL的DNS(域名服务器)。如果你无法解决该问题，请咨询你的技术团队、网站托管商并联系必应网站管理员工具支持部门。</h2>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/y502dgnffh_img1.png\" alt=\"image.png\" loading=\"lazy\">\n我遇到的情况和解决过程：</div>\n<div>域名注册、解析并绑定服务器大概1、2个小时后去提交了 Bing，URL 检查返回了 DNS 问题（箭头1）\n点击“实时 URL”，这时候显示的测试页面是正常的，直接点击“请求编制索引”按钮（箭头2）\n中午1点再检查时显示“已成功编制索引”。</div>",
+  "publishDate": "2026-02-03 14:40",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/y502dgnffh_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:21:41.743Z"
+}

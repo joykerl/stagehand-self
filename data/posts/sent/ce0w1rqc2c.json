@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ce0w1rqc2c",
+  "title": "【2024.3.19案例拆解】https://sticker.show/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ce0w1rqc2c_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>按照我们之前讨论的工具站+用户生成内容模式，我给大家打了个样，做了个演示站给大家学习。 <a href=\"https://sticker.show/\" target=\"_blank\" rel=\"noopener noreferrer\">https://sticker.show/</a> 开发工作量是单人开发了2周，大概的SEO站内优化做了，还有些细节如结构化数据、社媒分享等还没处理。</div>\n<div>这个模式我们之前看到过挺多成功案例了，如 eightify.app 、glarity.app 等。 核心是提供一个工具给用户使用，在用户使用过程中，会产生很多内容，我们把内容丰富完善之后做成内页，给谷歌收录，从而从谷歌获取更多长尾流量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ce0w1rqc2c_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>所以，首页的布局，也是直接首屏就把核心工具给展示出来。 然后下方显示一些内容，以及内容列表的入口。 目的是让爬虫每次过来，都有新的内容可以爬，并且也有入口进去爬更多内容。</div>\n<div>所以就需要通过一些方法来让Sticker详情页内容更丰富。 相关Sticker就是其中一个办法。 后面还会用GPT对Sticker的提示词进行解释说明，进一步丰富文字内容。</div>\n<div>stickerbaker.com 已经做了一个贴纸站，还开源了，为什么我还搞一个 <a href=\"https://sticker.show/\" target=\"_blank\" rel=\"noopener noreferrer\">https://sticker.show/</a> ？ 因为要给大家演示如何做工具+内容站，只有自己做，才能按照自己想的方法去优化。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ce0w1rqc2c_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>跟大家分享一些细节，为什么要有 Discover 页面？ 为的是能够有一个地方把内容列出来，让爬虫能够爬到。 为什么要把内容数量显示出来？ 在网页里和 Title 里把数量显示出来，一是为了让爬虫每次过来都能够抓取到新标题，二是提升搜索结果里的点击率。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ce0w1rqc2c_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ce0w1rqc2c_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>又一个细节，对于这种内容列表页面，不同的页码的Title和Canonical 怎么写，看上面的示例就够了。 首页正常写，第2页开始，在Title里把页码体现出来。 同时 Canonical 按照正常写就行，第几页就是第几页。</div>\n<div>这里其实网页里也应该体现出第几页，暂时还没去做这个细节。</div>\n<div>Next.js 框架会预加载页面，你点到Discover会发现秒开，这个时候其实对于浏览器来说，URL没有变化，还是之前的页面。 而你看到的网址变了，是通过js动态设置的。 @blank 做的时候应该是没有去监测最新的url，所以还认为是上一个页面。 所以我的做法时，打开新页面之后，如果要看AITDK的数据，就刷新一下网页。</div>\n<div>提到 Pinterest ，就刚好插一句，其实 Pinterest 的用户上传的图片很少，绝大部分图片是采集的别的网站的图片。 靠着用户蚂蚁搬家式的采集全网的图片，Pinterest 建立起了一个强大的图片数据库，你几乎搜索任何关键词都能够找到相关图片。 Pinterest 还给图片分组、分类、打标签，生成很多关键词页面，去获取搜索流量。 从这个角度来看，Pinterest 也是一个搞SEO流量的垃圾站。</div>",
+  "publishDate": "2025-11-12 10:44",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ce0w1rqc2c_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ce0w1rqc2c_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ce0w1rqc2c_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ce0w1rqc2c_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:35:57.839Z"
+}

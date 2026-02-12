@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/bip1tw8hw9",
+  "title": "【2024.9.27案例拆解】https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bip1tw8hw9_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>分享一个项目，号称能够用AI帮你智能剪辑视频，把横屏长视频剪成竖屏短视频，当作新视频发到短视频平台赚钱。 开源地址：<a href=\"https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/SamurAIGPT/AI-Youtube-Shorts-Generator</a> 包含以下五大功能： Video Download: Given a YouTube URL, the tool downloads the video. 视频下载：基于 YouTube 网址，下载对应视频。 Transcription: Uses Whisper to transcribe the video. 转录：使用 Whisper 转录视频，把语音变成文字。 Highlight Extraction: Utilizes OpenAI's GPT-4 to identify the most engaging parts of the video. 高亮提取：利用 OpenAI 的 GPT-4 识别视频中最吸引人的精彩部分。 Speaker Detection: Detects speakers in the video. 说话人识别：检测视频中的说话者。 Vertical Cropping: Crops the highlighted sections vertically, making them perfect for shorts. 竖向裁剪：垂直裁剪精彩部分，使其完美适合短视频。</div>\n<div>这里有图文介绍，告诉你如何运行项目 <a href=\"https://medium.com/@anilmatcha/ai-youtube-shorts-generator-in-python-a-complete-tutorial-c3df6523b362\" target=\"_blank\" rel=\"noopener noreferrer\">https://medium.com/@anilmatcha/ai-youtube-shorts-generator-in-python-a-complete-tutorial-c3df6523b362</a></div>\n<div>这个人还有其他几个项目，看了下，开源目的是为了宣传他自己网站 vadoo.tv 。 Text to Video AI <a href=\"https://github.com/SamurAIGPT/Text-To-Video-AI\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/SamurAIGPT/Text-To-Video-AI</a> Faceless Video Generator <a href=\"https://github.com/SamurAIGPT/Faceless-Video-Generator\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/SamurAIGPT/Faceless-Video-Generator</a> AI B-roll generator <a href=\"https://github.com/Anil-matcha/AI-B-roll\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/Anil-matcha/AI-B-roll</a> No-code AI Youtube Shorts Generator <a href=\"https://www.vadoo.tv/clip-youtube-video\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.vadoo.tv/clip-youtube-video</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bip1tw8hw9_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个站有2K网站外链，感觉可以分析一下这些外链都是什么网站，我们是否也能拿到这些外链。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bip1tw8hw9_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-03 10:46",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bip1tw8hw9_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bip1tw8hw9_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:19:05.406Z"
+}

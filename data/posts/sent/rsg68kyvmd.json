@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/rsg68kyvmd",
+  "title": "【2024.3.3案例拆解】Easy Scraper",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rsg68kyvmd_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>Easy Scraper：一个在Chrome扩展，只需点击一下即可抓取任何网站的内容 支持导出CSV或JSON格式可以直接丢到ChatGPT里面进行简单分析，也可以作为GPTs的知识库。 这个工具目前完全免费，原因是开发者将在整个三月份参加沉默冥想闭关，没有时间添加付费计划。😋 主要功能： 1、抓取列表：能够通过一次点击抓取任何网站上的列表。 抓取详细页面：在提取URL列表后，可以抓取每个URL并从每个页面提取数据。 2、易于使用：用户只需导航到所需的网页，点击扩展图标，即可看到数据被神奇地组织起来并准备好使用。 3、即时导出：方便地将抓取的数据保存为CSV或JSON格式，便于与项目或数据库轻松集成。 4、动态内容处理：巧妙管理JavaScript渲染的内容，确保从最复杂的站点捕获数据。 5、隐私聚焦：在浏览器本地操作，确保数据的私密性和安全性，不通过网络发送。 如何使用： 1、从Chrome Web Store一键安装扩展。 2、导航至希望抓取数据的网站。 3、点击扩展图标激活抓取器。 4、如果需要，可自定义抓取，调整列表和抓取速度。 5、选择所需格式导出数据即完成。 网址：<a href=\"https://easyscraper.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://easyscraper.com</a></div>",
+  "publishDate": "2025-11-12 18:48",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:29:04.402Z"
+}

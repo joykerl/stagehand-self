@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/wupfwixmmv",
+  "title": "【2023.11.29案例拆解】tkgames",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wupfwixmmv_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>开源在线图片编辑器，仿 PS <a href=\"https://github.com/viliusle/miniPaint\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/viliusle/miniPaint</a></div>\n<div>大家看下下面两个网址的区别，第一个是原网址，第二个加了个网址加了个锚点 <a href=\"https://tkgames.jp/holo_watermelon.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://tkgames.jp/holo_watermelon.html</a> <a href=\"https://tkgames.jp/holo_watermelon.html#google_vignette\" target=\"_blank\" rel=\"noopener noreferrer\">https://tkgames.jp/holo_watermelon.html#google_vignette</a> 如果同时在浏览器里打开，第一个网址一会儿之后，会有一个全屏弹窗广告，第二个不会有弹窗广告。 基于这个原理，是否可以做一个简单的浏览器插件，实现屏蔽弹窗广告。 另外，这里深究一下，还可以做激励广告，看了广告之后才能使用自己产品。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wupfwixmmv_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>跟时间做朋友，也包括随着时间的推移，如果你的产品真的能够解决一些需求，就会有用户的自发推荐，就会得到更多外链，从而提升网站在谷歌的排名。</div>",
+  "publishDate": "2025-11-21 11:47",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/wupfwixmmv_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:55:23.282Z"
+}

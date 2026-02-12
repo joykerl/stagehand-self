@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/o469dc34t6",
+  "title": "【2024.9.6案例拆解】livearchives.tv",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>下午好，我们来看个案例网站，域名是 livearchives.tv ，但主要做的是 Live video recorder for TikTok ，也就是 TikTok 直播云端录制服务。 这个网站很聪明，没有在域名里使用 TikTok 这个关键词，但是因为他整个网站主要就是做 TikTok 的直播视频录制服务的，所以依然拿到了谷歌搜索前几名的位置。 哥飞注意到这个网站，是因为 livearchives.tv 进入了 Stripe 支付入站流量排行榜的前100。 7月，这个网站带去的支付流量是 7.8K，8月就变成 29.4K了，目前在入站流量排行榜第 56 名。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>对于 Stripe 入站排行榜的作用，大家可以回顾一下上面这个群聊记录。</div>\n<div>这个网站90%流量来自于美国，这是很牛的。 16.85%流量来自于自然搜索，10.41%流量来自于社交平台，70%来自于直接访问，说明用户留存做得很好。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>社交媒体中，Reddit 来的比例最多。 在谷歌使用高级搜索 site:reddit.com \"livearchives.tv\" 可以找到几条记录，不过我点进去，好像都被删除了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>29.4K订单，按照10%成功付款计算，按照大家都买20美元套餐估算，这个网站月收入是5.88万美元。 实际收入我估计会更高。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>那就没啥可玩的了</div>",
+  "publishDate": "2025-11-03 15:56",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o469dc34t6_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:15:10.606Z"
+}

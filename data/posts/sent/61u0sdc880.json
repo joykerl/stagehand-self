@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/61u0sdc880",
+  "title": "【2024.12.30案例拆解】 https://co.dev/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/61u0sdc880_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>测试了一上午 <a href=\"https://co.dev/\" target=\"_blank\" rel=\"noopener noreferrer\">https://co.dev/</a> ，发现有点像 Devin ，会给你分析需求，按照步骤去做事情，会校验代码。 但是AI能力不足问题，依然还在，总之，很难一次性把需求完美实现。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/61u0sdc880_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>交互上也有一些问题，会问我要文件，这很好。 但是没有我第二个选项，举例我本来想让他用代码生成声音，然后就卡在这个界面了，一直等待我提交URL。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/61u0sdc880_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/61u0sdc880_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>订阅要49美金一个月，是Devin的十分之一。 不过我目前测试，不付费也还可以使用。</div>\n<div>不是超级大站，不建议子域名</div>",
+  "publishDate": "2025-10-28 12:00",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/61u0sdc880_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/61u0sdc880_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/61u0sdc880_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:38:56.302Z"
+}

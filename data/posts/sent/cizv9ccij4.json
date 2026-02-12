@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/cizv9ccij4",
+  "title": "【2024.10.18案例拆解】https://byword.ai/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/cizv9ccij4_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/cizv9ccij4_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>分享这个网站里一个能够提升注册率的小细节，访客在输入框输入关键词点击生成按钮后，跳转到了登录注册界面，在这个界面下有个 loading 动画提示用户内容正在生成中，这样用户就有了期待，我注册好了之后就能看。 也就是上一个动作，在下一个界面有了明确的正反馈。 <a href=\"https://byword.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">https://byword.ai/</a></div>\n<div>这个交互有几种不同的做法，其中效果最差的做法是偷懒的做法，用户辛辛苦苦输入的内容，点击提交按钮后，跳转到了登录注册界面，登录后回来，表单被清空了，用户需要重新输入一遍。 更好一点的做法是登录后回到表单界面，从cookie中把用户输入的内容回复了，用户不需要再次输入，直接点击提交按钮就可以。 再进一步的做法是用户登录注册后自动帮用户提交表单，然后跳转到提交后的界面，有可能是等待结果生成的页面。 再进一步的做法是上面这个网站一样的，在登录注册界面直接提示用户正在生成中，勾起用户好奇心，让用户完成登录注册操作。</div>",
+  "publishDate": "2025-10-31 14:52",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/cizv9ccij4_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:22:17.762Z"
+}

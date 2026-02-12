@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/0ztjrsbt04",
+  "title": "【2025.10.16案例拆解】 github-wiki-see.page",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0ztjrsbt04_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0ztjrsbt04_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个把 Github 仓库里的 Markdown 文件转成网页显示的服务 github-wiki-see.page 月访问量也有十几万，主要流量来自于搜索。 相当于把之前被藏在仓库里的各种文件展示出来，使得有被搜索引擎发现，抓取，收录的机会，从而就拿到了搜索流量。</div>",
+  "publishDate": "2025-12-01 19:32",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0ztjrsbt04_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:52:13.113Z"
+}

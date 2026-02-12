@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ipmq1il8wl",
+  "title": "【2024.4.285案例拆解】 https://cheatsheets.zip/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ipmq1il8wl_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ipmq1il8wl_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我们之前介绍过的开源 cheat sheet 也是他做的。 最近又搞了一个 App <a href=\"https://wangchujiang.com/devtutor/README.zh.html\" target=\"_blank\" rel=\"noopener noreferrer\">https://wangchujiang.com/devtutor/README.zh.html</a></div>\n<div>他们最近注册了一个新域名 <a href=\"https://cheatsheets.zip/\" target=\"_blank\" rel=\"noopener noreferrer\">https://cheatsheets.zip/</a> ，估计是为了完美契合关键词。</div>\n<div>这个之前聊过的 cheat sheet 类网站，月访问量27万。 <a href=\"https://quickref.me/\" target=\"_blank\" rel=\"noopener noreferrer\">https://quickref.me/</a> 代码开源的 <a href=\"https://github.com/Fechin/reference\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/Fechin/reference</a> ，有很多分站，所以流量被分走了。 可以用他的代码，做AI相关的网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ipmq1il8wl_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-10 14:21",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ipmq1il8wl_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ipmq1il8wl_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:48:38.703Z"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/3qqrxmxy1z",
+  "title": "【2024.2.5案例拆解】https://ai-sfc.yunyoujun.cn",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>云空调作者又搞了个小产品，AI生成春联 <a href=\"https://ai-sfc.yunyoujun.cn\" target=\"_blank\" rel=\"noopener noreferrer\">https://ai-sfc.yunyoujun.cn</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我改了一个字，这幅对联还行</div>\n<div>是开源的，可以拿来改个GPT版本，再改下平仄</div>\n<div>别讨论了，干</div>\n<div>找免费的字体就行</div>\n<div>有几个可以改进的地方： 1、文字最好可以修改，让懂对联的人在AI生成基础上小改； 2、对于明显字数不一样的丢弃，重新生成； 3、允许长按保存图片； 4、允许上传背景图。</div>\n<div>第一点，我刚才想改，改不了，只能p图</div>\n<div>能够满足仄起平落就足够用了</div>\n<div>更多的要求是上下联对应位置平仄要对应，具体可以查一下</div>\n<div>不一定能理解，但可以抽奖</div>\n<div>3.5成本这么低，完全可以多抽几次</div>\n<div>小号听不见</div>\n<div>对，他的最有名产品是白描</div>\n<div>小写</div>\n<div>仄起平落 规则加上\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>字数不一样的需要丢弃\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>怪我，我讲得太碎了，更系统的需要大家自学</div>\n<div>关于sitemap，千万记住别贪心。一定要循序渐进，谷歌吃多少，你喂多少，否则域名会被谷歌废掉。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>有传播性</div>\n<div>还可以配图</div>\n<div>竞对研究</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个只有一千多万结果\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我的理解是，网页供应量少就容易触发谷歌这个bug。 是的，我觉得是bug，因为明显第二个结果关键词跟搜索词是没有匹配上的，正常情况下不应该召回这个结果的，但却召回了。</div>\n<div>搜索“美女 预约”试试，全屏都是这种结果</div>\n<div>所以“美国”、“预售”这里应该是拆字了，匹配上了“美女”的“美”，“预约”的“预”</div>\n<div>出上联对下联，前几年就有火过的模型。 但是理解需求，自动生成对联的，好像没看到。</div>\n<div>这个图床程序真不错，可以部署到 cf ，配置个自定义域名就可以使用了。 <a href=\"https://github.com/ifyour/cf-image-hosting\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/ifyour/cf-image-hosting</a> 我自己部署了一个自用的，最喜欢粘贴即上传功能，截图后不需要我先保存图片到本地就能上传到图床。</div>",
+  "publishDate": "2025-11-14 15:33",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3qqrxmxy1z_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:21:39.584Z"
+}

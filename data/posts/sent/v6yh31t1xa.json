@@ -1,0 +1,25 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/v6yh31t1xa",
+  "title": "【2024.11.26案例拆解】morsedecoder.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>morsedecoder.com 站长出昏招，把域名更换成了 morsecodetranslator.com 。 虽然把老域名301到了新域名，但是新域名在谷歌眼里就是一个新网站，权重、排名什么的都需要重新计算，于是短期内 morsecodetranslator.com 就拿不到好的排名。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>在Similarweb可以看到老域名的流量一直在下降。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>去年12月的各个关键词能够获取的流量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>再看今年10月的各个关键词能够获取的流量变化，明显比之前少了很多。</div>\n<div>如果有人告诉你，更换域名，只要做好301，就不会对排名有影响，那么对方一定是骗子，或者没有实际实践经验。</div>\n<div>有一种情况，不太会变化，那就是你的品牌词是独一无二的，没人跟你抢时，你的新站和老站，都有相同的品牌词，那么不会有太大的损失。 但一旦有人跟你抢某个词的排名，你换域名了，就不太能保住位置了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个站长的新站 morsecodetranslator.com 域名其实是2004年注册的，但最近才启用。 对于一个新站，9月有51K，10月有390K访问量，其实还是不错的，肯定是有老域名的功劳的。</div>\n<div>这两个词，本来是那个老站长的，现在已经被群友@奥赛 的网站抢了。 所以，做网站，你一旦犯错，就会被人趁虚而入，你想要再抢回之前的位置，就没有那么容易了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img8.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>而群友的网站为什么能够抢走对方的位置？ 因为已经提前几个月做好了“准备”工作。 如同他不是在之前听了小课堂的分享后就去做了这样的网站，也不可能等到几个月之后的机会。 当然我们不是说，一定要等什么机会，因为这样的机会出现概率很小。 但网络世界，变数太多，我们做好我们的，就足够拿到一些访问量了。 我们群里很多人的案例都说明了，老词，花几个月的时间去做，也是可以拿到排名和访问量的。</div>\n<div>给大家看另一个老词的竞争对手占有份额变化曲线，红色箭头指向的那个网站，是群友做的，硬生生从零开始，挖下来了一块不错的蛋糕。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img9.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>如果整体蛋糕没有变大的话，你抢多了，一定是别人少了。 而别人少了，并不一定是对方做了什么错误的操作（举例并没有换域名），可能只是因为你变强了，顺便就把对方给比下去了。 这就是小排老师说的软柿子理论，找到那些可以捏的软柿子，捏爆他。</div>\n<div>好了，今天的哥飞小课堂就到这里了。</div>\n<div>再给大家看一个老词，这个词的蛋糕是在不断变大的。 水涨船高，即使你的排名没有太大的变化，流量也能增多。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img10.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>关于今天下午提到的KGR，感兴趣的朋友可以写一个浏览器插件来实现计算任意关键词的KGR。 需要两个值，一个是搜索量，可以通过谷歌趋势或者别的什么接口来实现获取，一个是allintitle的网页数量，可以直接打开谷歌搜索来获取。</div>\n<div>还有个办法，让用户上传关键词列表，一列关键词，一列搜索量，然后你的插件针对每一个关键词，打开谷歌搜索获取allintitle的网页数量，就可以计算出KGR来。</div>",
+  "publishDate": "2025-10-29 15:55",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img7.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img8.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img9.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v6yh31t1xa_img10.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:29:30.736Z"
+}

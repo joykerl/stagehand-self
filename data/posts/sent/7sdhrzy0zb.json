@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/7sdhrzy0zb",
+  "title": "【2024.1.25案例拆解】https://cssarrowplease.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7sdhrzy0zb_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>又一个在线小工具，帮你生成箭头 css 代码。 这个访问量就不大了，每个月小于5000。 开源代码：<a href=\"https://github.com/hojberg/cssarrowplease\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/hojberg/cssarrowplease</a> 工具站点：<a href=\"https://cssarrowplease.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://cssarrowplease.com/</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7sdhrzy0zb_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>感觉今天是前端专场了，又发现一个开源 Tailwind UI 组件网站。 开源代码：<a href=\"https://github.com/markmead/hyperui\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/markmead/hyperui</a> 演示网站：<a href=\"https://www.hyperui.dev/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.hyperui.dev/</a> 这个特点是，每一个组件都有多种不同的样式，每一种都支持在不同的宽度下看效果变化。 也是可以一键复制代码，拿来就用。</div>\n<div>牛逼，超级大词了</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7sdhrzy0zb_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-17 15:43",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7sdhrzy0zb_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7sdhrzy0zb_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:17:53.924Z"
+}

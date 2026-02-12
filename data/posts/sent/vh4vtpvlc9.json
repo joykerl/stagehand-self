@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/vh4vtpvlc9",
+  "title": "【2024.8.26案例拆解】custom-progressbar.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vh4vtpvlc9_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>这个插件也挺有趣的，只干一件事情，帮你修改 Youtube 看视频时的进度条样式，使进度条看起来更好玩。 <a href=\"https://chromewebstore.google.com/detail/custom-progress-bar-for-y/nbkomboflhdlliegkaiepilnfmophgfg\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/custom-progress-bar-for-y/nbkomboflhdlliegkaiepilnfmophgfg</a> 配套的官网 custom-progressbar.com 一年也有四百多万的访问量。 同样在官网把每一种进度条样式都做了展示。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vh4vtpvlc9_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>大家发现没有，虽然这两个插件本身都是免费使用的，但是配套的官网都放了谷歌广告。 在官网里引导用户安装浏览器插件，在插件里引导用户打开官网查看更多的光标。 从搜索引擎获取全新的访客，沉淀到插件。 插件又给官网引流，之后在官网靠广告变现。 分析到这里，是不是盈利模式就很明确了。</div>\n<div>这个方式真的很自然，用户的所有操作都发生在浏览器里，在插件和网站之间互相跳转几乎没有任何成本。 我们做网站，最担心的就是用户留存问题，而浏览器插件就帮助你解决了留存问题。 可以思考一下，还有哪些需求可以用这个模式来做。</div>\n<div>这有一个模仿的，去年10月才开始做的，现在也有10万的周活了，官网月访问量七十多万。 <a href=\"https://chromewebstore.google.com/detail/cursor-trails-custom-curs/ilngnjopnchkedjkdjlalnlbfpkhmbie\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/cursor-trails-custom-curs/ilngnjopnchkedjkdjlalnlbfpkhmbie</a> <a href=\"https://custom-cursor-trails.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://custom-cursor-trails.com/</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vh4vtpvlc9_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-03 18:32",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vh4vtpvlc9_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vh4vtpvlc9_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:12:07.915Z"
+}

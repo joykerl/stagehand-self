@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/8httrrjnr5",
+  "title": "【2024.10.27案例拆解】 linkvertise.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8httrrjnr5_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>一个做付费链接墙的服务网站 linkvertise.com 月访问量 1571 万。 整个盈利模式是这样的，A 假如有一个文件，要放到网络上分享给大家，就可以用 linkvertise.com 的服务生成一个链接，所有想要下载这个文件的人，打开链接后，都需要看广告才能下载到文件。 linkvertise.com 把广告收入的一部分分给千千万万个 A 这样的创作者。</div>\n<div>对，文叔叔是小程序形式</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8httrrjnr5_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>Linkvertise 说分出去了2202 万美金给创作者了，不知道这个数据的真假。</div>\n<div>不过这种平台，最赚钱的方式，其实是扣量。 有 Linkvertise 用户抱怨账号被封和提现困难。 最近不少人在给 PPLX 的浏览器做推广，等到提现时，大家可以看看，PPLX 是否会扣量。</div>\n<div>呼应今天上午我的分享，这个词点击成本比较低，尽管转化也低，3600 个点击才带来了一个订阅付费，但用户一付就付了 100 刀，刚好广告就回本了。 因为谷歌归因处理数据还需要时间，所以在谷歌广告后台暂时没看到数据，但在后台已经可以看到了，是来自于这条计划的。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8httrrjnr5_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8httrrjnr5_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-10-30 17:06",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8httrrjnr5_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8httrrjnr5_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8httrrjnr5_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:24:09.923Z"
+}

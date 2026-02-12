@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/rdjv4rt4g6",
+  "title": "用 AI 写前端代码时，如何让界面更美观",
+  "author": "yzh",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rdjv4rt4g6_avatar.jpg",
+  "tags": [],
+  "content": "<div>在用 AI 辅助写代码的过程中，我经常遇到一个问题：AI 生成的前端代码界面很丑。每次看到这些巨丑的页面，我都很难忍心把它们直接发给用户使用。为了解决这个困扰，我在社群里向一些大佬请教，他们给了我不少实用的建议。这里整理一下，希望能帮到有同样困惑的朋友。如果你有更好的解决方案，也欢迎在评论区分享，为后来的群友提供更多资源和教程。</div>\n<div>常见的三种解决方案</div>\n<ol>\n<li>\n<div>复刻优秀网站界面<br>\n可以直接在网上找到好看的网站，截图后让 Gemini 进行复刻。这样可以快速获得美观的界面设计，避免从零开始设计带来的不确定性。</div>\n</li>\n<li>\n<div>使用 shadcn UI 并统一样式<br>\n用 shadcn UI 构建网站时，可以让 AI 在每个组件中都引用 theme.css 里的样式。如果某个组件的 UI 不太对劲，可以让 Gemini 在不改变业务逻辑的前提下重构 UI，这样能保证整体风格的一致性。此外，还可以用 Shadowing CN 的 MCP 服务器来开发，进一步提升开发体验。</div>\n</li>\n<li>\n<div>利用 vercel 免费模板<br>\n其实没必要花钱买 SASS 模板，可以直接在 vercel 上找一个合适的模板使用。\n我猜测 vercel 上的模板因为用户多、社区强大，优化和使用体验会比付费模板更好。（因为我自己用付费模版的体验很一般）\n用模板不仅能节省开发时间，还能节省 Token。</div>\n</li>\n</ol>\n<div>如果你有其他更好的解决方案，欢迎在评论区留言分享。</div>\n<div>备注：这个帖子用ai辅助写的，所以可能会ai味重一点。</div>",
+  "publishDate": "2025-12-01 20:05",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:52:00.675Z"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/xytbdwnlvv",
+  "title": "2个改动，adsense收入增长0.5-1倍",
+  "author": "风先生",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/xytbdwnlvv_avatar.jpg",
+  "tags": [
+    "Adense",
+    "经验"
+  ],
+  "content": "<div>上线的网站要多看看，用一个nextjs模板上了好几个项目，突然发现会出现2种情况：</div>\n<ol>\n<li>从a页面跳到b页面，b页面的adsense 广告有时候不会更新</li>\n<li>打开一个页面，看到广告加载出来了，然后页面完全加载完成后广告又突然全部消失！（偶现，分析可能是哪个react的全局渲染把相关dom都干掉了）</li>\n</ol>\n<div>对应做了2个修改：</div>\n<ol>\n<li>把所有next link变成a标签。（会损失一些性能）</li>\n<li>把原来加载广告的script标签换成next script，并加上strategy=\"afterInteractive\"</li>\n</ol>\n<div>今天起来看效果，adsense 早上10点钟的收入等于昨天全天的收入，估计今天收入会是昨天的1.5-2倍。   感觉不小心亏了一大波。</div>\n<div>欢迎大家交流提高adsense收入的技巧。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/xytbdwnlvv_img1.png\" alt=\"WX20251119-101517.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-19 10:16",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/xytbdwnlvv_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:11:13.986Z"
+}

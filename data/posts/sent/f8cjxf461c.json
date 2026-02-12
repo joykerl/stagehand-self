@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/f8cjxf461c",
+  "title": "【2024.2.22案例拆解】https://www.3dgifmaker.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f8cjxf461c_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f8cjxf461c_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>一个纯前端工具站，满足特别小众的一个需求，基于图片生成 3D 旋转 Gif 图，月访问量36万。 <a href=\"https://www.3dgifmaker.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.3dgifmaker.com/</a>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f8cjxf461c_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f8cjxf461c_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>看流量曲线很有意思，之前都不到20万的，23年12月直接就流量翻倍了，24年1月流量略有下降，但也比之前多。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f8cjxf461c_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>23年11月，自然搜索流量 62K 23年12月，自然搜索流量 134K 24年01月，自然搜索流量 124K</div>\n<div>所有没办法判断来源的流量都会被归类到直达，包括用户直接打开，从书签栏打开，在微信这种无法跟踪的地方打开，在设置了noreferrer 的外链打开。</div>",
+  "publishDate": "2025-11-13 16:11",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f8cjxf461c_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f8cjxf461c_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:26:18.451Z"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/foe281cex9",
+  "title": "【2023.12.28案例拆解】restorephoto.io",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这两个流量都下滑得厉害</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>刚好用这个数据与真实数据对比下。 真实数据是平均每天10K，28天应该是280K左右，而 Similarweb 估算的是550K。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-19 14:59",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/foe281cex9_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:07:56.962Z"
+}

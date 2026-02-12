@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/21etdoqyke",
+  "title": "【2024.8.27案例拆解】https://webptojpg.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/21etdoqyke_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>刚才大概整理了一下某个老外做的图片格式转换站群。 在表格可以看到，从2017年开始，这个老外就开始做这类网站了，一直到最新一个网站是上个月初，也就是他连续做了8年时间了。 不过从流量来看，效果并不好。 为什么呢？</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/21etdoqyke_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/21etdoqyke_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><a href=\"https://webptojpg.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://webptojpg.com/</a> 我们先打开他做的第一个网站看看，很典型的工具站落地页UI布局。 从上下，分别是Logo、大标题、描述、小导航、功能表单入口、使用步骤、求打分模块、文字介绍。</div>\n<div>如果打开打开他的所有网站都看一眼，就会发现，一套UI，他用了8年。 每一个网站只是改改文案，改改后端接口，几乎都差不多。 也做了多语言支持。</div>\n<div>看起来很勤奋，但哥飞觉得，他有点愚勤了，只是简单重复，没有分析数据，没有做好SEO，没有做好足够多的内页。</div>\n<div>其实如果去掉多语言这个因素，会发现他的网站都是单页面工具站。 我们先不说要多页面才能举全站之力优化了，即使是首页这个单页面，他的关键词也没有分布到位。 总之，看起来还有很多可以改进的空间，但是他都没有去改进，而是一套代码就一直用，用了八年。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/21etdoqyke_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-03 18:15",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/21etdoqyke_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/21etdoqyke_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/21etdoqyke_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:12:59.592Z"
+}

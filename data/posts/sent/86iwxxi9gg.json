@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/86iwxxi9gg",
+  "title": "【2024.3.8案例拆解】https://lingojam.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/86iwxxi9gg_avatar.jpg",
+  "tags": [],
+  "content": "<div>刚测试了一下，<a href=\"https://lingojam.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://lingojam.com/</a> 可以免登录做一个转换器，然后在简介里用 markdown 格式给自己产品加一个外链，不过是 nofollow 的。 最好是真的做一个可以使用的转换器，而不是随便乱填信息。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/86iwxxi9gg_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>上面是有一个做 emoji 的网站做的例子</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/86iwxxi9gg_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>perchance.org 应该是 lingojam.com 站长的另一个站。 perchance.org 我们之前介绍过，是一个能够让你创建任意随机生成器的在线工具，月访问量668万。</div>\n<div>他甚至与时俱进，做了一个文字生成图片的插件 <a href=\"https://perchance.org/text-to-image-plugin\" target=\"_blank\" rel=\"noopener noreferrer\">https://perchance.org/text-to-image-plugin</a> ，然后大家就可以基于这个插件自定义提示词制作任意生成器。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/86iwxxi9gg_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>还有 AI Text 插件，可以基于这个插件制作任意文本生成器 <a href=\"https://perchance.org/ai-text-plugin\" target=\"_blank\" rel=\"noopener noreferrer\">https://perchance.org/ai-text-plugin</a></div>",
+  "publishDate": "2025-11-12 15:56",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/86iwxxi9gg_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/86iwxxi9gg_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/86iwxxi9gg_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:32:32.846Z"
+}

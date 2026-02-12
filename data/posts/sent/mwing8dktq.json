@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/mwing8dktq",
+  "title": "【2024.7.24案例拆解】 checkout.stripe.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mwing8dktq_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mwing8dktq_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>之前分享过通过看 checkout.stripe.com 的入站流量来分析不同网站的收入情况。 今天#哥飞小课堂 ，快速分享一个找套壳网站的方法。 拿 hf.space 来举例，在 Similarweb 可以看到所有给 hf.space 导入流量的网站。 这些网站有一部分是直接给 hf.space 增加了外链，还有一部分是用 iframe 嵌入了 hf space 。 我们要做的就是从导入流量网站列表里找出用 iframe 嵌入的网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mwing8dktq_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>不仅可以直接查 hf.space 的，还可以查具体某一个 space 的，如 openai-openai-detector.hf.space 。</div>\n<div>举一反三，除了hf.space，还可以查什么呢？ 其实在我们的网站里引用别的网站的图片、视频等静态资源，也算是外链。 所以，一些热门AI产品的CDN域名，你也可以拿来查一查。 这个点到为止，大家自己去实践，听懂的掌声。 今天的哥飞小课堂讲完了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mwing8dktq_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>分享一个 Ahrefs 免登录可以使用的工具 关键词排名检查器 <a href=\"https://ahrefs.com/zh/keyword-rank-checker/\" target=\"_blank\" rel=\"noopener noreferrer\">https://ahrefs.com/zh/keyword-rank-checker/</a> 帮助你查看你的网站在某个关键词下不同国家的排名。</div>\n<div>相对路径的原因吧</div>",
+  "publishDate": "2025-11-05 14:28",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mwing8dktq_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mwing8dktq_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mwing8dktq_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:03:06.247Z"
+}

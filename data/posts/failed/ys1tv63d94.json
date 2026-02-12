@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ys1tv63d94",
+  "title": "解决谷歌 AdSense 中的无效流量问题（真实踩坑记录）",
+  "author": "owys",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_avatar.jpg",
+  "tags": [
+    "Adsense"
+  ],
+  "content": "<div>这篇文章主要是记录一下我自己这几个月被 Google AdSense「无效流量」 折腾的全过程，顺便给可能遇到同样问题的朋友一个参考。</div>\n<div>事情的开始：审核通过 + 流量突然暴涨</div>\n<div>网站在通过 AdSense 审核之后，一切其实都很正常。</div>\n<div>直到 10 月初，网站流量突然开始爆涨，确实是流量起飞了，当时还挺开心的。</div>\n<div>但好景不长。</div>\n<div>10月中旬：收到无效流量警告，广告收入直接归 0\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>并且AdSense 后台顶部出现了红色提示，自此就没再消失过\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img2.png\" alt=\"7d41c488435d0741dbffa6747dd5ba8a.png\" loading=\"lazy\"></div>\n<div>当时问了飞哥，以为就是流量爆涨导致的，就没再管。</div>\n<div>一周后收入恢复正常，但问题是：顶部那条红色“广告数量收到限制”提示条一直没消失</div>\n<div>而且从那之后，开始进入一个非常诡异的循环：</div>\n<div>每个月都会来一次\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>都是「因无效流量限制投放广告」，持续后两次每次都持续两周时间，然后恢复，但顶部的红色提示依然存在，说明不是流量涨幅问题。</div>\n<div>长时间的困惑：到底哪来的无效流量？这段时间我其实一直没搞清楚原因，流量来源看起来都很正常，没发现明显的刷量来源，GA / GSC 也看不出特别异常，AdSense 又不给具体原因，所以这件事一直是个 悬而未决的问题。</div>\n<div>转折点：受某次群里分享得到启发： 会不会是 AI 爬虫 / 非人类模拟行为？</div>\n<div>现在各种 AI 爬虫非常多，有些爬虫的行为已经很“像人”，会访问多页面都会触发广告请求</div>\n<div>于是我就去问了一下飞哥，得知确实有可能是cloudflare开了ai爬虫访问导致的无效流量过多，我直接去 Cloudflare 后台关闭几乎所有机器人 / 爬虫，在飞哥指导下把谷歌和 Bing 给放开，操作如下：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img4.png\" alt=\"image.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img5.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>大概过了几天，我再打开 AdSense，顶部那个存在了几个月的红色\"广告数量收到限制\"提示消失了\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img6.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>自此后台再没出现新的无效流量警告。</div>\n<div>一点个人判断（不一定 100% 正确）</div>\n<div>我不敢说 100% 就是 AI 爬虫导致的，但从时间线来看：</div>\n<div>无效流量出现，长期反复限制，关闭非必要机器人，问题消失，这个相关性非常高。</div>\n<div>给遇到同样问题的朋友一点建议</div>\n<div>如果你也遇到 AdSense 无效流量，广告被限制，红色提示条长期不消失，自认没刷、没买、没作弊，建议你检查一下：Cloudflare 的 Bot / AI crawler 策略，是否放行了太多“看起来像正常访问”的爬虫，是否真的有必要让它们抓你的网站，有时候问题不在内容、不在广告，而是在流量本身的“真实性”。</div>",
+  "publishDate": "2026-01-07 00:20",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ys1tv63d94_img6.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:36:50.085Z"
+}

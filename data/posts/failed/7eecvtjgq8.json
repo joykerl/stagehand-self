@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/7eecvtjgq8",
+  "title": "【2023.11.23案例拆解】runway.tv",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>Runway 做的24小时直播电视，完全由AI生成 <a href=\"https://www.runway.tv/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.runway.tv/</a></div>\n<div>基于这个思路，做一个网页，用AI生成永不重复的白噪声，再配合AI生成的图片，也会有人需要的。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>任何一个有流量的域名，都可以去看看到底是哪些页面在产生流量\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这么点UV，站长都赚钱了</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个2K的网站不知道是不是他前一个帖子提到的金融工具网站。</div>\n<div>有可能我理解错了，是总流量2K，不是每天2K。</div>\n<div>但就申请Adsense来说，的确是更看重内容，如果你只有一个页面，内容不多，比较难申请。</div>",
+  "publishDate": "2025-11-21 15:57",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7eecvtjgq8_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:54:13.717Z"
+}

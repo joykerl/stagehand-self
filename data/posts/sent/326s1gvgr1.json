@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/326s1gvgr1",
+  "title": "分享一个自己做的Ahrefs 外链数据提取Chrome 插件",
+  "author": "fiona",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/326s1gvgr1_avatar.jpg",
+  "tags": [
+    "外链"
+  ],
+  "content": "<div>使用方法：</div>\n<ol>\n<li>访问 Ahrefs Backlink Checker 页面</li>\n<li>输入要查询的域名</li>\n<li>等待页面加载完成</li>\n<li>点击插件图标查看提取的数据</li>\n<li>点击「复制到剪贴板」或「导出 CSV」</li>\n<li>粘贴到您的表格中，完成！</li>\n</ol>\n<div>• 📊 自动数据提取</div>\n<ul>\n<li>自动识别并提取页面中的 DR（Domain Rating）值</li>\n<li>提取 Referring Page URL 和链接文本</li>\n<li>智能识别页面查询域名，切换页面自动刷新数据</li>\n</ul>\n<div>• 🎯 智能 SEO 过滤</div>\n<ul>\n<li>自动排除包含 SEO 关键词的低质量链接</li>\n<li>可自定义过滤关键词列表</li>\n<li>默认过滤：seo、backlink、link building、ranking 等常见 SEO 词汇</li>\n</ul>\n<div>插件地址：\n<a href=\"https://chromewebstore.google.com/detail/eddmpgfdiclobkbeoapdckapilealfpf?utm_source=item-share-cb\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/eddmpgfdiclobkbeoapdckapilealfpf?utm_source=item-share-cb</a></div>",
+  "publishDate": "2026-01-23 12:04",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:24:44.098Z"
+}

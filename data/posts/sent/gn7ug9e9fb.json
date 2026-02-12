@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/gn7ug9e9fb",
+  "title": "【2024.1.8案例拆解】gemini-openai-proxy",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gn7ug9e9fb_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>这个项目可以把 Gemini 接口数据请求和返回格式转成 OpenAI 格式。 这样有些项目如果只支持 OpenAI 的，就可以填入你部署好的代理地址，就可以把 Gemini 当 GPT 用。 <a href=\"https://github.com/zhu327/gemini-openai-proxy\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/zhu327/gemini-openai-proxy</a></div>",
+  "publishDate": "2025-11-18 19:17",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:11:32.931Z"
+}

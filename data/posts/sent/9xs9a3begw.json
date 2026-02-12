@@ -1,0 +1,24 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/9xs9a3begw",
+  "title": "【2024.8.12案例拆解】yaytext.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>大家下午好，给大家分享个网站，yaytext.com 上线于2016年，目前月访问量270万。 功能很简单，用户输入一些字符后，给转成各种不同字体的字符。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>我甚至在 archive.org 找到了他2016年的那个版本，依然还能使用，说明这是一个纯前端工具。 不需要后端支持，那么维护成本就会特别特别低，即使不赚钱，也能够继续被站长一年又一年维持下去。 但其实这么大的流量，完全可以放点广告，赚钱的。</div>\n<div>来自于自然搜索的流量占50%，而直接打开的也有46%，说明留存还挺不错的。 用户拿这些字体最终是要用到社交媒体上去的，所以搜索关键词里会带上社交媒体名称。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个网站还做了多语言支持，我想，这也是他有270万月访问量的原因之一，吃到了全球各种语言的搜索量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>按照网址来看，很多流量都是来自于多语言页面。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个作者很勤奋，网站上线7年了，还在更新网站。</div>\n<div>养网站防老系列已经搬运到了 new.web.cafe 上了 <a href=\"https://new.web.cafe/tutorial/7PG1iQzr3sXx1tyKmf9ZYd\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/tutorial/7PG1iQzr3sXx1tyKmf9ZYd</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>cartoon filter 这类关键词，虽然每天搜索量可能只有一两百，但是因为很精准，所以这些图片工具类网站都会去做页面来覆盖这些小词。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img8.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img9.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-11-04 14:28",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img7.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img8.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9xs9a3begw_img9.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:09:33.008Z"
+}

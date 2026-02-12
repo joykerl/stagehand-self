@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/w58xkysjdi",
+  "title": "【2024.4.24案例拆解】TherapistAI.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w58xkysjdi_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w58xkysjdi_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>Levelsio 的项目 TherapistAI.com ，一个基于 TG bot 实现的在线AI心理治疗师，每月订阅费用9.9美元，改成 Llama 3 之后，效果很好了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w58xkysjdi_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w58xkysjdi_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>相同的内容，放在了两个域名，又是违反SEO规则的，但居然新域名也有这么多收录。</div>\n<div>对，新域名差外链</div>\n<div>新域名 aisong.ai 是4月17号切换上去的，到今天刚好一周，收录10万条，说明两点： 1、谷歌爬虫的确喜欢新鲜的内容； 2、只要做好内链，不用 Sitemap 强塞，谷歌也能收录很多。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w58xkysjdi_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>CF 的图片里开通Transformations</div>\n<div>而我这里的新鲜的内容，是用户提交的歌词，要么是用户自己写的，要么是用户让AI生成的，大多数是在别的地方没有出现过的。</div>\n<div>不过，虽然被收录了这么多页面，但这些歌词暂时都没人搜索，所以其实并没有带来搜索流量。 这就印证了前两天跟大家说的，做海量内页时，最好不要我有什么内容就去做什么，而应该是用户会搜索什么，我就去做什么。</div>",
+  "publishDate": "2025-11-10 15:36",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w58xkysjdi_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w58xkysjdi_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w58xkysjdi_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w58xkysjdi_img4.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:46:28.377Z"
+}

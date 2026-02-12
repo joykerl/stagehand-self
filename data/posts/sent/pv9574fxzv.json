@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/pv9574fxzv",
+  "title": "【2024.3.18案例拆解】 https://llm-price.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pv9574fxzv_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>大模型价格对比 <a href=\"https://llm-price.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://llm-price.com/</a> 上次有个GPU价格对比，这次又来个大模型价格对比</div>\n<div>作者说，整个网站完全由 Claude Sonnet 进行设计、开发，并持续更新，数据源还在持续添加中。 如何理解由 Claude 驱动呢？ 作者回答，网上有很多汇总价格的网站，但是数据更新是个问题，基本上都停留在很久以前了。 我尝试通过定时脚本，自动获取各大供应商的 Pricing 页面，然后由 Claude Sonnet 提取数据后更新，后续只需要不断添加 Pricing 页面的地址即可。 这样就做出来了一个完全由 LLM 驱动的 LLM 价格汇总网站。</div>\n<div>用爬虫抓取数据，用正则匹配获取格式化数据，现在有了大模型，也可以用大模型来提取数据。</div>",
+  "publishDate": "2025-11-12 10:57",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-12T11:35:23.425Z"
+}

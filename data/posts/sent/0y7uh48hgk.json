@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/0y7uh48hgk",
+  "title": "终于可以畅用Claude code+Claude网页聊天了！",
+  "author": "乐舒",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_avatar.jpg",
+  "tags": [],
+  "content": "<div>简述：用Antigravity Tools把Google Antigravity里的模型变成了API，用frp端口映射到服务器使API不受限于局域网，服务器部署LibreChat来拥有自己的AI聊天网页</div>\n<div>1、在闲鱼搞了4个谷歌会员账号\n（现在成品号有点贵，大概80块。把自己的谷歌账号给卖家认证大概20左右。当然也有很多圈友自己免费认证成功了很多个账号，但是不太想在这里花太多时间）</div>\n<div>2、使用Antigravity Tools把Google Antigravity里的模型变成了API\n就可以在Claude code里面调用api使用Claude opus 4.5，美滋滋哇（第一张图、第二张图）\nAntigravity Tools的github地址：<a href=\"https://github.com/lbjlaq/Antigravity-Manager\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/lbjlaq/Antigravity-Manager</a>\n【注意看一下日志，看看模型有没有映射到你预期的模型上面】</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img1.jpg\" alt=\"mmexport1767979853493.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img2.jpg\" alt=\"mmexport1767979855854.jpg\" loading=\"lazy\"></div>\n<div>3、使用frp把自己电脑的端口映射到服务器，就可以远程使用，或者部署网页\n（试过ssh反向代理，但是断连不会自动重连。如果有服务器的话，虚拟局域网也没多大必要，直接连就好了）</div>\n<div>4、使用LibreChat部署了AI聊天网页（第三张图）\nLibreChat的github地址：<a href=\"https://github.com/danny-avila/LibreChat\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/danny-avila/LibreChat</a>\ndocker部署非常方便，3分钟搞定\n【特别注意，如果用Claude模型的话，推荐直接改.env文件里的ANTHROPIC_API_KEY（密钥）、ANTHROPIC_REVERSE_PROXY（API地址），不推荐新建librechat.yaml】\n建议新建一个智能体，可以自定义系统提示词，自定义一下Claude opus 4.5的参数（第四张图），这样的参数我个人是觉得还可以的，就是不知道为什么改了top K、top P就发送不了消息了（如果有大佬给些配置建议就更好了）\n系统提示词是从Claude官网拿的：<a href=\"https://platform.claude.com/docs/en/release-notes/system-prompts\" target=\"_blank\" rel=\"noopener noreferrer\">https://platform.claude.com/docs/en/release-notes/system-prompts</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img3.jpg\" alt=\"mmexport1767979857913.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img4.jpg\" alt=\"mmexport1767979860329.jpg\" loading=\"lazy\"></div>\n<div>5、使用圈友的插件，打开3个AI聊天窗口，获得更全面的答案（第五张图）\n插件：​<a href=\"https://chromewebstore.google.com/detail/ask-every-ai/efjchkeamkbmfabhajlmkedgcneeoili?hl=zh-CN&amp;utm_source=ext_sidebar\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/ask-every-ai/efjchkeamkbmfabhajlmkedgcneeoili?hl=zh-CN&amp;utm_source=ext_sidebar</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img5.jpg\" alt=\"mmexport1767979862997.jpg\" loading=\"lazy\"></div>\n<div>6、顺便说一下，之前写了个小工具，可以快捷切换Claude code用的模型（不是在同一个会话切换，是新打开一个Claude Code窗口时切换（第六张图）感兴趣可以找我要\n解压之后，放到用户目录下，把claudex这个文件夹所在的路径放到环境变量里，修改文件夹里的claudex_config.ini文件，[]里面代表命令的参数\n执行claudex -[配置的参数]就可以切换了\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img6.jpg\" alt=\"mmexport1767979865706.jpg\" loading=\"lazy\"></div>",
+  "publishDate": "2026-01-10 16:16",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0y7uh48hgk_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T08:35:45.396Z"
+}

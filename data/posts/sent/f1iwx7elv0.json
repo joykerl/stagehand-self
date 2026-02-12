@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/f1iwx7elv0",
+  "title": "【2024.12.6案例拆解】imgur.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>我们之前教过的，看一个网站的导入流量来分析数据的方法，可以应用于各种网站。 如 imgur.com 是一个图床网站，很多人在 imgur 上传图片之后，拿到图片地址，发布到别的网站。 从导入流量排行榜，就能够看到，哪些网站用 imgur 的图片更多。 然后就发现第7名是 V2EX.com ，这是因为 V2EX 非会员无法上传图片，只能贴别的站的图片地址。 第一名是 Twitch TV，这个产品很有意思，是电竞、游戏直播平台，最早脱胎于2007年的YC夏季孵化，有一个团队分裂成了两个团队，其中一个人做了 Twich TV 。 第二名是 Steam ，这个网站居然也不支持上传图片。 第三名看起来是一个博客平台。 就这一个一个网站去分析，你就会有很多新发现。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>第5名的 nexusmods.com ，10月访问量5800多万，最近12个月访问量7.29亿。 这是一个游戏 mod 收录平台，收录了3260个游戏的639912个 mod 。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>40.76%流量来自于自然搜索，49.92%来自于直接打开，这两项加起来就是90%+的流量了。 这么多的流量来自于自然搜索，就可以去分析一下流量都来自于哪些关键词。</div>\n<div>大量流量来自于这样的关键词 xxx mods ，其中 xxx 是游戏名称。 这又是可以用来做海量页面的关键词类型。 你收录几千几万个游戏，就有了几千几万个 xxx mods 页面。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>哪天，哪个游戏火了，对应的 mods 相关搜索也会增长。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-10-29 14:31",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1iwx7elv0_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T12:32:05.140Z"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/7co00z1wex",
+  "title": "【2023.11.13案例拆解】eightify.app",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7co00z1wex_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>之前分享过的 eightify.app ，现在流量依然还在上涨。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7co00z1wex_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7co00z1wex_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>主要流量依然来自于搜索引擎。</div>\n<div>他的方法是为很多 youtube 视频生成总结，然后把每个视频的总结当作一个内页，用这些页面内容从搜索引擎获取流量。</div>\n<div>只要搜索引擎的排序算法依然还是以文字为基础，那么我们做SEO就不能忽视文字。 不管我们是做工具也好，做服务也好，都需要靠内容来告诉搜索引擎，我们是什么，我们能干什么，借此来吸引潜在用户。</div>\n<div>没关系的，只要不是国内服务器就行</div>\n<div>那肯定不是单页。 这个不用担心的，随便找个一年经验的后端开发都能做</div>\n<div>上全球CDN，哪里打开都快</div>\n<div>你用GPTs做视频总结吗？ 现在GPTs没办法变现，而且Plus用户也没想象中那么多，不建议去大投入，还不如做个网站。</div>",
+  "publishDate": "2025-11-24 18:04",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7co00z1wex_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7co00z1wex_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T10:47:19.563Z"
+}

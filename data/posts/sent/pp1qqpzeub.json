@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/pp1qqpzeub",
+  "title": "【2025.12.5案例拆解】skillsmp.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pp1qqpzeub_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pp1qqpzeub_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>来自群友阿强的好消息，他的网站 skillsmp.com 同时拿到了 Claude 和 Langchain 官方博客的 Dofollow 外链。 这种高质量外链，花钱都买不来的，只能靠网站做好了，被别人主动添加。 看看这个界面，整体颜色搭配 UI 啥的都很舒服，而且内容也多，更重要的是，内容质量被官方认可了，才会在博客里推荐。 很值得大家学习。</div>\n<div>怎么做好一个导航站，怎么从众多导航站里脱颖而出，这是需要投入心思才能做好的。</div>\n<div>还有个有意思的发现， Skill.md 这个域名会跳转到 <a href=\"https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.anthropic.com/engineering/equipping-agents-for-the-real-world-with-agent-skills</a> 说明这就是官方买的域名，是这篇比较长文章的专用短链。</div>\n<div>skillsmp.com 的 ui 有很多巧思，我以为是阿强自己一点一点抠细节抠出来了，问了一下才知道，居然是AI 生成的，以下是他的回答原文： 我先是用 claude 做了一个基础站， 后来官方出了一个 frontend-design skill <a href=\"https://www.claude.com/blog/improving-frontend-design-through-skills\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.claude.com/blog/improving-frontend-design-through-skills</a> （这里有关于这个 skill 的详细介绍） 我就用了一下，claude code 当时给了我几个风格， 我选择了代码风格，然后就给我改成了现在的这个样子 一开始我觉得虽然挺有特色，但是有点乱。 但转念一想，也许还能增加用户停留时长呢，就沿用了，哈哈哈 claude 的这个 skill 很强，推荐大家都用用。</div>",
+  "publishDate": "2025-12-09 15:07",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pp1qqpzeub_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T09:32:42.196Z"
+}
