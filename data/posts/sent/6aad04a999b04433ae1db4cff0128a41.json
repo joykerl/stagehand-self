@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/6aad04a999b04433ae1db4cff0128a41",
+  "title": "新版 Web.Cafe 上线了，欢迎大家来玩，在线的来报个道呗",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6aad04a999b04433ae1db4cff0128a41_avatar.jpg",
+  "tags": [
+    "社区治理"
+  ],
+  "content": "<div>大家好，我是哥飞。</div>\n<div>六月中旬开始断断续续基于 <a href=\"https://woy.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">Woy.ai</a> 的代码去继续开发，增加社区功能，终于在7月12日上线了一个版本，先把之前三次线下聚会的视频放出来给大家看。</div>\n<div>其他功能还在开发中，还可能有不完善的地方，还请大家见谅。</div>\n<div>我对整个社区的是这样规划的：</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">1、帖子</h2>\n<div>人人都能发帖回帖，通过标签来对帖子进行分类。\n可以是分享，可以是提问。</div>\n<div>帖子有标题有正文，在列表页只会显示标题，不会显示正文，所以标题需要能够概括主要内容。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">2、经验</h2>\n<div>定位是一条一个经验，短小精干，不水文字，只有干货。</div>\n<div>内容如域名注册经验、SEO多语言小经验、获取外链小经验等。</div>\n<div>暂时不开放发帖权限，而是由哥飞把之前分享在微信群里的各种经验搬运过来。</div>\n<div>在列表显示时，会把标题和内容直接显示，方便大家沉浸式刷经验列表。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">3、教程</h2>\n<div>比较系统的教程文章，暂时由哥飞发布。</div>\n<div>分为不同的主题，每一个主题七八篇或者十来篇文章讲清楚，方便大家学习。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">4、资源</h2>\n<div>其实就是导航，也就是 Woy.ai 目前的主功能。</div>\n<div>在这里会整理各种资源，分门别类列出来，大家按需取用。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">5、群聊</h2>\n<div>用于同步微信群的讨论信息，不过目前暂时还没有把功能搬过来，所以先跳转到老的群聊功能。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">6、我的帖子</h2>\n<div>顾名思义，这里都是当前登录用户发的帖子。</div>",
+  "publishDate": "2024-07-12 00:26",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:44:26.226Z"
+}

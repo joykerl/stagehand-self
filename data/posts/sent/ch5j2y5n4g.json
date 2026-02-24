@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ch5j2y5n4g",
+  "title": "Stripe在支付月订阅的时候，在checkout里可以直接显示年卡折扣并且一键切换购买",
+  "author": "Cy",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ch5j2y5n4g_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>在搞Stripe订阅功能开发的时候发现的功能，可能有一些群友还不知道。</div>\n<div>Stripe点开月卡checkout的时候，可以直接显示年卡折扣，增加年卡的曝光引导用户购买年卡。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ch5j2y5n4g_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>点击后直接在checkout里购买年卡。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ch5j2y5n4g_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>添加方法很简单，把月卡和年卡价格都加到一个product下面，然后到月卡price的详情页，Upsells里面选上年卡价格就可以了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ch5j2y5n4g_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>Stripe官方文档在这里：\n<a href=\"https://docs.stripe.com/payments/checkout/upsells\" target=\"_blank\" rel=\"noopener noreferrer\">https://docs.stripe.com/payments/checkout/upsells</a></div>\n<div>祝大家都能卖出更多的年卡。</div>",
+  "publishDate": "2024-12-12 11:00",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ch5j2y5n4g_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ch5j2y5n4g_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ch5j2y5n4g_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:20:55.818Z"
+}

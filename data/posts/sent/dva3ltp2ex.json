@@ -1,0 +1,23 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/dva3ltp2ex",
+  "title": "如何通过谷歌趋势推断一个关键词搜索量",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_avatar.jpg",
+  "tags": [
+    "需求挖掘",
+    "数据分析",
+    "哥飞小课堂"
+  ],
+  "content": "<div><em>先说明一下，谷歌趋势查出来的，其实是热度，但是很多时候，我们会简单当作搜索量来使用。</em></div>\n<div>我们也都知道，谷歌趋势 <a href=\"https://trends.google.com/trends/\" target=\"_blank\" rel=\"noopener noreferrer\">https://trends.google.com/trends/</a> 查出来的数据相对值，无法直接看到搜索量。\n为了能够看到搜索量，我们就要找一个已经搜索量的关键词，跟未知搜索量关键词对比，就能够算出未知关键词的搜索量。</div>\n<div>而已知搜索量的关键词又是哪里来的呢？\n我们可以用谷歌Ads后台关键词规划工具来查询，注意，需要你的Ads账号花了广告费，才能看到详细数据，否则只能看到范围。</div>\n<div>一般，我们推荐用 GPTs 作为对比关键词，这个词的每天大概搜索量是5000+ 。\n不过如果你直接去查GPTs，是看不到真实数据的，因为Ads后台的数据会合并多个关键词，GPTs会被合并进GPT，所以我们在下图可以看到月搜索量2490万，这其实是GPT的搜索量。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>不过，我们可以看别的关键词，如 ai image editor 10月的搜索量是20万，平均每天6.6K。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>再去谷歌趋势查这两个关键词的热度，可以看到 ai image editor 比 GPTs 稍微多一点，也就是可以推断，GPTs 的确是在5K+ 。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>这时候，我们再去查一个未知搜索量的关键词，举例我们想查 AI Photo Editor ，放进谷歌趋势看一下，会发现，这个词是 GPTs 的三倍左右。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img4.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>那我们就可以大概估算，AI Photo Editor 每天的搜索量是1.8万左右，一个月30天56万。\n我们去Ads验证一下，会发现，9月的搜索量55万，跟上面估算的很接近了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img5.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>不过，这里有点小意外，10月的搜索量涨到了150万，直接是9月的三倍，但是上面我们可以看到，90天内，谷歌趋势热度还是很平稳的，没有这么大的变化，所以最有可能是Ads把别的关键词数据合并进来了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img6.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>这就很有意思了，说明10月，突然有一个变量，增加了100万的搜索量，大家可以试着去找出来。</div>",
+  "publishDate": "2024-11-16 21:40",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dva3ltp2ex_img6.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:29:12.168Z"
+}

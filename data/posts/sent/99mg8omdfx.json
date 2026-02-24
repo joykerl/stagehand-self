@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/99mg8omdfx",
+  "title": "部署在 Vercel 上的项目如何接入支付",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/99mg8omdfx_avatar.jpg",
+  "tags": [],
+  "content": "<div>部署在 Vercel 上的项目如何接入支付，Vercel 模板中心有例子有代码</div>\n<div>Stripe 接入\n<a href=\"https://github.com/vercel/nextjs-subscription-payments\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/vercel/nextjs-subscription-payments</a>\n<a href=\"https://vercel.com/templates/next.js/subscription-starter\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/templates/next.js/subscription-starter</a></div>\n<div>Paddle 接入\n<a href=\"https://github.com/PaddleHQ/paddle-nextjs-starter-kit\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/PaddleHQ/paddle-nextjs-starter-kit</a>\n<a href=\"https://vercel.com/templates/next.js/paddle-billing-subscription-starter\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/templates/next.js/paddle-billing-subscription-starter</a></div>",
+  "publishDate": "2024-10-14 15:44",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:33:21.534Z"
+}

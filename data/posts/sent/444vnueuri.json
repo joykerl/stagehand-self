@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/444vnueuri",
+  "title": "打开网站报错：代码为 “ERR_SSL_VERSION_OR_CIPHER_MISMATCH”",
+  "author": "陈陈chen",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/444vnueuri_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>今天上线了一个网站，一切都配置好以后，打开网站，报错\n<strong>ERR_SSL_VERSION_OR_CIPHER_MISMATCH</strong></div>\n<div>截图如下：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/444vnueuri_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>ERR_SSL_VERSION_OR_CIPHER_MISMATCH 这个报错代码的字面意思就是SSL版本或密码不匹配，因此解决问题肯定要从SSL证书上去考虑。</div>\n<div><strong>解决办法：</strong>\n登陆CloudFlare，看到下图部分，边缘证书的状态是“待验证”</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/444vnueuri_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>拉到最下面，点击“禁用通用SSL”，然后再重新打开。过个几分钟，就可以看到上面的状态变成“有效”了，然后再打开网站就可以正常访问了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/444vnueuri_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-01-06 02:06",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/444vnueuri_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/444vnueuri_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/444vnueuri_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:14:41.065Z"
+}

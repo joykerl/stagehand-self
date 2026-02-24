@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ceac63f0d76b41a18d6131dce2422d85",
+  "title": "自荐开源的AI导航站和AI爬虫",
+  "author": "HelloLeo",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ceac63f0d76b41a18d6131dce2422d85_avatar.jpg",
+  "tags": [
+    "开源推荐"
+  ],
+  "content": "<div>自荐基于<a href=\"https://tap4.ai/cn/discover\" target=\"_blank\" rel=\"noopener noreferrer\">Tap4 AI</a> 导航站开源的AI导航站项目，提供了导航站前端和全自动的AI爬虫两个模块。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">AI导航站前端</h2>\n<ul>\n<li>\n<div>项目地址：<a href=\"https://github.com/6677-ai/tap4-ai-webui\" target=\"_blank\" rel=\"noopener noreferrer\">Tap4 AI WebUI</a></div>\n</li>\n<li>\n<div>功能：支持AI工具内容展示、自动收录、分类、简单搜索；</div>\n</li>\n</ul>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">服务导航站的AI爬虫</h2>\n<ul>\n<li>项目地址：<a href=\"https://github.com/6677-ai/tap4-ai-crawler\" target=\"_blank\" rel=\"noopener noreferrer\">Tap4 AI Crawler</a></li>\n<li>功能：支持输入url，自动截图、AI总结网页内容并输出markdown</li>\n</ul>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">部署保姆级教程</h2>\n<div>教程：<a href=\"https://mp.weixin.qq.com/s/VktoZ7f1Xo4ZmkXKJ5TOdQ\" target=\"_blank\" rel=\"noopener noreferrer\">Tap4 AI部署保姆级教程</a></div>\n<div>欢迎有兴趣的童鞋加微信交流：helloleo2023</div>",
+  "publishDate": "2024-07-17 15:30",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:40:59.917Z"
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/0muzz8169o",
+  "title": "初学者的入门",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0muzz8169o_avatar.jpg",
+  "tags": [
+    "养网站防老",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>今晚的哥飞小课堂，给初学者的入门</div>\n<div><a href=\"https://mp.weixin.qq.com/s/mtJY6TKCVjZQRmeFkWPAfQ\" target=\"_blank\" rel=\"noopener noreferrer\">https://mp.weixin.qq.com/s/mtJY6TKCVjZQRmeFkWPAfQ</a></div>\n<div>对于还不会用 html+css 做网页的朋友，建议把这篇文章里推荐的视频教程看完，不长，30分钟，一晚上就能学完，然后就可以开始做网站了。\n你的第一版，不需要登录注册支付发帖点赞等任何用户互动交互的功能，就单纯做个 web 1.0网站就足够了。\n也不用考虑后台，因为我们的网页不会频繁变化，所以只需要做静态页面就行。\n这是最快速上线网站的办法。\n我们要的是快，抢的是先机。\n目前哥飞总结出来的成功新站秘诀为：新词+快速上线。\n具体方法是工具+内容+多语言。</div>\n<div><a href=\"https://mp.weixin.qq.com/s/NcHgwVLRggbEk6oNLGVJrg\" target=\"_blank\" rel=\"noopener noreferrer\">https://mp.weixin.qq.com/s/NcHgwVLRggbEk6oNLGVJrg</a></div>\n<div>新词的理论依据看上面这篇文章\n谷歌每天处理的搜索里，有15%是新词。\n新词意味着网页供应量少，竞争不激烈。\n我们去做SEO优化友好的网站，快速上线，就能快速拿到流量。</div>\n<div><a href=\"https://mp.weixin.qq.com/s/X95UZmPEKHZZ4rNoBcaoJg\" target=\"_blank\" rel=\"noopener noreferrer\">https://mp.weixin.qq.com/s/X95UZmPEKHZZ4rNoBcaoJg</a></div>\n<div><a href=\"https://mp.weixin.qq.com/s/s3wjxhNTrfqj5go6hFqXJg\" target=\"_blank\" rel=\"noopener noreferrer\">https://mp.weixin.qq.com/s/s3wjxhNTrfqj5go6hFqXJg</a></div>\n<div><a href=\"https://mp.weixin.qq.com/s/TACx5m8ZvU98sUzLEzfDqg\" target=\"_blank\" rel=\"noopener noreferrer\">https://mp.weixin.qq.com/s/TACx5m8ZvU98sUzLEzfDqg</a></div>\n<div>上面几篇是介绍站内优化的\n如果不想学习，那就直接看结论，你的网页要符合以下结构\nh1</div>\n<div>h2\np\nh3\np\nh3\np</div>\n<div>h2\np\nh3\np\nh3\np</div>\n<div>按照这个网页结构做好网页，然后每一个h2做一个子目录（文件夹），每一个h3做一个子页面放到h2子目录里。\n这样就把目录和内页做好了。\n做好内链建设，这个网站就做好了。</div>\n<div>/index.html 网站首页\n/h2/index.html h2首页\n/h2/h3.html h3内页</div>\n<div>首页内链结构如下</div>\n<div>h2 首页内链结构如下\nlogo a 到 网站首页\nh1 a 到 /h2/\nh3 a 到 /h2/h3.html</div>\n<div>h2 首页内链结构如下</div>\n<div>logo a 到 网站首页\nh1 a 到 /h2/\nh3 a 到 /h2/h3.html</div>\n<div>h3 内页内链结构如下</div>\n<div>logo a 到 网站首页\n&lt; a href=/h2/&gt;h2&lt;/a &gt;\nh1 a 到 /h2/h3.html</div>\n<div>为了防止被微信识别为链接代码而过滤掉，这里我加了空格，去掉了双引号\n然后多语言，每个语言这样重来一遍</div>\n<div>最后就可以把静态页面通过 github 传到 vercel ，部署上线了</div>\n<div>第一次做网站，可以先不考虑多语言，只做英文就可以。</div>\n<div>好了，今晚的哥飞小课堂就到这了，有不懂的可以提问</div>\n<div>另外，上面的这个整个流程，其实是可以用 GPT 辅助的。</div>",
+  "publishDate": "2025-01-13 18:05",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:11:15.300Z"
+}

@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/oty9ssolbq",
+  "title": "复盘：网站展示量从700+暴跌到40+后，历时2个月又恢复到 600+ 了，这2个月我做了什么？",
+  "author": "蓝星空",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oty9ssolbq_avatar.jpg",
+  "tags": [],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oty9ssolbq_img1.png\" alt=\"网站流量记录.png\" loading=\"lazy\">\n上面的截图是这个网站上线后截止到目前的展示（曝光次数）数据，差不多半年时间。</div>\n<div>下图是网站相关的搜索量最大的几个关键词的月均搜索量，所有加起来之后平均每天也就只有7百多。2月28日那天展示数有 770次，基本上算是到顶了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oty9ssolbq_img2.png\" alt=\"1e9521b16f25c3264d04bf70ebc2ade.png\" loading=\"lazy\"></div>\n<div>当时发现排名下降后，就开始找原因，也发在群里讨论过（见下图）：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oty9ssolbq_img3.png\" alt=\"a20b88725fe143ab9fb6bafa69bd373.png\" loading=\"lazy\"></div>\n<div>现在来看，流量暴跌的原因就是：<strong>Google 给了几天的蜜月期</strong>，蜜月期过了就不给那么多流量了。</div>\n<div>3月15日之后的半个月，每天的展示量基本上都少于100次，展示量最低的时候只有47次。\n2个月后，5月16日的展示量恢复到了500次，5月26日的展示量有637次。算是恢复到了2月28日流量最好的那段时间的数据。</div>\n<div><strong>这2个月里面我做了什么？</strong></div>\n<ol>\n<li>更新网站内容：把用户平时问的比较多的问题都补充到首页的常见问题列表里面，每周更新1-2篇Blog，把原来有一些重复的Blog内容又重新写了一遍；</li>\n<li>加外链（每天提交几个网站，一周大概能成功5-10个）：2月底的时候在 GSC 后台看到的外链域名数是 34，现在有 74 个了；</li>\n<li>替换了一些外链锚文本，最开始用的锚文本基本上都是 kw2 这个词，后来就是几个词轮着加，让外锚锚文本更丰富自然一些；</li>\n<li>增加了页面上的一些用户交互，比如多弹一个弹窗给用户更详细的说明内容，让用户多看几秒，多点几下。</li>\n</ol>",
+  "publishDate": "2025-05-27 22:02",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oty9ssolbq_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oty9ssolbq_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oty9ssolbq_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:20:01.709Z"
+}

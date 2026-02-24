@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ydp0lic8a4",
+  "title": "Vercel 新的绑定域名流程截图",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ydp0lic8a4_avatar.jpg",
+  "tags": [
+    "建站技术"
+  ],
+  "content": "<div>我以 gefeiv.vip 为例来说明。</div>\n<div>Domain 填 gefei.vip ，环境选择 Production ，跳转选择不跳转。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ydp0lic8a4_img1.png\" alt=\"8c71419478f3bfebde0c4fb6a37f8c31.png\" loading=\"lazy\"></div>\n<div>之后点击“Add Domain”按钮。</div>\n<div>下一个界面，选择添加 gefei.vip 并且把 <a href=\"http://www.gefei.vip\" target=\"_blank\" rel=\"noopener noreferrer\">www.gefei.vip</a> 跳转到 gefei.vip 。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ydp0lic8a4_img2.png\" alt=\"9bf6e638aacb74833e8143648448aa5e.png\" loading=\"lazy\"></div>\n<div>为什么要这么做呢？</div>\n<div>因为我们去推广时以及传播时，大多数时候写的是 gefei.vip 而不是 <a href=\"http://www.gefei.vip\" target=\"_blank\" rel=\"noopener noreferrer\">www.gefei.vip</a> 。</div>\n<div>系统会自动把 gefei.vip 转成 <a href=\"http://gefei.vip\" target=\"_blank\" rel=\"noopener noreferrer\">http://gefei.vip</a> ，用户打开这个网址，只需要一次跳转就可以到达最终网址 <a href=\"https://gefei.vip\" target=\"_blank\" rel=\"noopener noreferrer\">https://gefei.vip</a> 。</div>\n<div>而如果你设置的默认域名是 <a href=\"http://www.gefei.vip\" target=\"_blank\" rel=\"noopener noreferrer\">www.gefei.vip</a> ，那么从 <a href=\"http://gefei.vip\" target=\"_blank\" rel=\"noopener noreferrer\">http://gefei.vip</a> 需要先跳转到 <a href=\"https://gefei.vip\" target=\"_blank\" rel=\"noopener noreferrer\">https://gefei.vip</a> 之后再跳转到 <a href=\"https://www.gefei.vip\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.gefei.vip</a> ，也就是会有两次跳转。</div>\n<div>所以我们基于经验，通常建议设置默认域名是 gefei.vip 而不是 <a href=\"http://www.gefei.vip\" target=\"_blank\" rel=\"noopener noreferrer\">www.gefei.vip</a> 。</div>",
+  "publishDate": "2025-03-06 18:00",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ydp0lic8a4_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ydp0lic8a4_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:39:00.428Z"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/jv5zavaez1",
+  "title": "网站没有被Bing（必应）收录（已发现但未爬网）怎么办？终极解决方案！",
+  "author": "蓝星空",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_avatar.jpg",
+  "tags": [
+    "Bing",
+    "SEO"
+  ],
+  "content": "<div>先说一下我的网站问题：\n有一个网站1月份就提交 A 域名到 Bing webmaster 了，但是 A 域名一直未被 Bing 收录，反而是另外一个 B 域名，后来把 B 域名使用 301 跳转到 A 域名后，现在2个域名都从 Bing 搜索结果里面消失了。折腾了2、3个月，中间试了各种方法（比如 301 跳转，去论坛反馈等）都没有得到解决，最近终于让我找到了解决方法并成功解决了！</div>\n<div>解决的方法和步骤如下：</div>\n<div><strong>1.  登录 Bing Webmaster 网站</strong>（ <a href=\"https://www.bing.com/webmasters/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.bing.com/webmasters/</a> ），提交你的网站。\n这个大家应该都会了。</div>\n<div><strong>2. 打开 URL 检查页面</strong>（<a href=\"https://www.bing.com/webmasters/urlinspection\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.bing.com/webmasters/urlinspection</a> ），输入你的网站地址，然后点击检查，稍等1、2分钟，就会出来结果了，可能会出现以下几种结果：\n结果1：这是最好的结果，已经被索引成功，而且能出现在结果中了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>结果2：已发现但未爬网，提示：必应可以识别经过检查的 URL，但出现了一些导致无法编制索引的问题。我们建议你按照必应网站管理员工具准则增加索引编制的机会。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div><strong>3. “已发现但未爬网” 怎么解决？</strong>\n可以先点击“请求编制索引”，然后等待被 Bing 索引，如果过了几天还没有被索引的话，就要使用终极大法：<strong>表单反馈</strong>。</div>\n<div><strong>4. 怎么填写反馈表单？</strong>\n反馈入口（<a href=\"https://www.bing.com/webmasters/support\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.bing.com/webmasters/support</a> ），顺便吐槽一下这个入口，太难找了。\n打开表单反馈页面后，按以下几个步骤操作就行了\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>(1) 输入你的名字，这个随便，不重要，建议用英文；\n(2) 选择你要反馈索引问题的域名（别选错了）；\n(3) 选 Indexing（编制索引）；\n(4) 选 My site is not in index（我的网站不在索引中）；\n(5) 这一步一定要勾选 yes（是）；\n(6) 需要把你遇到的问题写清楚，写的越详细越好；\n(7) 输入验证码；\n(8) 点击 Get Help （获取帮助）按钮。</div>\n<div>接下来一般会在 24小时内收到一封邮件，比如这样的：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img4.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>我是 4月26号 提交的，今天（4月30日）再去 URL 检查页面检查，发现原来红色的部分已经变成绿色了，如下图所示：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img5.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<hr class=\"h-2 my-2\">\n<div>下面提示的 SEO 问题那是在网站被索引之后才需要去解决的，跟“已发现但未爬网” 没有关系。</div>",
+  "publishDate": "2025-04-30 22:56",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/jv5zavaez1_img5.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:26:33.318Z"
+}

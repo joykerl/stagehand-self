@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ffe6j3twjj",
+  "title": "尝试使用vercel cli,在本地调试生产环境",
+  "author": "Chris_叨叨叨",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ffe6j3twjj_avatar.jpg",
+  "tags": [],
+  "content": "<div>之前手动部署vercel 的时候出现了vercel.json有语法错误,再怎么部署都出现错误的原因.可以跟ai说使用vercel cli进行预部署,在本地就找出错误原因,这样就不需要一次次的朝git上推了</div>",
+  "publishDate": "2025-10-01 13:57",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:17:32.324Z"
+}

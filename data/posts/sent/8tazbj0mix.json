@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/8tazbj0mix",
+  "title": "根据关键词KD推测所需外链的公式",
+  "author": "回车",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8tazbj0mix_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>在计算KDROI时，公式中需要一个required backlink参数，这个数值与SEO关键词的Keyword Difficulty（KD）相关，在Ahrefs 的Keyword Difficulty Checker中给出了一个简易的对照表。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8tazbj0mix_img1.png\" alt=\"WX20241205-114104.png\" loading=\"lazy\"></div>\n<div>那么，我们能不能根据这个对照表，反推出表示 KD 与外链数量关系的公式呢？</div>\n<div>可以使用数据拟合工具来完成，类似的工具有很多，这里我们选用一个在线的可视化数据拟合工具，网址如下：<a href=\"https://mycurvefit.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://mycurvefit.com/</a></div>\n<div>mycurvefit提供了多种拟合方式，包括线性拟合、非线性拟合，以及用户自定义拟合方式等等。</div>\n<div>我们把Ahrefs中的对照表输入到mycurvefit数据栏中，KD作为x列，backlink作为y列。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8tazbj0mix_img2.png\" alt=\"WX20241205-114835.png\" loading=\"lazy\"></div>\n<div>先使用线性拟合（一次多项式），得到的函数关系是y=7.303333x - 182.0556，但是能看出拟合的效果并不好。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8tazbj0mix_img3.png\" alt=\"WX20241205-115001.png\" loading=\"lazy\"></div>\n<div>经过多次试验发现，Nonlinear中的Michaelis-Menten公式，非常完美的拟合了对照表中的数据。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8tazbj0mix_img4.png\" alt=\"WX20241205-115203.png\" loading=\"lazy\"></div>\n<div>这个公式为：y = (-89.32212*x)/(-100.6193 + x)</div>\n<div>通过这个公式，我们就可以计算任意KD对应的backlink数量了。</div>\n<div>需要说明的是，以上为根据Ahrefs提供的KD-backlink对照表，得到的预测backlink的公式，该值是一个预测值，仅提供一定程度的参考。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">参考资料</h2>\n<ul>\n<li><a href=\"https://ahrefs.com/keyword-difficulty\" target=\"_blank\" rel=\"noopener noreferrer\">https://ahrefs.com/keyword-difficulty</a></li>\n<li><a href=\"https://seo.box/zh/keyword/\" target=\"_blank\" rel=\"noopener noreferrer\">https://seo.box/zh/keyword/</a></li>\n</ul>",
+  "publishDate": "2024-12-05 11:56",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8tazbj0mix_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8tazbj0mix_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8tazbj0mix_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8tazbj0mix_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:21:37.219Z"
+}

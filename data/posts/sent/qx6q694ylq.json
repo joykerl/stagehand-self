@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/qx6q694ylq",
+  "title": "6.7 🛠️ 技术 SEO（视频未录制）",
+  "author": "涛涛(非作者,只搬运)",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/qx6q694ylq_avatar.jpg",
+  "tags": [
+    "AI 编程课"
+  ],
+  "content": "<blockquote>\n<div>💡 本教程参考了 <a href=\"https://ahrefs.com/blog/zh/technical-seo/#\" target=\"_blank\" rel=\"noopener noreferrer\">Ahrefs 的 SEO 初学者指南 - 技术性 SEO</a>，重要的是要确保没有技术上的障碍阻止 Google访问和了解您的网站。这是一个非常优秀的 SEO 学习资源。如果您想了解更多详细内容，强烈推荐访问他们的网站。</div>\n</blockquote>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">技术 SEO</h1>\n<div>技术 SEO 是确保网站能被搜索引擎正确抓取、索引和理解的基础工作。本章将介绍技术 SEO 的关键要素和最佳实践。</div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">备注：此视频还未录制</h3>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">章节概览</h2>\n<table><thead><tr><th>章节</th><th>主要内容</th><th>关键知识点</th></tr></thead><tbody><tr><td>基础概念</td><td>• 技术SEO定义• 重要性• 目标</td><td>• 优化网站技术基础设施• 提升搜索引擎可访问性• 改善用户体验</td></tr><tr><td>抓取优化</td><td>• URL发现• 抓取控制• 监控分析</td><td>• Robots.txt配置• 站点地图提交• 抓取预算管理</td></tr><tr><td>索引优化</td><td>• 爬虫指令• URL规范化• 内容组织</td><td>• Meta robots使用• 规范标签设置• 重复内容处理</td></tr><tr><td>技术要素</td><td>• 页面体验• 网站安全• 国际化</td><td>• Core Web Vitals• HTTPS实施• Hreflang设置</td></tr></tbody></table>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">优化重点</h2>\n<table><thead><tr><th>优化领域</th><th>具体措施</th><th>实施建议</th></tr></thead><tbody><tr><td>页面性能</td><td>• 加载速度优化• 移动端适配• 资源压缩</td><td>• 使用CDN• 实施响应式设计• 优化代码和资源</td></tr><tr><td>结构数据</td><td>• Schema标记• 富媒体展示• 数据验证</td><td>• 使用JSON-LD格式• 选择合适的标记类型• 定期检查有效性</td></tr><tr><td>监控维护</td><td>• 性能监测• 问题诊断• 定期优化</td><td>• 使用Search Console• 跟踪关键指标• 及时修复问题</td></tr></tbody></table>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">常用工具</h2>\n<table><thead><tr><th>工具类型</th><th>推荐工具</th><th>主要用途</th></tr></thead><tbody><tr><td>谷歌官方</td><td>• Search Console• PageSpeed Insights• Mobile-Friendly Test</td><td>• 监控索引状态• 检查性能问题• 测试移动适配</td></tr><tr><td>第三方</td><td>• Screaming Frog• Ahrefs• GTmetrix</td><td>• 网站爬虫分析• SEO综合诊断• 性能优化分析</td></tr></tbody></table>\n<div>记住，技术 SEO 是网站优化的基础，需要与内容优化和外链建设协同工作，才能达到最好的效果。</div>",
+  "publishDate": "2025-08-18 19:47",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:28:33.584Z"
+}

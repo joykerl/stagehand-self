@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/4yonifsylx",
+  "title": "如何获取某个网站的 ICON",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/4yonifsylx_avatar.jpg",
+  "tags": [
+    "API",
+    "经验",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>今晚#哥飞小课堂 分享如何获取某个网站的 ICON ，大家做导航站用得着。</div>\n<div><a href=\"https://m.okjike.com/originalPosts/66461a7a4713de4d5e9b458b?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D&amp;utm_source=wechat_session\" target=\"_blank\" rel=\"noopener noreferrer\">https://m.okjike.com/originalPosts/66461a7a4713de4d5e9b458b?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D&amp;utm_source=wechat_session</a></div>\n<div><a href=\"https://m.okjike.com/originalPosts/66461cd7aa84e3ce26cc3740?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D&amp;utm_source=wechat_session\" target=\"_blank\" rel=\"noopener noreferrer\">https://m.okjike.com/originalPosts/66461cd7aa84e3ce26cc3740?s=eyJ1IjoiNTY3YTUwZDQ2ZWY4OWMxMjAwOGE3NTc1In0%3D&amp;utm_source=wechat_session</a></div>\n<div>刚才插播了@Banbri 的分享，现在回到小课堂。\n主要有三种方法：\n1、利用谷歌的API\n<a href=\"https://t0.gstatic.com/faviconV2?client=SOCIAL&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL&amp;url=https://hix.ai&amp;size=256\" target=\"_blank\" rel=\"noopener noreferrer\">https://t0.gstatic.com/faviconV2?client=SOCIAL&amp;type=FAVICON&amp;fallback_opts=TYPE,SIZE,URL&amp;url=https://hix.ai&amp;size=256</a>\n（可以获取任意网站的）</div>\n<div>2、利用FaviconKit的API\n<a href=\"https://api.faviconkit.com/twitter.com/256\" target=\"_blank\" rel=\"noopener noreferrer\">https://api.faviconkit.com/twitter.com/256</a>\n（缺点是只能获取大站的）</div>\n<div>3、自己抓取html中的icon\n其实上面两种方法的图片就是来自于html中，具体主要看两个，一是看 rel=\"shortcut icon\" ，二是看 rel=\"apple-touch-icon\" 。</div>",
+  "publishDate": "2025-01-14 11:51",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:08:38.668Z"
+}

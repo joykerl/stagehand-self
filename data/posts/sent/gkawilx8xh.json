@@ -1,0 +1,39 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/gkawilx8xh",
+  "title": "利用 Cloudflare 的 Email Routing 和 Gmail 的 SMTP 服务, 零成本实现域名邮箱收发邮件的功能",
+  "author": "夕远",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_avatar.jpg",
+  "tags": [
+    "Cloudflare Email Routing",
+    "Cloudflare",
+    "Gmail",
+    "Gmail SMTP"
+  ],
+  "content": "<div><strong>8/26 更新</strong>: 才发现这个方法之前 GitHub 上有人分享过类似的:\n<a href=\"https://gist.github.com/irazasyed/a5ca450f1b1b8a01e092b74866e9b2f1\" target=\"_blank\" rel=\"noopener noreferrer\">https://gist.github.com/irazasyed/a5ca450f1b1b8a01e092b74866e9b2f1</a></div>\n<div>注意: 有群友反馈使用这种方法发邮件会被识别为垃圾邮件或有退信的情况, 我之前测试了通过 Google Sheet Script 批量发送邮件, 确实有一些被退信的. 虽然这种方法可以免费使用 Gmail 的 SMTP 功能在 Gmail 中以域名邮箱名义发送邮件, 但还是建议最好用 Resend 或 其他邮箱服务商配置域名邮箱发送邮件, 可以参考群友的这个教程: <a href=\"https://new.web.cafe/topic/dtoh6wu12z\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/topic/dtoh6wu12z</a></div>\n<hr class=\"h-2 my-2\">\n<div>如果你的域名的 DNS 托管在 Cloudflare, 那么可以用这个域名注册一个域名邮箱, 比如你的网站的联系邮箱 <a href=\"mailto:support@xxx.com\" target=\"_blank\" rel=\"noopener noreferrer\">support@xxx.com</a></div>\n<div>然后用 Cloudflare 的 <strong>Email Routing</strong> 功能设置将域名邮箱的邮件自动转发到你的个人 Gmail 邮箱.</div>\n<div>最后在你的个人 Gmail 邮箱里添加这个域名邮箱, 配置 <strong>SMTP</strong> 服务, 就可以在 Gmail 里用这个自定义的域名邮箱收发邮件. 真正<strong>零成本</strong>实现域名邮箱收发邮件的功能</div>\n<div>具体操作步骤如下:</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">1. Cloudflare 设置邮件转发到 Gmail</h2>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img1.png\" alt=\"image1\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img2.png\" alt=\"image2\" loading=\"lazy\"></div>\n<div>在开启 <strong>Email Routing</strong> 前, 先删除这两个 DNS\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img3.jpg\" alt=\"Xnip2025-07-07_10-27-56.jpg\" loading=\"lazy\"></div>\n<div>然后会出现下面这个界面, 点击下面的按钮\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img4.png\" alt=\"image3\" loading=\"lazy\"></div>\n<div>然后这里显示这两个状态就表示 <strong>Email Routing</strong> 开启了\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img5.jpg\" alt=\"Xnip2025-07-07_10-34-49.jpg\" loading=\"lazy\"></div>\n<div>然后等这里的状态显示 Enabled</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img6.png\" alt=\"image4\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img7.png\" alt=\"image5\" loading=\"lazy\"></div>\n<div>上面状态显示 Enabled, 然后发送一封邮件到这个自定义邮箱测试下</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img8.png\" alt=\"image6\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\"></h2>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">2. 使用 Gmail SMTP 服务用自定义域名邮箱收发邮件</h2>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img9.png\" alt=\"image7\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img10.png\" alt=\"image8\" loading=\"lazy\"></div>\n<ul>\n<li><strong>SMTP Server</strong>: smtp.gmail.com</li>\n<li><strong>Port</strong>: 587</li>\n</ul>\n<div>注意下面的 <strong>Username</strong> 就是你的Gmail 邮箱, <strong>Password</strong> 是单独给 Cloudflare Mail 设置的, <strong>不是Gmail 邮箱的密码</strong></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img11.png\" alt=\"image9\" loading=\"lazy\"></div>\n<div>给 Cloudflare Mail 设置的这个密码可以在谷歌账号后台设置</div>\n<div><a href=\"https://myaccount.google.com/apppasswords\" target=\"_blank\" rel=\"noopener noreferrer\">https://myaccount.google.com/apppasswords</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img12.png\" alt=\"image10\" loading=\"lazy\"></div>\n<div>下面红框的这个是我单独给我的 support 域名邮箱设置的密码, 你可以根据不同的域名创建不同的 App name 来区分</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img13.png\" alt=\"image11\" loading=\"lazy\"></div>\n<div>输入上面的 SMTP, port, Username, Password 后, 点击上面的 Add Account 按钮, 提示下面这个就表示添加成功了</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img14.png\" alt=\"image12\" loading=\"lazy\"></div>\n<div>然后根据上面的提示去设置自动转发的那个 Gmail 邮箱里查看验证的邮件并点击验证</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img15.png\" alt=\"image13\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img16.png\" alt=\"image5\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img17.png\" alt=\"image15\" loading=\"lazy\"></div>\n<div>然后去 Gmail 设置里查看是否添加成功了</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img18.png\" alt=\"image16\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">3. Cloudflare 后台添加 SPF 的 DNS 记录</h2>\n<div>在 DNS 里添加这条记录: <strong>v=spf1 include:_spf.google.com ~all</strong></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img19.png\" alt=\"image17\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">4. 验证自定义域名邮箱的收发功能</h2>\n<div>在你的个人 Gmail 里用添加的域名邮箱发邮件 和 其他邮箱发邮件到你的域名邮箱, 看能否正常收发邮件</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img20.jpg\" alt=\"Xnip2025-07-07_10-47-19.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img21.jpg\" alt=\"Xnip2025-07-07_10-46-25.jpg\" loading=\"lazy\"></div>",
+  "publishDate": "2025-07-07 10:12",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img8.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img9.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img10.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img11.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img12.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img13.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img14.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img15.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img16.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img17.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img18.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img19.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img20.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gkawilx8xh_img21.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:51:16.850Z"
+}

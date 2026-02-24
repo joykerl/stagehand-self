@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/59i9a54ats",
+  "title": "Stripe香港账号开启微信和支付宝支付",
+  "author": "Cy",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/59i9a54ats_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>最近网站国内流量不少，把国内的主流支付方式接上，不要浪费了流量和潜在的转化机会。</div>\n<div>下面以香港个人账户为例（只支持一次性付款，支付宝订阅的开通尝试见文章最后）：</div>\n<ol>\n<li>\n<div>在设置-支付-支付方式里面，把微信和支付宝都打开，Active状态\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/59i9a54ats_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n</li>\n<li>\n<div>可能很多群友现在的价格是美金价格。想支持支付宝和微信要在Stripe后台先创建港币或者人民币的一次性PriceID，可以考虑为国内用户做一次性月卡。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/59i9a54ats_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n</li>\n<li>\n<div>在创建checkout的时候使用港币价格，paymentMethodType加上alipay或者wechat_pay，注意wechat_pay有一个额外的option要配置。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/59i9a54ats_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n</li>\n<li>\n<div>我是在zh语言的Pricing页面用港币价格和港币PriceID，这时候跳转去checkout就能看到支付宝和微信了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/59i9a54ats_img4.png\" alt=\"image.png\" loading=\"lazy\"></div>\n</li>\n</ol>\n<div>Stripe支付宝接入文档<a href=\"https://docs.stripe.com/payments/alipay/accept-a-payment\" target=\"_blank\" rel=\"noopener noreferrer\">https://docs.stripe.com/payments/alipay/accept-a-payment</a>\nStripe微信接入文档\n<a href=\"https://docs.stripe.com/payments/wechat-pay/accept-a-payment\" target=\"_blank\" rel=\"noopener noreferrer\">https://docs.stripe.com/payments/wechat-pay/accept-a-payment</a></div>\n<div>上面是香港账号的步骤。\n支付宝微信支持的货币是CNY加上Stripe账号所在地区的货币，美国账号可直接用美金价格就可以开通支付宝和微信了。也就是说美国账号可以跳过步骤2不创建港币价格，直接用美金价格就行了，别的流程都一样。</div>\n<div>Stripe说他们现在已经支持支付宝的按月自动扣款了，但是开通需要联系客服。<a href=\"https://support.stripe.com/questions/enabling-recurring-charges-for-alipay\" target=\"_blank\" rel=\"noopener noreferrer\">https://support.stripe.com/questions/enabling-recurring-charges-for-alipay</a></div>\n<div>和跟客服沟通了一下关于开通支付宝按月扣款的事项，他们需要对账号进行一个特别的Review，可以找客服帮忙发起流程。</div>\n<div>下面是沟通原文\nTo address your request, Alipay can be set up for future Billing product payments via the Setup Intents API <a href=\"https://stripe.com/docs/payments/setup-intents\" target=\"_blank\" rel=\"noopener noreferrer\">https://stripe.com/docs/payments/setup-intents</a>\nHowever, due to Chinese regulations that prohibit us from enabling this feature for all merchants, Stripe will have to perform a special review on your account.\nThe next step to initiate a review would be to gather additional information from you (Eg. The use cases that you will be using recurring payments for).</div>",
+  "publishDate": "2024-12-18 23:37",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/59i9a54ats_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/59i9a54ats_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/59i9a54ats_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/59i9a54ats_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:19:42.387Z"
+}

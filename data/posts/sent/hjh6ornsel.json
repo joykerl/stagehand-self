@@ -1,0 +1,22 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/hjh6ornsel",
+  "title": "【2025.7.21案例拆解】 https://www.slidemake.com/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>看到个移动端优先原则设计的PPT 生成小工具 <a href=\"https://www.slidemake.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.slidemake.com/</a> 。</div>\n<div>月访问量 118K，55% 访问量来自于自然搜索，35% 来自于直接打开，这两个加起来是 90%。 还有 6% 来自于外链，3% 来自于社交媒体分享。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>主要搜索关键词是 Slide Maker、Slide Maker AI、AI Slide Maker 等。</div>\n<div>有个小细节，大家发现了吗？ 域名是 make ，但是搜索词都是 maker 。 尽管这样，他也拿到了 slide maker 搜索结果第一名，并且打败了后面几个大站的内页。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>甚至，他的外链域名只有122 个。而我们查这个关键词的 KD，却是 87，看起来很大。</div>\n<div>有群友注意到，Slide Maker 这个词的移动端搜索量更大，占比 57%。 而 SlideMake.com 网站的过去 12 个月流量里，移动端的占比是72%，远超 PC 端。 这里到底是因为站长关注到了关键词的搜索量移动端更大，才去优先适配移动端，还是因为这个网站优先适配了移动端，导致被很多人传播，于是移动端访问量增加，从而带动很多人在移动端搜索网站名称，我无法确定。 反正目前的结果是一致的，网站和关键词，都是移动端量更大。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>但是可以明确的一点是，谷歌目前只有移动端爬虫，如果你的网站无法适配移动端，那么在 PC 端也无法拿到排名。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>SlideMake.com 还有两个策略，值得学习： 1、默认打开就能够使用，不需要登录注册，只不过限制了 PPT 的页数； 2、会生成 PPT 在线分享链接，鼓励大家分享传播，而不是下载传播，当然，也提供了下载为 pptx 文件功能。 简单总结就是，免登录就能够使用，并且可分享，可下载。 所以流量分布前几名，都是印度、土耳其等不怎么愿意付钱的国家。</div>",
+  "publishDate": "2025-10-16 15:24",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hjh6ornsel_img7.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T17:46:55.105Z"
+}

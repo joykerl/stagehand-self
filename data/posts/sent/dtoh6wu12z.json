@@ -1,0 +1,33 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/dtoh6wu12z",
+  "title": "出海技术栈集成教程（五）：域名邮箱配置教程",
+  "author": "程普",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_avatar.jpg",
+  "tags": [
+    "Resend",
+    "Email Routing",
+    "Cloudflare Email Routing",
+    "Gmail SMTP",
+    "出海技术栈教程",
+    "出海技术栈集成教程"
+  ],
+  "content": "<div>大家好，我是程普，我整理了 Nexty.dev 模板通用配置的文档，以专栏形式发不到哥飞社群网站，希望能帮助到大家。</div>\n<div>专栏内容包含如下主题：</div>\n<ul>\n<li>👉 <a href=\"https://new.web.cafe/topic/7uv23xnpvu\" target=\"_blank\" rel=\"noopener noreferrer\">域名购买、解析与配置</a></li>\n<li>👉 <a href=\"https://new.web.cafe/topic/fkw7vhixs0\" target=\"_blank\" rel=\"noopener noreferrer\">Supabase 集成教程</a>：登录与数据库</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/hqxgijh2i1\" target=\"_blank\" rel=\"noopener noreferrer\">Stripe 集成教程</a>：支付配置与开发</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/8laqxlge8d\" target=\"_blank\" rel=\"noopener noreferrer\">Resend 集成教程</a>：邮件服务</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/dtoh6wu12z\" target=\"_blank\" rel=\"noopener noreferrer\">域名邮箱配置教程</a>：收发邮件都能用域名邮箱</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/m3sh3t8l5f\" target=\"_blank\" rel=\"noopener noreferrer\">Upstash 集成教程</a>：Redis 与限流器</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/1jr11qls7e\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare R2集成教程</a>：免费图片存储</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/lvso3ci20g\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare Turnstile集成教程</a>：免费人机检测</li>\n</ul>\n<blockquote>\n<div><a href=\"https://nexty.dev/?ref=gefei\" target=\"_blank\" rel=\"noopener noreferrer\">Nexty</a> 向哥飞社群提供骨折价，想购买的朋友加我微信（bigye_chengpu）获取专属优惠码再下单。</div>\n</blockquote>\n<hr class=\"h-2 my-2\">\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">前置步骤</h2>\n<div>开始使用域名邮箱前，请确认已完成以下前置步骤：</div>\n<ul>\n<li><a href=\"https://new.web.cafe/topic/7uv23xnpvu\" target=\"_blank\" rel=\"noopener noreferrer\">域名准备和解析</a></li>\n<li><a href=\"https://new.web.cafe/topic/8laqxlge8d\" target=\"_blank\" rel=\"noopener noreferrer\">Resend 集成</a></li>\n</ul>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">配置域名邮箱</h2>\n<div>域名邮箱对我们的业务来说很重要，相比于使用个人邮箱，域名邮箱更容易建立用户信任。</div>\n<div>我们可以使用 Cloudflare 提供的邮件转发功能实现这个需求，该功能免费使用，可以将域名邮箱（例如 <code>contact@yourdomain.com</code>）收到的邮件转发至你的个人邮箱（例如 <code>yourname@gmail.com</code>）。</div>\n<div>配置步骤如下：</div>\n<div>登录 <a href=\"https://www.cloudflare.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare</a> 官网，打开域名管理界面，打开 <code>Email</code> 功能，按照页面引导步骤进行配置：</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img1.png\" alt=\"email-routing.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img2.png\" alt=\"email-routing-2.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img3.png\" alt=\"email-routing-3.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img4.png\" alt=\"email-routing-4.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img5.png\" alt=\"email-routing-5.png\" loading=\"lazy\"></div>\n<div>展示的状态是成功的，以后发送到域名邮箱的邮件，都会被转发到你的个人邮箱了。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">使用域名邮箱回复邮件</h2>\n<div>现在可以收到用户发给域名邮箱的邮件了，但回复邮件仍然是个大问题。通过利用 Resend 的 SMTP 功能，我们就能够解决这个问题。</div>\n<div>以 Gmail 为例，实现步骤如下：</div>\n<div>打开 Gmail 右上角的设置：</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img6.png\" alt=\"domain-email-reply-1.png\" loading=\"lazy\"></div>\n<div>点击 <code>Add another email address</code> 设置新邮箱</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img7.png\" alt=\"domain-email-reply-2.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img8.png\" alt=\"domain-email-reply-3.png\" loading=\"lazy\"></div>\n<div>现在来到 Resend，打开 Setting - SMTP，把 Host、Port 和 User 分别复制到 Gmail 的 SMTP Server、Port 和 Username，然后 Password 填写 <code>RESEND_API_KEY</code> 对应的字符串</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img9.png\" alt=\"domain-email-reply-4.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img10.png\" alt=\"domain-email-reply-5.png\" loading=\"lazy\"></div>\n<div>提交后，你的 Gmail 会收到一封邮件，确认即可</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img11.png\" alt=\"domain-email-reply-7.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img12.png\" alt=\"domain-email-reply-8.png\" loading=\"lazy\"></div>\n<div>现在开始，你可以在发邮件的时候，选择域名邮箱作为发送者</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img13.png\" alt=\"domain-email-reply-9.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-08-14 17:54",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img8.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img9.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img10.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img11.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img12.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dtoh6wu12z_img13.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:31:18.668Z"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/enbz3kskth",
+  "title": "网页截图 API",
+  "author": "AwesomeYang",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/enbz3kskth_avatar.jpg",
+  "tags": [],
+  "content": "<div>CF 的截图 API：</div>\n<ul>\n<li><a href=\"https://developers.cloudflare.com/browser-rendering/rest-api/screenshot-endpoint/\" target=\"_blank\" rel=\"noopener noreferrer\">https://developers.cloudflare.com/browser-rendering/rest-api/screenshot-endpoint/</a></li>\n</ul>\n<div>我写的截图 API，因为写的时候还不知道有上面那个 API，所以 <a href=\"https://aiwith.me\" target=\"_blank\" rel=\"noopener noreferrer\">https://aiwith.me</a> 导航站的截图目前都还是按照这个 API 截取的</div>\n<ul>\n<li><a href=\"https://github.com/StruggleYang/screenshotsApp\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/StruggleYang/screenshotsApp</a>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/enbz3kskth_img1.png\" alt=\"image.png\" loading=\"lazy\"></li>\n</ul>\n<div>其他截图 API：</div>\n<ul>\n<li><a href=\"https://microlink.io/screenshot\" target=\"_blank\" rel=\"noopener noreferrer\">https://microlink.io/screenshot</a></li>\n<li><a href=\"https://github.com/hehehai/headless-try\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/hehehai/headless-try</a></li>\n</ul>",
+  "publishDate": "2025-07-25 09:50",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/enbz3kskth_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:43:14.880Z"
+}

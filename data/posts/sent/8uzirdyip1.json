@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/8uzirdyip1",
+  "title": "2.7 Lighthouse: 性能检测",
+  "author": "涛涛(非作者,只搬运)",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8uzirdyip1_avatar.jpg",
+  "tags": [
+    "AI 编程课"
+  ],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">Lighthouse</h1>\n<div>官方网站：<a href=\"https://chromewebstore.google.com/detail/blipmdconlkpinefehnmjammfjpmpbjk\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/blipmdconlkpinefehnmjammfjpmpbjk</a></div>\n<div><strong>Lighthouse 是 Google 开发的网站性能检测工具</strong>，它能全面分析网站的性能、可访问性、最佳实践和 SEO 表现，就像是给网站做了一次全面体检。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">核心功能</h2>\n<div>Lighthouse 提供了全面的网站检测功能：</div>\n<ul>\n<li><strong>性能分析</strong>：测试加载速度、交互延迟、渲染性能</li>\n<li><strong>可访问性</strong>：检查网站对残障用户的友好程度</li>\n<li><strong>最佳实践</strong>：评估代码质量和开发规范</li>\n<li><strong>SEO 检查</strong>：分析搜索引擎优化程度</li>\n<li><strong>PWA 支持</strong>：检测渐进式 Web 应用特性</li>\n<li><strong>详细报告</strong>：提供具体的优化建议</li>\n</ul>\n<div>Lighthouse 让网站优化变得有据可依，帮助开发者构建更好的 Web 应用。</div>",
+  "publishDate": "2025-06-26 11:30",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:07:51.480Z"
+}

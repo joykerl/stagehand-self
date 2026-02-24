@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/iuevbwtfw7",
+  "title": "做了一个semrush的快速阅读关键词工具，快速看semrush的需求结果",
+  "author": "侠狼",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_avatar.jpg",
+  "tags": [],
+  "content": "<div>觉得每次翻译很麻烦，再加上英语不好，阅读起来效率低就想到写一个插件，植入一下到semrush这是第一个版本，效果图如下。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img1.png\" alt=\"Snipaste_2025-08-15_18-04-19.png\" loading=\"lazy\"></div>\n<div>主要是可以快速分辨需求，目前只测试了使用gpt4mini这个APi模型，其他的没测试，具体的可以自己玩一下试试。</div>\n<div>提示词应该也可以改，我没测试，但因为不考虑商业变现，就去考虑那么齐全了，想着免费给大家用，解决我自己痛点优先。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>然后默认接入的是GPT4mini，这个可以自己进行切换使用。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>目前APi平台我用的是这家的：<a href=\"https://api.gpt.ge/register?aff=RSeH\" target=\"_blank\" rel=\"noopener noreferrer\">https://api.gpt.ge/register?aff=RSeH</a></div>\n<div>你们也可以选择用别家的，反正可以自定义，我觉得GPT还可以就足以了，其他的模型没适配，但是应该都是openai接口可以自己配置去选择。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img4.png\" alt=\"Snipaste_2025-08-15_18-06-36.png\" loading=\"lazy\"></div>\n<div>平均一万次翻译大概是一块钱左右，具体的可以自己测测。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img5.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>期望这个小工具对于各位大佬挖掘关键词会有所帮助吧，因为是第一个版本但基本也没什么大问题。</div>",
+  "publishDate": "2025-08-15 18:12",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/iuevbwtfw7_img5.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:30:14.948Z"
+}

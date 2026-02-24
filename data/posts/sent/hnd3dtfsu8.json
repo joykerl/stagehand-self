@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/hnd3dtfsu8",
+  "title": "我做了一个 AI 编程搭档插件，用来获取页面中特定元素的信息",
+  "author": "田宇",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hnd3dtfsu8_avatar.jpg",
+  "tags": [],
+  "content": "<div>用 ClaudeCode 写网页时候，想改一些特定位置的文案，或者特定元素的样式布局，用语言描述要改的东西总是要费很多口舌，之前安装 stagewise 必须安到项目里，现在人家拿了 YC 的投资，也不维护了，索性自己做一个插件，按到浏览器上，任何网页都可以用。</div>\n<div>这样要改哪个元素，就选中它，复制提示词，贴给 AI，然后说需求就行了</div>\n<div><a href=\"https://chromewebstore.google.com/detail/epogfjgecmpoophhgdkcoohofclodlbn?utm_source=item-share-cb\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/epogfjgecmpoophhgdkcoohofclodlbn?utm_source=item-share-cb</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hnd3dtfsu8_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-08-18 11:58",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hnd3dtfsu8_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:29:41.368Z"
+}

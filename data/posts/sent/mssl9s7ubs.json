@@ -1,0 +1,24 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/mssl9s7ubs",
+  "title": "靠广告变站的网站，如何尽可能的在一个用户身上多赚广告费。",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_avatar.jpg",
+  "tags": [
+    "广告",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>好久没开课的哥飞小课堂开课了\n今天中午聊一聊，靠广告变站的网站，如何尽可能的在一个用户身上多赚广告费。\n首先的一个原则就是要让用来从搜索引擎进来之后，来了不想走，至少不想立马关掉页面。</div>\n<div>那么就要求我们的网站真的能够提供满足搜索用户需求的服务。</div>\n<div>不管你是用信息来满足还是用工具或者用其它来满足，都行。\n在这个基础上，要做的就是如何让一个用户多看几次广告。\n注意，这里一定要有刷新页面机制，每次刷新页面后，停留至少3秒，然后再次刷新页面。\n每次新页面，都会展示新广告。\n所以，对于基于用户的输入，我们提供输出的工具站，这种模式就很好用了。\n用户打开页面，看到输入框时，需要看广告。\n点击提交按钮，跳转到新页面，需要看广告。\n在新页面，是否直接显示结果，就要看你的成本了，如果成本高，还可以设计一些中间步骤，让用户参与互动点击，每个步骤都刷新页面。\n最终三五次之后，给用户想要的结果。\n举个下载站的例子。\n用户打开首页，看第一次广告。\n输入搜索词，点击查询，得到搜索结果列表，看第二次广告。\n点击结果中某一个，打开详情页，看第三次广告。\n点击详情页下载按钮，打开一个下载页面，看第四次广告。\n在下载页面，再次点击下载按钮，出现真正的下载页面，看第五次广告。\n卡卡罗特：然后就被百度干掉了。。\n哥飞：不会\n国外有个很有名的软件下载站，域名里有青蛙的那个，就是这么做的\n<a href=\"https://sourceforge.net/\" target=\"_blank\" rel=\"noopener noreferrer\">SourceForge.net</a>\n记错了，不是青蛙，是锻造\n合理设置步骤，主要是有时候我们做的工具还是挺有价值的，但是不方便接入支付，就可以这么做。\n尤其要调用第三方收费接口的工具，只能靠广告收回成本时，就可以这么做。\n但是切记，一定是结合你的产品本身，设计合理的步骤。\n别看我说了那么多步骤，其实前面都是必要的\n就说下载页那里，为什么要单独设置一个下载页？\n因为用户可能有各种系统，各种版本，如果在详情页里把所有下载按钮都展示出来，会很丑，所以增加了一个下载页。\n然后点击下载按钮后，打开新的下载窗口，本身用户也是要等待下载完成的，那么此时显示个广告，也合理。\n好了，分享结束，下课\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img1.jpg\" alt=\"e04f53b10e3e9d7fc30be88248e1d199_.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img2.jpg\" alt=\"fcac8eb2f924dfdb3281443f59a1e28c_.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img3.jpg\" alt=\"3327f3ecfd794b5b214a8e5aa402786e_.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img4.jpg\" alt=\"f197fb06aedd0b23f43cf20632fbea92_.jpg\" loading=\"lazy\"></div>\n<div><a href=\"https://play.dictionary.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://play.dictionary.com/</a>\n这个页面上的游戏，都是很有人气的游戏，可以去玩一下，看看是否可以基于AI改造，或者就是蹭一下AI，一个域名一个游戏，就能传播开。\n这些游戏，在海外，本身就属于有IP的，大家都知道的玩法，那么加上AI之后，去蹭，很容易蹭到。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img5.jpg\" alt=\"d5572d92aa19243d56939bc2bc67f790_.jpg\" loading=\"lazy\">\n举例这个游戏，在各种影视剧中都经常出现\nHobby：有点像扫雷。。\n哥飞：不是，玩法不一样。\n陈宁：填词游戏\n哥飞：国内的话，我记得高中时看各种娱乐杂志，上面就会有这种游戏\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img6.jpg\" alt=\"efde8014bbdc13e41fc2799a936dfc46_.jpg\" loading=\"lazy\">\n需求很大\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img7.jpg\" alt=\"243ccf5cf5234d313a4b91209c42b93a_.jpg\" loading=\"lazy\"></div>\n<div>nyt 的 mini 版本，没那么复杂\n<a href=\"https://www.nytimes.com/crosswords/game/mini\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.nytimes.com/crosswords/game/mini</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img8.jpg\" alt=\"d4ae928fd2c6cc27c590d3a0deceae3c_.jpg\" loading=\"lazy\"></div>\n<div><a href=\"https://www.nytimes.com/crosswords\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.nytimes.com/crosswords</a>\nnyt 也有一个游戏中心\n可以说是国民IP了\nAndy：这种做APP有戏吗？\n哥飞：快速上线，先搞网页版吧\n如果你会App，也可以搞App</div>",
+  "publishDate": "2025-01-13 16:57",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img7.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mssl9s7ubs_img8.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:12:08.794Z"
+}

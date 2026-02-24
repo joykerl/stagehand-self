@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/xt478fm4v9",
+  "title": "当超出Vercel自动部署的次数限制后，在github网页中修改代码并提交，是可以触发vercel的自动部署的",
+  "author": "Dinosaur",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/xt478fm4v9_avatar.jpg",
+  "tags": [],
+  "content": "<div>最近发现github提交代码后，vercel不自动部署了。\n后来了解到Vercel免费版，是有自动部署次数限制的。\n前几天的做法一直是在vercel中先把项目删除，再重新deploy来更新，比较麻烦。\n这两天无意间发现，如果直接在github网页中修改代码并提交，是可以触发vercel的自动部署的。\n这种方式有局限，只适用于修改少量代码的情形，但也能提升一些效率。</div>",
+  "publishDate": "2024-11-26 09:51",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:26:12.335Z"
+}

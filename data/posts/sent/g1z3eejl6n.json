@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/g1z3eejl6n",
+  "title": "【独立开发干货分享】Google Ads谷歌广告投放的经验教训（二）",
+  "author": "程龙",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g1z3eejl6n_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>（转自公众号：思想备忘录）</div>\n<div>我最近做了几个SaaS视频生成产品，也投了一段时间的谷歌广告，打算通过系列文章，和大家分享我在使用Google Ads过程中得到的经验和教训。不敢说是最佳实践，大家可以择其善者而从之，其不善者而改之。上期推送发出之后，我和谷歌广告官方的优化师开过一次视频会议，这一期就和大家分享一下收获。</div>\n<div>一、如何投放不同国家</div>\n<div>我之前其实尝试过投放不同国家，但只开了一个广告系列，在里面选择多个地理位置。根据观察，在日预算固定的情况下，人口基数大的国家会占有绝大多数预算，导致人口少的国家展示和点击次数都较少，需要很多天才能为人口少的国家积累到一定量的数据。谷歌优化师建议为不同国家分别开设广告系列，由于不同国家单次点击成本不同，可以通过设置不同的预算来实现相同的日点击绝对值。在日点击处于同一水平线的情况下，对比不同国家的转化率和单次转化成本，从而确定不同国家的投放效果，当然也可以参考点击率。我们一开始可能会测试投放多个国家，因此这样会使短期成本剧增。折中的方案也许是，不一定追求每个国家有相同的点击量，只不过积累你觉得“足够”数量的点击就可以了。之后，我们可以通过单次转化成本和转化率这两个指标来判断不同国家的广告效果。最后补充一点，如果想在欧洲投广告，需要在自己的网站安装“意见征求模式”，这是一个技术问题，可以去谷歌广告官网了<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g1z3eejl6n_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>二、关于出价策略的补充</div>\n<div>我们在上一期推送中提到，初期可将出价策略设为“点击次数”，积累一定的点击之后将其改为“转化次数”。等转化次数超过50次之后，优化师建议可以设置目标每次转化费用，这个费用要略高于实际的平均每次转化费用。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g1z3eejl6n_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>三、如何选择投放网络</div>\n<div>上次我们提到投放网络只选择“谷歌搜索网络”（这也是优化师的建议），也就是说当用户主动搜索时才显示广告。不过在上一期推送的截图（如下）里，大家可以看到搜索网络合作伙伴也是被选中的。因为根据我自己的实践，搜索网络合作伙伴也可以带来转化，且单次转化成本较低，但与此同时点击率非常低。搜索网络合作伙伴和展示广告网络的广告是被动显示的，可能会浪费预算。但如果预算充裕，试用一下搜索网络合作伙伴未尝不可。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g1z3eejl6n_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>四、广告投放时间</div>\n<div>我们投的是搜索广告，广告展示来自用户的主动搜索，因此优化师建议最好不要限制投放时间。不过在实践中，我发现当地时间白天的转化效果貌似比晚上要好一些。如果不限制投放时间，由于时区不同，当地时间下午之前预算可能已经花光了。这个问题也是见仁见智，绝知此事要躬行。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g1z3eejl6n_img4.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2024-12-19 10:29",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g1z3eejl6n_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g1z3eejl6n_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g1z3eejl6n_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g1z3eejl6n_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:19:31.618Z"
+}

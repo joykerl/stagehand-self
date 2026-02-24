@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/bbjtxnclip",
+  "title": "出海的第一个月，分享下自己这一个月的出海历程",
+  "author": "薯片",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bbjtxnclip_avatar.jpg",
+  "tags": [
+    "网站推荐",
+    "工具分享",
+    "小工具",
+    "工具"
+  ],
+  "content": "<div>大家好，我是哥飞8群的新人薯片君，上个月的月中左右进来的哥飞社群。</div>\n<div>作为新人，第一次在这里发帖，来介绍下自己关于上站的一些心路历程。</div>\n<div>我这里没有什么炫酷的快速拿到结果，只有普普通通的一些入门经历和实践。希望拿到结果的大神们看到可以点拨一二，不胜感激！</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">了解出海web</h1>\n<div>在进来哥飞社群之前几个月有了解到生财有术的一些项目，其中就包括了web出海项目。这个项目属于我觉得比较贴合程序员的一个适合发展的副业。</div>\n<div>然后便开始了尝试，一开始是买了国内的阿里云，因为我是一名Android开发，对于web的前端和额后端都是一无所知。前面一个月用业余时间跑通了一个简单的go后端+nextjs前端的导航小项目。然后跑去申请国内域名备案，那时候属于无头苍蝇，乱走乱转。也不知道能不能盈利，只是去做，去了解。</div>\n<div>然后下一步我觉得应该去哪个平台购买哪个服务器。这个过程也属于很茫然，我觉得这样下去可不行，要花大量时间去验证后面的每一步。这样坚持个一年半载如果还是转不起来的话，很可能web出海这个项目要中途夭折。</div>\n<div>后面发现这样用时间去做试错成本太高了，后面了解到哥飞分享的公众号内容，便顺其自然过来了。 想到的是跟着有结果的人走，至少可以确定走的路是经过验证的。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">航海开始</h1>\n<div>第一个阶段，读了哥飞提供的帖子路径图。\n内容很多，要全部读完和消化完，说实话不是短期能做到的。</div>\n<div>但是这个过程让我觉得踏实了很多，因为我知道了原来我不需要购买VPS，不需要自己搭建自己在国内搭建服务器的全流程。而且还有免费的服务器可以用。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">边做边学</h1>\n<div>边做边学是掌握一件事情的最快方式，于是我做的第一件事情是先跑通整个链路：</div>\n<div>通过工具获取有搜索量的关键字-》\n了解关键字背后的需求，这个需求自己能否做？-》\n能做的话，根据需求购买一个对应关键词的域名-》\n根据关键字和需求开发一个简单的前端项目-》\n接入Google analysis-》\n部署-》\n提交sitemap-》\n发外链（这一步还没开始做）。</div>\n<div>然后成功跑完了一个循环，但是我有点完美主义，觉得做的东西太简单，不好意思发外链。现在我已经开发第四个网站了，还没有开始发外链，不知道这样是不是一个很严重的错误。希望大佬看到可以指点一二。</div>\n<div>后面就是继续前面的循环，陆陆续续又做了两个网站。</div>\n<div>一个是关键字搜索量和KD都还可以的网站，我只花了两个小时开发了一个前端，外链也没发，目前只有每天有十几个浏览量。但是我觉得还有很多需求没有挖掘出来，想着等继续挖掘了需求，满足了再去发外链？还是先发出去，再继续优化？</div>\n<div>另外一个是竞争度很高的工具站，属于一个工具集合。我当时想的是我自己有时候也要使用工具站的一些功能，能不能自己造轮子给自己用？于是有了这个网站。但是感觉这个是不是自嗨产品，现在也很纠结。</div>\n<div>这网站是几十个前端就能实现的工具聚合在一起，但是我觉得这不大行。一个方面是很零碎、另外是每个功能都不能很垂直的满足用户的需求。现在纠结这个站还要不要继续。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">搞了第一个完整的网站（出海Web的导航站）</h1>\n<div>最后一个也是来自于我自己的需求。因为开发的时候，发现很多哥飞文章提到的、或者群里面提到的工具站，是属于从需求挖掘、到设计、到开发、到部署上线、发外链、看数据都有的很多需要用到的网站。</div>\n<div>书签管理的话，一个还很容易遗漏，另外的话，要做精细管理这些书签也麻烦。于是就想着搞一个满足自己需求的出海web网站。包括前端后端，一个搞了两个星期。</div>\n<div>经历了前面一周苦于不用模板重复找轮子的痛苦，后面觉得弃坑用起了模板。一个星期，把这个带有前端、后端、博客、数据库、登录等模块的网站开发了出来。</div>\n<div>由于看到cafe帖子里面和群里面有群友提到经常找不到某一些网址，有问过是否有这样的聚合工具。</div>\n<div>今天这个工具他来了：<a href=\"https://overseasgo.org/\" target=\"_blank\" rel=\"noopener noreferrer\">https://overseasgo.org/</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bbjtxnclip_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>包含三个筛选，一个是search，一个是分类，一个是TAG。</div>\n<div>search就是查找。</div>\n<div>分类是我根据做一个web产品的各个阶段把它分成了不同的时期，不同的时期对应不同的工具使用。</div>\n<div>后面就是TAG，不同TAG对应不同属性的网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bbjtxnclip_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>有做提交网站的模块，欢迎群友过来提交你常用的网站，或者是你们做的工具，让大家用起来。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bbjtxnclip_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">下一个阶段</h1>\n<div>匆匆忙忙搞了一个月，目前我的出海hello world，第一个dollar都还没进账，心情还是有点焦急。</div>\n<div>希望早点接入Adsense，早点接入payment，跑通我的出海hello world！</div>\n<div>也希望和我一样还没有拿到第一美金的群友们一起继续前行。</div>",
+  "publishDate": "2025-06-16 18:41",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bbjtxnclip_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bbjtxnclip_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bbjtxnclip_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:14:36.498Z"
+}

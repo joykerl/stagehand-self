@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/njfyml66eq",
+  "title": "排查vercel的计划任务执行问题的方法",
+  "author": "Cy",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njfyml66eq_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>在vercel配置计划任务以后，如果想检查计划任务配置是不是正确，任务有没有正确运行，可以通过以下几个地方排查：</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">1. 项目ProjectSettings-Cron Jobs</h2>\n<div>如果vercel.json配置正确，这里会显示出当前所有的任务和运行时间，还可以手动触发运行。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njfyml66eq_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>如果部署代码到Production以后，界面显示的是下面图上这样，说明当前计划任务部署有问题，检查vercel.json。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njfyml66eq_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">2. 账户Usage页面</h2>\n<div>这里有一个Cron Jobs调用记录，可以检查Cron Jobs是不是有正常触发\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njfyml66eq_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">3. 项目log页面</h2>\n<div>可以看到Cron Job的运行日志，帮助排查问题。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njfyml66eq_img4.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>另附上官方文档的链接：\n<a href=\"https://vercel.com/docs/cron-jobs\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/docs/cron-jobs</a>\n<a href=\"https://vercel.com/guides/troubleshooting-vercel-cron-jobs\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/guides/troubleshooting-vercel-cron-jobs</a></div>",
+  "publishDate": "2025-01-21 09:30",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njfyml66eq_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njfyml66eq_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njfyml66eq_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njfyml66eq_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:45:28.369Z"
+}

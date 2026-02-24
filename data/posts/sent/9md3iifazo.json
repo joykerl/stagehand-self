@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/9md3iifazo",
+  "title": "第一笔Adsterra广告费电汇到账操作流程",
+  "author": "jsam",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9md3iifazo_avatar.jpg",
+  "tags": [
+    "电汇",
+    "Adsterra"
+  ],
+  "content": "<div>终于，第一笔Adsterra广告费电汇到账，具体的操作流程如下：\n1.电汇的最低金额是$1000，单笔手续费是$50\n2.打开Payment information页面，填写支付信息。(如图) 主要包括：China、USD、WireTransfer(电汇)、Individual(个人)，以及类似于Google Adsense的收款银行账户信息，注意需要使用英文。\n3.上传个人身份证明信息。打开Payments页面，点击Upload Documents，上传身份证或护照。由于需要使用英文版本，我刚好有护照（护照本身是中英混合），因此我上传了护照，泡壶茶的时间就审核通过了。\n4.耐心等几天（不放心可以咨询客服），会收到一份邮件通知，同时在Payments页面的Documents列表会出现一个Agreement文档。先阅读一遍，然后使用英文签名即可。\n5.到了支付日期的前1、2天，Agreement的状态才会改变，变成On review。\n6.开始付款。Adsterra的支付日期是每月的1、2或16、17日，我的是1、2日（它家使用的是格林尼治时间，比我们晚8个小时）。7月1日晚上10点多，收到了招行发来的境外汇入款项的短信，真是快啊！！！\n7.慢着，还没入账呢! 怎么回事?\n1）短信内容是这么说的：【招商银行】您的境外汇入款项 ,业务由开户行处理，请联系开户行。看来遇到了大问题...\n2）于是在招商银行App上咨询了客服。需要我提供卡号、姓名、收款金额、币种，然后她联系开户支行\n8.第二天支行来电，主要是确认个人信息和汇款信息。其中最关键的一点是，问我资金是从哪里汇进来的，我说迪拜，然后她说：迪拜那边金融不太透明，汇款都需要审核。然后我提到Google的可以直接入账，她说美国、新加坡没有这个问题。\n9.提供资料审核。加了支行同事的微信，她给我发了部门的邮箱，然后我将Agreement和Invoice两份文档发到她们部门的邮箱。继续等待...\n10. 7月2日晚上7点多，收到招行发来的入账美元现汇的短信，这下稳了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9md3iifazo_img1.jpg\" alt=\"Adsterra1.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9md3iifazo_img2.jpg\" alt=\"Adsterra2.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9md3iifazo_img3.jpg\" alt=\"Adsterra3.jpg\" loading=\"lazy\"></div>",
+  "publishDate": "2025-07-03 11:43",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9md3iifazo_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9md3iifazo_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9md3iifazo_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:52:55.280Z"
+}

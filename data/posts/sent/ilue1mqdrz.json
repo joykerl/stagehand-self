@@ -1,0 +1,22 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ilue1mqdrz",
+  "title": "分享一个预估网站收入的方法",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_avatar.jpg",
+  "tags": [
+    "广告",
+    "经验",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>今天的#哥飞小课堂 跟大家分享下我最近使用的一个预估网站收入的方法，不一定准确，也是仅供参考。</div>\n<div>这个方法只能用在那些正在投放付费搜索广告的网站上。\n大概的原理是，看他花了多少钱投广告，带来了多少流量。</div>\n<div>既然他愿意长期花这么多钱去投广告来带来这些流量，那么我们可以认为投放广告至少是能回本的。</div>\n<div>然后，我们也可以简单认为，从自然搜索过来的流量，也是精准流量，也能够产生差不多的收益。</div>\n<div>我们拿 ChatPDF 来测试下，过去12个月，自然搜索流量占比35.74%，访问量是24.5M。\n付费搜索流量占比11.77%，访问量是 8.1M。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img1.png\" alt=\"3828610e45332e53170e3a74961faca2_.png\" loading=\"lazy\"></div>\n<div>过去12个月，花了3.2M广告费。\n可以简单认为，8.1M的访问量，至少可以带回来3.2M的收入，这样就刚好回本。</div>\n<div>那么自然搜索带来的24.5M流量，大概价值 3.2*(24.5/8.1)=9.68M 。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img2.png\" alt=\"38bc4a7d89a5c8f075f7d825a01e07ca_.png\" loading=\"lazy\"></div>\n<div>实际这个估算准不准呢？\n我们去找ChatPDF 创始人的推特看看。</div>\n<div>有个小问题，ChatPDF 的创始人 @xathis 好像没公布过 MRR 。\n那我们就按照他广告能够回本来推算吧，广告投放部分刚好回本，自然搜索部分纯赚，过去12个月的收入是9.68M，差不多一千万美元。</div>\n<div>不过这里有点小问题，自然流量真的带来那么多收入吗？\n我们无法知道实际的转化率，即使按照打五折算，过去12个月也有500万美元的收入。</div>\n<div>所以收入规模我们按照5M～10M之间估算吧，取个中间值，750万美元。</div>\n<div>这里还有一个问题，这些产品都是订阅制的，老用户的收入可以不断累积，不断有新增的订阅。</div>\n<div>计算ROI，不能只看广告投放当月的收入，还需要看续订率，看未来几个月的收入。\n但至少我们可以简单的认为，用户LTV可以覆盖广告成本。</div>\n<div>所以，我们可以算一下，每一个访问量的LTV，这个计算不正规，正确的算法是按照注册用户计算哈，但假如注册率是稳定的，那么也可以去算访问量的LTV。</div>\n<div>8.1M访问量，花了3.2M的广告费，那么每一个访问量成本是0.39美金。\n我们前面假设过他能够回本，那么也就是说，平均每个访问量至少价值0.39美金。</div>\n<div>事实上，之前我自己产品，我算过，一个新访问量的价值大概是0.1美金。\n也就是说，他的0.39美金是有可能的。</div>\n<hr class=\"h-2 my-2\">\n<div>苏谨深：侧面可以评估</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img3.jpg\" alt=\"985e01b9dc09610aeff4dc6b4a589a7.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img4.jpg\" alt=\"3b89ba87315b7e7834c878c07838321.jpg\" loading=\"lazy\"></div>\n<div>166666的aff收入（毛估算）</div>\n<div>哥飞：每个月16万美金的aff收入，那么自然流量收入只会更高。</div>\n<hr class=\"h-2 my-2\">\n<div>不分析不知道，原来ChatPDF这么赚钱。</div>\n<div>这时候就不得不佩服我红哥了，把这个词做到谷歌搜索前三。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img5.png\" alt=\"91173f9b7eba62d5e661f6084f35b679_.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-01-15 17:54",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ilue1mqdrz_img5.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:59:29.800Z"
+}

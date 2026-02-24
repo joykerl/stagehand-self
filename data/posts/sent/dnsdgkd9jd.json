@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/dnsdgkd9jd",
+  "title": "索引页面掉半恢复指南，助你点击翻倍",
+  "author": "吴勰",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dnsdgkd9jd_avatar.jpg",
+  "tags": [
+    "网站建设",
+    "SEO"
+  ],
+  "content": "<div>事情回到5月29号，那一天我闲来无事打开GSC后台看到页面索引掉半，突然整个人都傻了。于是开始在向哥飞和论坛上求助，得到了两个信息：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dnsdgkd9jd_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<ol>\n<li>5月29号-6月1号有很多人跟我遇到了一样的情况</li>\n<li>在和哥飞的讨论下，初步页面比较相似，重复读度高</li>\n</ol>\n<div>于是我打开这次所影响的页面，发现都是一个目录结构下的多个页面被取消索引了。打开这些页面发现页面标题和描述之外只有1个h1和2个h2，整体结构比较简单，同时也发现这些页面也没有什么曝光。于是初步定位这些页面被取消索引的原因为页面相似度高，质量差。</div>\n<div>定位到这个问题后后续的解决思路主要有几个：</div>\n<ol>\n<li>丰富页面结构，增加更多H2和H3层级，让页面结构更清晰</li>\n<li>H2和H3的层级内容围绕着关键词去填充</li>\n<li>把相关的页面添加到站点地图里，周期性更新站点地图让谷歌索引到页面</li>\n</ol>\n<div>在这样的操作下，索引从5月底的5000增长至6000，而页面质量的提升带来了曝光和点击的提升。点击从原来的300左右，到6月底已经将近500+。不过整个点击和增长另外一个重要原因就是基本整个6月我都在为网站增加外链。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dnsdgkd9jd_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>如果你索引页面在最近两次的谷歌算法更新受到影响，可以参照上面的做法排除一下，基本思路为：</div>\n<ol>\n<li>排查所影响页面，优化页面结构和内容，让关键词更突出</li>\n<li>持续增加外链，让网站更权威</li>\n</ol>\n<div>以上希望帮助到更多朋友，群友有更多问题可以+V wanxiaoba123</div>",
+  "publishDate": "2025-07-08 23:36",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dnsdgkd9jd_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dnsdgkd9jd_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:50:53.195Z"
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/utjf09t703",
+  "title": "哥飞推算出来了最近一段时间的 GPTs 每天搜索量是2500上下",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_avatar.jpg",
+  "tags": [
+    "需求挖掘",
+    "数据分析",
+    "哥飞小课堂"
+  ],
+  "content": "<div>之前，我们通过一些方式，推算出来 GPTs 的每天搜索量在 5K 左右。</div>\n<div>但如果我们现在去看谷歌趋势，GPTs 的最近30天热度趋势的话，会发现曲线在向下走，也就是说，热度其实在下降。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>那要怎么推断出来，GPTs 的真实搜索量是多少呢？</div>\n<div>已知，在Ads的关键字规划工具里，是无法查询 GPTs 的搜索量的，因为系统把 GPTs 当作 GPT ，直接合并了搜索量，如下图所示，虽然我输入时同时写了 GPTs 和 GPT ，但是最终出来的只有一个词的数据，因为被合并了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>那么，最好的办法，就是基于一个已知搜索量的关键词去推算了。</div>\n<div>刚好哥飞最近有个站，拿到了首页的排名，在 GSC 查看这个词的曝光量，就可以简单当作这个词的每天搜索量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>不过从上图可以看到，有几天的曝光量下降了，这到底是排名下降导致曝光量下降了，还是真的搜索量下降了呢？</div>\n<div>我们就需要去谷歌趋势里导出数据，来基于热度变化，修复一下搜索量。</div>\n<div>下图红色曲线是 GPTs ，蓝色和黄色分别是已知关键词和带双引号关键词的热度变化曲线。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img4.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>可以看到，加不加双引号，热度很接近，这就说明这个词，大家都是这样搜索的，没有其它说法。</div>\n<div>把谷歌趋势里的数据导出，再跟 GSC 里的数据一起发给 Claude ，让他写代码去修复数据。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img5.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>从上图可以看到，12月17和18两天的搜索量被修复了，但即使修复之后，曲线也是下降的，说明那几天，的确整体的搜索量就下降了。</div>\n<div>接着，再把 GPTs 的谷歌趋势相对热度放进去，让 Claude 去推算 GPTs 的搜索量，最终得到下面的这张图片。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img6.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>可以看到，从12月15日开始，GPTs 的搜索量已经变成 2500 上下了。\n而12月15日之前，的确是 5000 上下。</div>",
+  "publishDate": "2025-01-03 19:18",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/utjf09t703_img6.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:15:10.349Z"
+}

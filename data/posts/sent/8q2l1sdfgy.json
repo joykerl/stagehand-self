@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/8q2l1sdfgy",
+  "title": "网站可以正常打开且有用户，但Adsense申请提示\"网站已下线或无法访问\"的解决办法。",
+  "author": "陈鹏旭 Curio",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/8q2l1sdfgy_avatar.jpg",
+  "tags": [],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">问题描述</h1>\n<div>最近我在申请Adsense的时候经常碰到一个很头疼的问题，明明网站是可以正常打开的，拼写也是正确的，而且从GA等平台也可以看到有用户使用和反馈，但是申请Adsense的时候却一直被拒绝，并提示<strong>网站已下线或无法访问</strong>。</div>\n<div>我在互联网上进行了检索，发现有类似问题的中英文帖子提到的解决办法并不能解决我的问题。因为我的服务器是放置在Vercel上面的，互联网已有的解决办法主要是针对服务器放置在国内，海外谷歌爬虫无法访问的问题。如果你的服务器是放置在国内的，可以去搜索引擎上检索<strong>网站已下线或无法访问</strong>，就会出现解决办法。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">解决方案</h1>\n<div>一、首先确认你的<strong>服务器是在海外</strong>的，该解决办法仅针对海外服务器验证过起效果。</div>\n<div>二、首先你需要确认你的<strong>robots.txt文件没有禁止爬虫访问你的网站</strong>，特别是谷歌的爬虫。如果没有robots.txt文件，其实默认不会禁止爬虫，不过建议加上，因为这个文件可以为爬虫起到导航的作用。</div>\n<div>三、确定你的<strong>部署平台没有禁止爬虫</strong>。一些平台，例如Cloudflare或者Vercel，可能有一些设置，会禁止爬虫，确保没有开启。一般情况下，如果你是正常部署，都是没有开启的。</div>\n<div>四、可以用一些第三方工具，如GSC顶部的<strong>网页访问测试工具</strong>。确保网站是可以被爬取的。因为谷歌的爬虫有些时候是爬起移动端的网站，如果移动端网页无法访问，那么谷歌可能就不爬取了。同时，这也可以测试网页十分因为访问速度过慢，导致无法爬取。</div>\n<div>五、如果上诉的方案都无法解决问题，那么你和我碰到了一样的情况，<strong>DNS解析的问题</strong>。我的一些域名是在Vercel上购买的，然后Vercel部署和解析。</div>\n<div>一个现象就是，在申请Adsense的时候，明明放置了ads.txt文件，但是谷歌一直提示无法找到，重试了很多次偶尔有一次找到，后续也容易在申请提示未找到。</div>\n<div>如果你能通过你的浏览器顺畅地访问demo.com/ads.txt文件，那么可能是DNS解析出现了问题。</div>\n<div>解决方案也很简单，我把网站的<strong>DNS解析迁移到Cloudflare</strong>，再去申请Adsense，上面的问题就都解决了，非常丝滑。</div>\n<div>迁移其实也很简单，注册Cloudflare，然后在\"控制台\"-&gt;“账户主页”-&gt;\"加入域\"-&gt;\"输入域名，选择快速扫描 DNS 记录\"-&gt;\"选择不阻止（关）和关闭使用 robots.txt 向 AI 自动程序流量发出指示\"-&gt;“选择免费计划即可”-&gt;\"DNS记录不用管，直接点继续前往激活\"-&gt;\"根据说明关闭DNSSEC（不然后续会SSL的申请可能会有问题）\"-&gt;“把分配的两个NameServer添加你注册域名的网站上，这个可以问AI或者Google”</div>\n<div>接下来点\"立即检查名称服务器\"，这个需要一定时间，差不多是一个小时，当NameServer的信息更新后，你将可以在Cloudflare上管理你的域名。完成后，到Cloudflare上把DNS记录都删了（这会导致域名无法路由到你的主机，请在没有用户的时候操作）。然后根据在Vercel上重新添加域名，并根据指示在Cloudflare添加DNS记录，然后网站就能重新访问了。如果访问识别，请检查SSL，查看是不是DNSSEC的问题。</div>\n<div>然后再去申请Adsense就不会有“网站已下线或无法访问”的问题了。建议后续域名的购买可以在Cloudflare上进行，已经购买的域名也可以转移到CF（需要先再续费一年）。</div>\n<div>以上是我的解决办法，感谢观看，如有问题可在评论区留言，感谢！</div>",
+  "publishDate": "2025-09-12 23:11",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:20:51.587Z"
+}

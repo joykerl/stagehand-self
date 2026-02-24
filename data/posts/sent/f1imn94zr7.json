@@ -1,0 +1,15 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/f1imn94zr7",
+  "title": "Google Analytics 数据混乱追踪，附解决方案",
+  "author": "Ben",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1imn94zr7_avatar.jpg",
+  "tags": [],
+  "content": "<div>今天又发现一个新的坑，研究了半天终于找到原因了，问题是：两个 Google Analytics 有相同的数据。表现：A 网站的浏览量和 B 网站一模一样\n排查了 GA ID 的配置，没有任何问题，两个是独立的 GA ID。\nvercel 的部署也没有问题，数据没有混淆。\n代码也没问题。</div>\n<div>找了半天，发现是  Google Ads 上的配置问题。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1imn94zr7_img1.png\" alt=\"image.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1imn94zr7_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>Google ads 配置的时候，没有注意的话，一路点下一步，可能就会碰到这种情况。\n按照上面截图的路径去修改就 OK。</div>",
+  "publishDate": "2025-06-20 01:34",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1imn94zr7_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/f1imn94zr7_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:13:40.370Z"
+}

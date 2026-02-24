@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/4cyjuu7psp",
+  "title": "【2023.8.24案例拆解】配色参考工具",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/4cyjuu7psp_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/4cyjuu7psp_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这种配色参考工具，其实我们可以做一个，还是很有用户需求的。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/4cyjuu7psp_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>用 tailwind css 做好各种常用的模块，然后增加AI智能推荐颜色功能，一键替换各个模块的配色。</div>\n<div>最重要的是，要能够一键给各个模块配色。</div>\n<div>下一步，还可以由用户自己挑选模块，搭积木一样搭建网站，然后配色，之后下载前端代码。 这里可以收费下载。</div>\n<div>再下一步，可以由用户输入需求，AI来搭积木，给几个方案让用户选择，然后下载前端代码。 依然还是收费下载。</div>\n<div>最终，就实现了AI生成网站。</div>\n<div>那这就是差异化竞争了</div>\n<div>还可以帮用户一键部署到 vercel 或者 cf page</div>\n<div>传出去，老外认证了，aicodeconvert.com 月收入5K</div>",
+  "publishDate": "2025-12-12 16:12",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/4cyjuu7psp_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T16:00:49.664Z"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/by8y500z8c",
+  "title": "如何判断这个词能不能做，个人一点复盘",
+  "author": "班纳",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/by8y500z8c_avatar.jpg",
+  "tags": [],
+  "content": "<div>入群后，就开始进行找词，学习了飞哥的找词经验后，我也尝试找词，但是很多时候，找到词后，不知道这个词能不能做，脑海很多概念都很模糊，为了清晰一点，我大概简短凝练了一些总结：</div>\n<div>拿到新词后，我们执行以下SOP步骤来判断这个词值不值做。</div>\n<div><strong>一般总结下来是：新词更新容易拿排名，大流量词可以根据自身情况选择竞争，小词流量低的不考虑。</strong></div>\n<div>一.看词的流量(原则：量小竞争大不做，量大又一定竞争可以尝试)</div>\n<ul>\n<li>通过GoogTends或者Similarweb 来看这词的月流量是否足够大，以GoogTends为例，对比gpts(月访问5000左右)来对比，比gpts的流量越高的词越值得做。</li>\n<li>去谷歌搜索，看看前10的搜索结果，内页有多少，首页有多少。如果是首页，就看整站流量，如果是内页，就去Similarweb看这个内页拿到的流量。</li>\n</ul>\n<div>二.看竞争程度(原则：KD值越低越好，竞品垄断流量且外链数多要掂量)</div>\n<ul>\n<li>Ahrefs 查看KD值：KD值在0~28合适，越低越好。</li>\n<li>排名前三外链分析：看看这些网站有多少外链，你自己是否竞争过他们(同时针对那些如果外链很多的网站，掂量自己是否能投入这么多的外链进行竞争)</li>\n</ul>\n<div>三.查看域名情况</div>\n<ul>\n<li>\n<div>通过query.domains来查询这个词是否注册了域名，如果注册了，看看这些网站是否拿到排名(如果被注册了，且拿到)\n四.特殊词汇不要碰</div>\n</li>\n<li>\n<div>品牌名，公司名，产品名不要碰，比如Titko(品牌名)，stargate ai(公司名)这些不要碰，容易侵权。</div>\n</li>\n</ul>",
+  "publishDate": "2025-07-10 10:48",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:50:37.552Z"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/huho2uih5v",
+  "title": "【2023.8.28案例拆解】alt text generator",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个可以搞一个小工具\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>微信自带的翻译就可以做到</div>\n<div>但是字体不好看</div>\n<div>参考这个原理，找一些好看的字体</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><a href=\"https://imagealt.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\">https://imagealt.vercel.app/</a>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个词虽然搜索量不是特别高，但是有直接可以使用的模板，一键部署起来就能用。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>有人部署了一下，甚至都没有用自己的域名，直接用的vercel的免费域名，排到了谷歌搜索第三名\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>再次给大家提醒下，vercel 的模板中心是大宝库 <a href=\"https://vercel.com/templates\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/templates</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>刚才的 alt text generator 搜索量很少，截图里这些词搜索量就不小了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-12-11 19:13",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/huho2uih5v_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-12T16:01:22.039Z"
+}

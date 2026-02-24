@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/4fd7ea7a42b2475aa7bf7c36a37f110b",
+  "title": "通过 github action 自动免费获取/更新 SSL 证书",
+  "author": "淡包",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/4fd7ea7a42b2475aa7bf7c36a37f110b_avatar.jpg",
+  "tags": [],
+  "content": "<div>repo 在此</div>\n<div><a href=\"https://github.com/danbao/auto-ssl\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/danbao/auto-ssl</a></div>\n<div><strong>记得不要直接 fork 这个 repo ， 用 clone 然后 push 到你自己的 private github repo</strong></div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">Features</h3>\n<ul>\n<li>自动申请 SSL 证书,并通过 git commit 的方式保存证书到 SSL</li>\n<li>每天检查 SSL 证书是否快过期，如果小于 30 天，自动续期</li>\n<li>每天的检查报告会同步到 CHECK_LIST.md 文件中</li>\n<li>证书是泛域名证书</li>\n<li>同时申请 ECDSA 和 RSA 证书</li>\n</ul>",
+  "publishDate": "2024-07-17 15:21",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:41:09.385Z"
+}

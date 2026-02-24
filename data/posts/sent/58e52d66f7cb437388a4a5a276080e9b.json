@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/58e52d66f7cb437388a4a5a276080e9b",
+  "title": "【faq】 谷歌收录重定向问题",
+  "author": "刘在郑身边",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/58e52d66f7cb437388a4a5a276080e9b_avatar.jpg",
+  "tags": [],
+  "content": "<div><strong>问题描述</strong>：</div>\n<div>我正常提交一个demo.ai域名，然后无意间发现了一个问题，就是google不知道从哪里爬取到了 <a href=\"http://www.demo.ai\" target=\"_blank\" rel=\"noopener noreferrer\">www.demo.ai</a> 的网页了。</div>\n<div><strong>解决办法</strong>\n然后我就开始搜索办法，做了一个域名 <a href=\"http://www.demo.ai\" target=\"_blank\" rel=\"noopener noreferrer\">www.demo.ai</a> 重定向到 demo.ai 。解决了GSC后台 从以前 重复的问题，停止了 但是新的问题又来了，</div>\n<div>google 还是会爬取www 开头的页面，并且问题出现在 【网页会自动重定向】 页面里面一直新增，就是很郁闷了不知道怎么解决啦。</div>\n<div>希望飞哥看到可以解答一下。</div>\n<blockquote>\n<div>另外希望增加一个Faq问题板块，这样可以收录经常遇到的问题，方便后人可以快速检索，解决问题！</div>\n</blockquote>",
+  "publishDate": "2024-07-19 09:05",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:40:04.275Z"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/7mszxon5qg",
+  "title": "利用 vercel.app 挖新词遇到的坑",
+  "author": "浩",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7mszxon5qg_avatar.jpg",
+  "tags": [
+    "游戏",
+    "经验",
+    "需求挖掘"
+  ],
+  "content": "<div>最近听哥飞老师说，多找点词，才有选择的空间。为了找新词，发现关键词词根根本不够用，所以找到了这篇教程 <a href=\"https://new.web.cafe/tutorial/detail/566236a5bb414c7eba92dcbadbf00240\" target=\"_blank\" rel=\"noopener noreferrer\">通过查看 vercel.app 的子域名发现新需求</a>。</div>\n<div>运气比较好，刚实践就发现了这个词：rule34dle <img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7mszxon5qg_img1.png\" alt=\"截屏2025-09-14 10.56.02.png\" loading=\"lazy\"></div>\n<div>直接查这个关键词\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7mszxon5qg_img2.png\" alt=\"截屏2025-09-14 11.09.28.png\" loading=\"lazy\"></div>\n<div>去查域名发现已经有好几个站长注册了，其中一个 org 后缀的站做的还很完善，是个游戏资讯站。当天晚上熬夜花了4个小时撸了一个完整的游戏站，直接抄 org 的文案喂给 AI 生成新的教程文章放到网站里。游戏就直接 iframe 嵌套。</div>\n<div>然后注册域名，提交 cf pages 部署，添加到 Google Console。第二天回来开始发外链，直接从 org 域名那里抄，然后再去 <a href=\"https://egolinks.online/@backlinks\" target=\"_blank\" rel=\"noopener noreferrer\">https://egolinks.online/@backlinks</a> 这里找能发的地方。</div>\n<div>看起来很顺利，但是过了一周还是没给收录。首页可以看到 org 站，我以为是我的域名后缀的问题。但关键来了，这个词目前只有 similarweb 和 Google Trends 能查到量，semrush、bing、ads 都查不到。我一开始以为是因为新词的原因，后来发现尝试投 ads 广告说这个词是敏感词。研究了发现 rule34 这个词是涉及色情内容的关键词，虽然游戏本身不涉及。很有可能是相关域名涉及敏感词，被 Google Console 屏蔽了。</div>\n<div>关键2来了，今天去 reddit 发帖，人家很抵触这种盗版游戏站。换位思考一下，确实是的，别人辛辛苦苦想出来的创意被抄袭。所以这种情况感觉像 org 后缀的那个站，直接做游戏资讯站才是正确的。但有好的选择还是不要挑这种涉及敏感内容的关键词。</div>\n<div>总体来看，rule34 这个词不了解互联网文化的还很容易踩坑。所以动手之前应该先问问 AI 这个词的含义，看看涉不涉及敏感词汇，否则基本上就是白费力气。</div>",
+  "publishDate": "2025-09-14 11:07",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7mszxon5qg_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/7mszxon5qg_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:20:40.784Z"
+}

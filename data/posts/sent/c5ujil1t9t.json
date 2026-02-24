@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/c5ujil1t9t",
+  "title": "新版群聊今日发布，欢迎大家体验，都来提提建议",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/c5ujil1t9t_avatar.jpg",
+  "tags": [
+    "社区治理"
+  ],
+  "content": "<div>大家好，我是哥飞。</div>\n<div>今天是 2025 年 7 月 8 日，我们的新版群聊发布了，界面大概长下面这样。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/c5ujil1t9t_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>大概在 2023 年的 9 月，我发布过第一版的群聊，长下面这样。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/c5ujil1t9t_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>不过大家可以看到，更新停止在了 2024 年 8 月。</div>\n<div>为什么会停止更新呢？</div>\n<div>因为第一版的群聊，强依赖人工整理，没人整理了，就没更新了。</div>\n<div>当时，哥飞考虑的是，群聊里，其实很多时候，会多个话题穿插进行讨论，哥飞想要把每一个话题大家的讨论内容单独整理出来，按照话题来看群聊。</div>\n<div>如“如何使用robots和GSC管理多语言网站的页面索引”这个话题，有12条讨论，点击这个话题，就能够看到讨论，并且当时设想，还可以在网页里基于这个话题继续讨论。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/c5ujil1t9t_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>不过，想法是美好的，人力是有穷的，后面慢慢就没人整理，第一版就荒废掉了。</div>\n<div>那么，为什么不用 AI 来整理呢？</div>\n<div>别说当时 2023 年 9 月的AI 能力，即使现在的 AI 能力，也无法从多个话题穿插进行的聊天里准确的把每个话题的群聊给单独整理出来。</div>\n<div>现在，新版发布了，这次，哥飞换了一种思路来做群聊。</div>\n<div>我们暂时不做整理了，先把完整的群聊信息，直接展示给大家看。</div>\n<div>下一步，基于这些完整的群聊，我们就可以接入各种 AI 能力了，如 AI 总结、AI 搜索、AI 问答等等。</div>\n<div>大家都有哪些需求呢？可以在这个帖子里评论说说看。</div>\n<div>使用过程中的一些建议，也可以在评论区说。</div>",
+  "publishDate": "2025-07-08 18:19",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/c5ujil1t9t_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/c5ujil1t9t_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/c5ujil1t9t_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:51:04.312Z"
+}

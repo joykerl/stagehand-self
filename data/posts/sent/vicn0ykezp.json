@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/vicn0ykezp",
+  "title": "分析网站只需1秒？WebBar一眼看穿网站底细",
+  "author": "Xi5h1r🔅",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vicn0ykezp_avatar.jpg",
+  "tags": [
+    "找词"
+  ],
+  "content": "<div>我是 <strong>TrendsBar</strong> 的作者，向大家介绍一款我刚开发的新插件 —— <strong>WebBar</strong>（是的，它是 TrendsBar 的“亲戚”😎），主打<strong>秒级分析网站</strong>。</div>\n<hr class=\"h-2 my-2\">\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">为什么要做这个插件？</h1>\n<div>在飞哥的找词方法中，<strong>站找词</strong>阶段经常会用到 AITDK 或 SimilarWeb 插件，来查看目标网站的流量情况。</div>\n<div>但实际体验中发现，这类插件由于形态限制，每次查看一个网站都需要一连串操作：</div>\n<ol>\n<li>等待网站加载完成</li>\n<li>点击插件按钮或使用快捷键</li>\n<li>等待插件加载（转圈中…）</li>\n<li>如果默认不是流量 tab，还要手动切换</li>\n</ol>\n<div>当你需要分析多个网站时，这种流程就会变得非常繁琐、拖慢节奏。</div>\n<div>我理想中的体验，是像 TrendsBar 一样：<strong>在浏览器侧边栏常驻一个数据面板，浏览任意页面时自动刷新，不需要手动反复点来点去。</strong></div>\n<div>正好在之前做 <a href=\"https://new.web.cafe/topic/62t8kvsqyy\" target=\"_blank\" rel=\"noopener noreferrer\">域名查询工具</a> 时，已经积累了一套 Whois 和流量数据的接口，于是就顺势把它们整合成了这个新插件。</div>\n<hr class=\"h-2 my-2\">\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">产品介绍：WebBar</h1>\n<div>WebBar 是一款轻量级的网站分析插件，支持：</div>\n<ul>\n<li>秒级展示网站 <strong>流量估算</strong> 和 <strong>Whois 信息</strong></li>\n<li>自动随页面切换刷新数据</li>\n<li>提供 <strong>锁定按钮</strong>，可冻结当前分析页面，避免跳转时被刷新</li>\n</ul>\n<hr class=\"h-2 my-2\">\n<div>感兴趣的朋友欢迎试用体验，也欢迎多提建议：<a href=\"https://chromewebstore.google.com/detail/webbar-website-analytics/apckcoifpncnpfncaceplncfmobgngal\" target=\"_blank\" rel=\"noopener noreferrer\">点击安装 WebBar</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vicn0ykezp_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-07-26 18:48",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/vicn0ykezp_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:43:05.612Z"
+}

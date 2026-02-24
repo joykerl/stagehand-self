@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/rkixedp2nz",
+  "title": "【2025.8.4案例拆解】passionplanner.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_avatar.jpg",
+  "tags": [],
+  "content": "<div>我发现一些 Planner 相关关键词如 2025 planner、2026 planner，被谷歌识别到意图是购物，于是出现了一些商品列表在搜索结果前面。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>而下面的网页搜索结果，也是电商网站，卖纸质的日程规划笔记本，而且设计都很精美，价格都不便宜，十几美元一本。</div>\n<div>以 passionplanner.com 为例，起源于 2013 年，这样的生意居然能够干十几年，而且能够养活一个28 人的团队。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>网站月访问量 180K，就能够养活 28 人团队了。 当然，他们肯定不止在自己官网上卖货，应该也铺到了别的渠道，感兴趣的朋友可以去挖一下。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>同行 bluesky.com 也是差不都流量，171K 每月。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个需求，做成网页版，估计也是可以的，专门适配iPad。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>视频里演示的用法是在 <a href=\"https://passionplanner.com/products/digital-student-planner-2025-2026-elite-black\" target=\"_blank\" rel=\"noopener noreferrer\">https://passionplanner.com/products/digital-student-planner-2025-2026-elite-black</a> 花 53 美金买一个模板，然后让用户在 Goodnotes 这个 App 里使用。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img7.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>如果这个方式走得通的话，你不需要开发在线版的 Planner 了，你只需要去做 Goodnotes 模板，直接在线卖模板就行。 不用物流，不用API 和服务器成本，只需要搞个网站卖模板就行。</div>\n<div>当然，发展到后面，就不仅仅是 Goodnotes 模板，Notion 模板也可以，别的 App的模板也可以。 反正你就是卖 Planner 电子模板。</div>\n<div>用户不操作能看到多少百分比呢？</div>",
+  "publishDate": "2025-10-14 18:07",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkixedp2nz_img7.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T17:51:48.259Z"
+}

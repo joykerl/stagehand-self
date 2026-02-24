@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/y501auvh3v",
+  "title": "nextjs 复制到剪切板问题，调教Claude使用插件",
+  "author": "赖祥敏",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/y501auvh3v_avatar.jpg",
+  "tags": [],
+  "content": "<div>有复制到剪切板的需求，默认Claude给的是使用原生js的方案，本地环境测下来，移动端和PC端都可以复制，但是到了生产端，PC端能复制而移动端无法复制，一直提示copy failed。</div>\n<div>于是乎一直让Claude改，改了还几次都不行，折腾了一个小时，一个小问题啊😡</div>\n<div>然后我突然想到可以让Claude使用插件，Claude推荐\n引入 <code>react-copy-to-clipboard</code> 组件，问题成功解决！\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/y501auvh3v_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-01-07 09:42",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/y501auvh3v_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:14:23.195Z"
+}

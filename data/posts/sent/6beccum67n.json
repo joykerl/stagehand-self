@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/6beccum67n",
+  "title": "如何找到能够从搜索引擎拿到流量的文章模板",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6beccum67n_avatar.jpg",
+  "tags": [
+    "Similarweb",
+    "新词收集",
+    "经验",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>今晚的#哥飞小课堂 分享如何找到能够从搜索引擎拿到流量的文章模板</div>\n<div>其实说白了很简单，就是拿一些有流量的关键词，去谷歌搜索，找排在前面的内容页面。</div>\n<div>拿个实际例子来说，在谷歌搜索“dalle 3 prompts”，可以看到前两名都是 openai 社区里的帖子，先略过。\n第三名就是一个外部网站的内页了。</div>\n<div>网址：<a href=\"https://www.mlq.ai/dalle-prompts/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.mlq.ai/dalle-prompts/</a>\n标题：20+ DALL·E 3 Prompts\n内容：总分总结构，还给出了小目录。</div>\n<div>现在我们找到了一个页面，那么通常就可以认为，既然他这个页面能够拿到流量，是不是有其他页面也能够拿到其他关键词的流量呢？</div>\n<div>打开 Similarweb ，看这个网站的流量关键词，果然又看到很多关键词，都拿到了流量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6beccum67n_img1.png\" alt=\"da886d0548761f86622c1c956a260b2c_.png\" loading=\"lazy\"></div>\n<div>再拿“midjourney v6 prompts”，这回排第二名了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6beccum67n_img2.jpg\" alt=\"d8f3a5ed8574089768283f309ea184a5_.jpg\" loading=\"lazy\"></div>\n<div>网址：<a href=\"https://www.mlq.ai/midjourney-v6-prompts/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.mlq.ai/midjourney-v6-prompts/</a>\n标题：25+ Midjourney V6 Prompts\n内容：同样的总分总结构，有小目录，有题图。</div>\n<div>第三名我刚才截图没有截到，是 <a href=\"https://midlibrary.io/midguide/midjourney-v6-in-depth-review-part-2-prompting\" target=\"_blank\" rel=\"noopener noreferrer\">https://midlibrary.io/midguide/midjourney-v6-in-depth-review-part-2-prompting</a> ，这样我们又发现一个网站<a href=\"https://midlibrary.io/\" target=\"_blank\" rel=\"noopener noreferrer\"> midlibrary.io</a> ，再看这个网站的流量关键词：\nmidlibrary\nmidjourney library\nmidjourney styles</div>\n<div>这些都拿到了比较靠前的位置。</div>\n<div>而且是首页直接拿到的排名，那就可以看看首页的结构。\nT: Andrei Kovalev's Midlibrary: Midjourney AI Styles Library and Guide\nD: The most advanced Midjourney AI Styles Library on the web. 5300+ styles in V5, V4, V3, and niji + Midjourney Guide and weekly Style Tops\nH: The most advanced library of genres, artistic movements, techniques, titles, and artists' styles for Midjourney AI.</div>\n<div>总结一下，通过一个关键词发现一些内页，然后找到这个网站的更多关键词，再根据关键词去找更多的网站，通过这样不算的循环查找，你就能够发现一批能够拿到排名的文章。</div>\n<div>仔细分析这些文章的结构，然后模仿这些文章，让GPT帮你生产新文章。</div>\n<div>注意这里不是让GPT凭空生成文章，而是要提供资料给GPT，让GPT来基于资料进行创作，这样可以确保尽可能少出现幻觉，保证内容的真实性。</div>\n<div>类似的方法还能用于找新词。\n你先随便输入一些新词，在谷歌里看看有哪些网站出现了这些词。\n然后再去这些网站看看是否可以找到更多的词。\n基于这些更多的词，你在谷歌可以找到更多的网站，然后再找到更多的词。\n最后你就能够得到一个经常出现新词的网站列表。\n然后重点关注这些网站的最新内容。</div>\n<div>今晚的哥飞小课堂讲完了，下课了哦</div>",
+  "publishDate": "2025-01-14 11:41",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6beccum67n_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/6beccum67n_img2.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:08:56.484Z"
+}

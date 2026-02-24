@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/yalrb0inbl",
+  "title": "大佬帮忙分析下，流量为什么是零？",
+  "author": "Albert Z",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yalrb0inbl_avatar.jpg",
+  "tags": [
+    "谷歌搜索",
+    "反向链接",
+    "关键词",
+    "找词"
+  ],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">看了个词</h1>\n<div>全球搜索量142K，KD36，以我浅浅的经验来说，可以进步一研究下。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yalrb0inbl_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>google前10的网站1个独立站，9个内页，没有一个域名是这个关键词，第三名的反向链接只有20个，其余的估计应该都是整个网站的反向链接。以我浅浅的经验来说，可以搞搞呀。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yalrb0inbl_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>以我浅浅的经验，这么样的词，不可能等着我来呀。果然，com org net 域名全都注册了。但是KD36，搜索结果前十网站域名没有关键字，还可以继续研究下。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">看了个寂寞</h1>\n<div>org net 网站直接打不开，只有com网站可以打开，24年12月注册的网站，做的内容还不错，该有的都有，还有多语言，blog还不少。用AITDK打开，一看流量是0，看了寂寞。</div>\n<div>按道理说这个网站在google里面有索引页面225，AOL里面也有248，怎么没流量？\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yalrb0inbl_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">以我浅浅的经验分析下</h1>\n<div>1、Canonical 首页没有，其他页也没有。</div>\n<div>2、首页跳转有问题，域名过来后他跳转到了en目录下，为什么不直接首页英语页？</div>\n<div>3、首页跳转后，字数只有100多个。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">大佬帮忙分析分析，还有哪里有问题</h1>",
+  "publishDate": "2025-08-14 11:39",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yalrb0inbl_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yalrb0inbl_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yalrb0inbl_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:33:00.469Z"
+}

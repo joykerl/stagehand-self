@@ -1,0 +1,26 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/kdalklfk7v",
+  "title": "被 Bing K 站了怎么办？（历时整整2个月的完整解决过程）",
+  "author": "蓝星空",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_avatar.jpg",
+  "tags": [
+    "Bing",
+    "SEO"
+  ],
+  "content": "<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">Bing 索引（被K站）问题解决的时间线</h2>\n<ol>\n<li>\n<div>6月21日\n发现使用 site: lanxk.com 在 Bing 搜索结果为空的异常情况</div>\n</li>\n<li>\n<div>6月22日凌晨2点多\n第一次提交申诉 收到 Copilot 自动回复，提示存在 SEO 问题 选择继续提交表单 收到系统自动发送的确认邮件</div>\n</li>\n<li>\n<div>6月22日 - 7月14日期间\n利用等待时间，使用 Bing Webmaster 工具检查网站 发现并解决了大部分 SEO 问题（从83个错误减少到20多个）</div>\n</li>\n<li>\n<div>7月14日\n第二次提交申诉 这次 Copilot 没有提示 SEO 问题 再次收到自动回复邮件</div>\n</li>\n<li>\n<div>7月22日（约8天后）\n收到第一封人工回复邮件 被告知网站已发送给产品审核小组进行进一步评估 预计需要几周时间完成审核</div>\n</li>\n<li>\n<div>8月19日（约4周后）\n收到第二封邮件通知，是个好消息：网站问题已经解决！</div>\n</li>\n<li>\n<div>总体耗时 从发现问题到最终解决：约2个月\n第一次申诉到第二次申诉：3周\n第二次申诉到问题解决：约5周\n二次申诉到问题解决：约5周</div>\n</li>\n</ol>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">Bing 索引（被K站）问题的解决过程</h2>\n<div>6月21日发现在 Bing 使用 site: lanxk.com 搜索的结果为空（不管是使用必应国内版，还是 Bing 国际版都是空的），如下图：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>于是在6月22日凌晨2点多开始走申诉流程，不过这次跟之前提交的申诉流程好像有点不一样，这次是先弹出一个 Copilot 自动回复，提示我的网站有一些 SEO 问题，如下图所示：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>我选择了继续提交表单，然后收到了一封系统自动发来的邮件自动发送的邮件\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img3.png\" alt=\"image.png\" loading=\"lazy\">\n之后几天一直也没啥消息，于是使用 Bing Webmaster 后台的各种工具再检查一下网站，看看能不能找出解决方法。</div>\n<div>使用 URL 检查发现了一些 SEO 问题：</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img4.png\" alt=\"image.png\" loading=\"lazy\">\n打开 Recommendations 页面提示有 83 个 SEO 错误：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img5.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>反正闲着也是闲着，在等待回复的这些天里，花了一些时间解决了大部分提示的问题：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img6.png\" alt=\"image.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img7.png\" alt=\"image.png\" loading=\"lazy\">\n等了3周时间还没有收到回复后，我于7月14日又提交了一次申诉，不过这一次 Copilot 没有再提示有 SEO 问题，看起来比上次要顺利一些了，如下图所示：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img8.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>然后马上又收到了一封跟6月22号那天一样的自动回复邮件。</div>\n<div>这次大概在8天后就收到了第一封人工回复的邮件，内容大概是说： 我们已审核您的网站并将其发送给我们的产品审核小组进行进一步评估。Bingbot 将继续根据 Bing 网站管理员指南对其进行评估，以确定是否应该将其编入索引。 审核过程通常需要几周时间，具体取决于您网站的复杂程度。审核完成后，我们将向您发送电子邮件通知。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img9.png\" alt=\"image.png\" loading=\"lazy\">\n没办法，只能继续等，这几周时间是很难熬的，因为我能做的事情基本上都已经做了，现在就只能等了，不过 Bing 这几周一直在索引我的网站内容，索引都还在，只是在搜索结果里面看不到。</div>\n<div>又等了4周时间后，在8月19日终于等来了好消息：网站问题已经解决！\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img10.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-08-29 22:56",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img8.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img9.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kdalklfk7v_img10.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:24:19.487Z"
+}

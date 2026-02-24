@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/41ynvpcdrl",
+  "title": "合理利用谷歌趋势双引号用法区分关键词真实搜索量",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/41ynvpcdrl_avatar.jpg",
+  "tags": [
+    "需求挖掘",
+    "数据分析"
+  ],
+  "content": "<div>举例 2025 calendar 和  calendar 2025 在谷歌看来意思相同，要找的信息也相同，所以在谷歌趋势里看到的曲线是同一条。</div>\n<div>但实际上，不同的人用不同的说法，这两个说法的热度肯定不一样的。</div>\n<div>这时候，我们就可以用双引号语法来确认，每一个关键词，其自身不包含别的同义词的热度到底有多大。</div>\n<div>看下图，当我们加上双引号之后，变成  \"2025 calendar\" 和  \"calendar 2025\" 就可以很明确的知道，这两个不同的说法量的大小是多少了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/41ynvpcdrl_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2024-11-19 15:23",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/41ynvpcdrl_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:28:55.903Z"
+}

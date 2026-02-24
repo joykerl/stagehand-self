@@ -1,0 +1,24 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/m6gt2dznp6",
+  "title": "为什么我的那几个站最高可以做到10美元的ECPM？",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_avatar.jpg",
+  "tags": [
+    "Adense",
+    "广告",
+    "哥飞公众号归档"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img1.jpg\" alt=\"72a5eb662974434a65e556ab848b758e.jpg\" loading=\"lazy\"></div>\n<div>上次这篇文章&nbsp;<a href=\"https://mp.weixin.qq.com/s/PgAO0CxUdUyYP1xz3PNmIw\" target=\"_blank\" rel=\"noopener noreferrer\">[8000字讲解]人人都能学会的英文网站 Adsense 赚钱入门</a>&nbsp;中间提到，有人提问，“为什么我的那几个站最高可以做到10美元的ECPM”，今天来回答下这个问题。</div>\n<div>先看下上面的图片，每千次展示收入，就是ECPM，最高的一个网站拿到了9.95美元，之后有8.94美元的，有6.26美元的。</div>\n<div>而一般来讲，英文站大概在5美元上下，为什么有几个站都能超过5美元？这说明什么？</div>\n<div>这说明拿到高收入并不是撞运气的事情，而是可操作的事情。</div>\n<div>其实就8个字可以概括，“离钱越近，单价越高”，要说明这8个字，我就得给大家讲故事了。</div>\n<div>话说，很久很久以前，那还是我还在读大学的时候，我做过一个图片站，从搜索引擎的图片搜索里来了不少流量。</div>\n<div>后来毕业后再次做网站，我又想起这事，我能不能继续从图片搜索里获取流量呢？</div>\n<div>我就做了一个尝试，去 ebay 上抓取了一些热门商品的，包含商品名称、描述和多张图片。</div>\n<div>然后快速做了一个特别简单的网站，首页瀑布流显示图片列表。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img2.png\" alt=\"05a128d58e482542f629affc116627d7.png\" loading=\"lazy\"></div>\n<div>首页点击进去是商品详情页，展示商品图片信息。商品图片上方是商品标题，下方是商品描述。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img3.png\" alt=\"d3ebbf9077a3875ef480ff3502b02ff4.png\" loading=\"lazy\"></div>\n<div>另外还把商品标题和描述分词当成标签，给每个标签都做了页面，展示有这个标签的所有商品图片。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img4.png\" alt=\"6b91d6e76f083a7f6581f089167fcfdf.png\" loading=\"lazy\"></div>\n<div>就这么个简单的网站，花了2天时间开发，上线之后，很快被谷歌收录，然后流量进来，开始有广告费了。</div>\n<div>而且，广告单价居然还不错。</div>\n<div>我就立马去找 ebay 上有哪些热门商品类目，每个类目都注册了一个域名，总共注册了差不多10个域名。</div>\n<div>然后花了两周时间，做了一个站群系统。同一台服务器，只需要部署一套程序，就可以在Nginx绑定N个域名上去，一个域名一个站。</div>\n<div>在后台添加好网站，再给网站添加好分类，再给每一个分类配置一到多个ebay的商品列表网址，网站就配置好了。</div>\n<div>之后爬虫就会自动取抓取商品列表，然后再抓取每个商品，之后入库，做好一定的解析处理后，就会显示到前台。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img5.png\" alt=\"c75aa2a1305b9a5cb2a68ab63bbaf25d.png\" loading=\"lazy\"></div>\n<div>也就是说，我只要注册个新域名，做一些配置，就能快速上一个新的商品图片网站。把注册好的近10个域名都配置上去后，这些网站就开始自动运行了。</div>\n<div>同样的，很快就被搜索引擎收录，之后跟我预想的一样，从谷歌图片搜索来了很多流量。</div>\n<div>看完上面的故事，我们现在终于可以解释下“离钱越近，单价越高”这8个字了。</div>\n<div>这里的离钱越近，指的是你的访客来你网站的目的，应该是跟钱相关的。</div>\n<div>例如，会来我这些商品图片站的，其实都是有购买意图的。他们搜索某些商品的名字，看到了我的网站的图片，进而点击进来了，那么他们就是属于离钱很近。</div>\n<div>离钱越近，广告单价就越高，因为有着强烈购买意图的人，很有可能会点击广告，那么这些广告主愿意出的广告单价也就越高。</div>\n<div>那么，为了让广告尽可能的匹配用户的意图，我做了什么呢？</div>\n<div>看下图，我用商品的标题、描述和商品标签，把两个广告位给包围起来了。因为谷歌显示广告的一个原则是读取你的网页内容，显示与广告位代码附近网页内容最匹配的广告。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img6.png\" alt=\"604f5eced63fc611f9245df0b8b5e6e5.png\" loading=\"lazy\"></div>\n<div>一个页面最多可以放3个广告位，如下图所示，我把第3个放在了商品大图列表的第一张图下方。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img7.png\" alt=\"729f574c7156591e6bfdcc6100831a19.png\" loading=\"lazy\"></div>\n<div>好，总结一下，我通过把商品图片周围放置商品标题、描述等信息的方式，让谷歌爬虫知道，这些网页内容信息跟图片很相关，这样就能够从谷歌图片搜索获取精准的流量。</div>\n<div>再把广告位放在商品信息旁边，让广告显示的内容尽可能跟商品信息相关，进而提高广告单价。</div>\n<div>就这两个操作，现在你依然还可以这样做。</div>\n<div>最后再说个遗憾，我做的这些网站里，刚好有个类目是婚礼相关的，如婚纱、高跟鞋、邀请函、装饰品等。</div>\n<div>我发现这个网站既能来流量，单价又高，是最赚钱的网站之一。</div>\n<div>但是我没有深入分析下去，为什么赚钱，以及如何更赚钱。</div>\n<div>直到几年后，跟人交流才知道，那几年，他们做婚纱外贸，赚了很多钱。</div>\n<div>假如，假如，我当时早点知道，是不是就可以直接自己搞个婚纱站点，自己搞流量，自己卖婚纱，赚更多钱呢？</div>\n<div>但是，但是，这个世界上没有后悔药可以吃。我现在就只能感叹一声，要是早点跟人交流就好了。</div>\n<div>不知道你是否会有这样的想法呢？</div>",
+  "publishDate": "2025-01-14 16:07",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m6gt2dznp6_img7.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:05:37.405Z"
+}

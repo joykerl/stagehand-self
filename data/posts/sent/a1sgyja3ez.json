@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/a1sgyja3ez",
+  "title": "【2025.6.12案例拆解】how to delete",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>刚看到一个App，解决的痛点是“一边录制视频一边继续播放音乐（而不会被系统的默认相机应用暂停）”，并且还可以选择把音乐也录制到视频里去，SensorTower 显示月下载量不足5K，但是月收入$8K左右，平均一个下载能到$2。 有这个需求的人，会搜索 How To Play Music while Recording Video ，所以这个App的官网直接把这句话当作首页标题了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>所有的how to关键词，背后的需求，都可能可以做一个工具来满足。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>举例，删除IG账号，这就是一个需求，也许你可以写一篇图文教程来满足需求，也许你可以做一个工具来满足需求，你还可以录制一个教程视频发到Youtube，上面带上你的工具或者网页地址。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>假设你以前不知道有how to delete相关需求，现在你知道了，你用谷歌搜索下拉推荐，可以看到更多的删除需求。 有些需求，有人做了浏览器插件，用户量还不少。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个删除页面元素插件，周活8万，我理解这里有一部分是去广告需求，但也不仅仅只有去广告需求，还有别的需求。</div>\n<div>其中有个需求是修剪出适合打印为PDF的网页，如图片这里举例的菜谱网站，删除视频。 我也有类似的需求，我写了一个bookmarklet放书签栏里，打开公众号文章后，点击这个书签，就可以清除别的元素，只保留正文，然后就可以打印为pdf 。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-10-20 16:39",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a1sgyja3ez_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T17:24:16.928Z"
+}

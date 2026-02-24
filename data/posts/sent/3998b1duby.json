@@ -1,0 +1,24 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/3998b1duby",
+  "title": "利用谷歌「广告信息公开中心」查询别人都在投什么广告",
+  "author": "lyd",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_avatar.jpg",
+  "tags": [
+    "广告",
+    "Google Ads",
+    "广告投放"
+  ],
+  "content": "<div>很多人可能不知道，谷歌其实是有一个「广告信息公开中心」，在这我们能查到全球所有投放谷歌广告相关的信息，并且全部都是实名的！</div>\n<blockquote>\n<div>入口：<a href=\"https://adstransparency.google.com\" target=\"_blank\" rel=\"noopener noreferrer\">https://adstransparency.google.com</a></div>\n</blockquote>\n<div>查询方式：</div>\n<ul>\n<li>可以根据时间/位置/平台进行筛选！</li>\n<li>可以输入主体姓名/网站名称/广告名称进行检索，可以模糊查询。</li>\n</ul>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img1.png\" alt=\"adstransparency-谷歌广告信息公开中心\" loading=\"lazy\">\n比如群里面早上提到的「Jenni AI」，我们通过网站进行查询，发现主体是「Altum Inc.」\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img2.png\" alt=\"adstransparency-根据网站查询Jenni AI广告投放\" loading=\"lazy\">\n点开主体投放详情，发现它在全球投放了700个广告！\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img3.png\" alt=\"adstransparency-Altum Inc.广告投放情况\" loading=\"lazy\">\n我们也可以根据广告类型进一步筛选，比如看它投放了哪些「视频广告」\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img4.png\" alt=\"adstransparency-根据广告格式进行筛选\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img5.png\" alt=\"adstransparency-Altum Inc.投放的视频广告\" loading=\"lazy\">\n它甚至还支持模糊查询，比如你输入「李」就会找到很多中国个人投放的广告信息\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img6.png\" alt=\"adstransparency-根据个人主体模糊查询\" loading=\"lazy\"></div>\n<div>也可以直接输入公司名称查询投放了哪些广告。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img7.png\" alt=\"adstransparency-根据公司主体查询\" loading=\"lazy\"></div>\n<div>由于以上信息都是经过实名认证的，所以信息非常安全可靠，我们就可以通过分析广告投放情况去挖掘到哪些赚钱的产品。</div>",
+  "publishDate": "2024-12-02 11:20",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3998b1duby_img7.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:22:20.573Z"
+}

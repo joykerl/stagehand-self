@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/o4einn3grs",
+  "title": "GSC 数据最长只保存 16 个月，滚动删除，如有需要请自行下载保存",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o4einn3grs_avatar.jpg",
+  "tags": [
+    "GSC"
+  ],
+  "content": "<div>哥飞给大家一个小提醒， GSC 最长只能看到过去 16 个月的数据，而且是滚动更新的。</div>\n<div>也就是假如你的网站上线至今已经超过了 16 个月了，那么随着时间的滚滚向前，16 个月前的数据，就会不断消失。</div>\n<div>如果我们想回溯之前的数据，唯一的办法是定时把数据导出，然后做好合并，之后写个网页把数据重新展示出来。</div>\n<div>另外，网站数据是跟资源绑定的，也就是跟域名绑定的，如果从你的账号里把资源删除，数据并不会消失，假设你的域名到期不续费了，之后注册到了，他去 GSC 验证后，就能够看到你网站之前的数据。</div>",
+  "publishDate": "2025-10-22 10:51",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T17:06:59.259Z"
+}

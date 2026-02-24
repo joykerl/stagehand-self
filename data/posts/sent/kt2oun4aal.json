@@ -1,0 +1,28 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/kt2oun4aal",
+  "title": "半个月78万PV的新词新站建站过程全记录",
+  "author": "林克森",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_avatar.jpg",
+  "tags": [
+    "需求挖掘",
+    "SEO",
+    "Adsense",
+    "新词新站",
+    "高手分享"
+  ],
+  "content": "<div>新词建站过程记录。基本过程如下：</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">1、新词查找(1)</h2>\n<div>思路是先确定基础词，这个基础词的来源，可以根据哥飞的微信公众号文章中的来查找，找到后，就可以在Google Trends中长期关注，这个没什么取巧的方法，需要长期慢慢来找，一下子就找到新词的概率很低，找到了也要交叉去验证准确性，我现在基本使用gpts这个关键词当作基准来比对获取大致的数量级，关于长期关注的，我是直接把查询的url保存到收藏夹，有时间了就去看看，有没有需要关注的。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>11月18号晚上，我习惯性地查看谷歌趋势，发现了一个特别热的新词。截图是后面补的，可以从图中看到，11月17号之后趋势和gpts基本上是一样高的。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">2、新词核验(1)</h2>\n<div>确定是不是有人做了，我在谷歌上搜索了一下，发现还没有相关网站。新词有个特点，你去搜索引擎查，能提供的内容很少，很多也只是稍微沾点边，这样基本可以认为搜索引擎也没有高质量的内容，我们来提供内容，大概率会排第一。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">3、注册域名(2)</h2>\n<div>准备做这个新词，第一步是注册域名，按照哥飞一直说的原则，注册关键词作为域名，这里有个细节，我犹豫了一下，这个关键词很长，其中一个单词其实我认为没什么必要，犹豫要不要去掉，最后还是决定按照哥飞说的原则来做，当时已经晚上11点，就注册了一个.com域名。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">4、建站上线(4)</h2>\n<div>开始建站，我前期已经上线了4个网站，都是基于nuxtjs做的，有一个快速上架网站的模版，直接套用以前的模版，大概在凌晨一点半上线了网站，之所以可以这么快的上架，是跑通了自动化流程，我现在的技术架构是nuxtjs+cloudflare的pages，代码在github，实现了devops，提交代码就自动部署了，网页的内容都是使用md和yml文档，用nuxtjs的content渲染，上新站所需的内容，就是编写md和yml文档，md和yml可以让chatgpt快速生成。\n当然我们每个人的技术储备不一样，这个可以根据自己的情况来找到适合自己的技术路线，我看很多人用wp，效果也很好，只是我更熟悉nuxtjs技术栈，就使用的nuxtjs。另外cf pages的好处是可以快速回滚，如果哪个版本有问题，可以直接恢复网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img2.png\" alt=\"图片1.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img3.png\" alt=\"图片2.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">5、提交收录(4)</h2>\n<div>开始提交网站到Google收录，整个建站流程算是做完了。早上起来，我惊喜地发现流量爆发，几乎没有人在做这个词。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">6、外链建设</h2>\n<div>关于外链，这段时间关注到群里在讨论，GitHub的权重很高，首先注册了GitHub账号和仓库，把有关信息都放上去，基本就是网站的关于的内容稍微加工后，放到了readme中，另外GitHub有个特殊的仓库，用来介绍账号信息的，只要进入到账号首页就能看到，实际操作下来这个我认为是权重最高的。这个仓库和你的账号名字是一摸一样的，可以在这里的readme页面添加网站的链接，仓库的about也可以添加网站的链接。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img4.png\" alt=\"图片3.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img5.png\" alt=\"图片4.png\" loading=\"lazy\"></div>\n<div>这个GitHub其实是我最成功的举措，后续的流量大部分来自那里。可以看到上面截图中的来源，GitHub占了很大一部分。另外就是注册x和YouTube的账号，这个都可以添加链接，另外YouTube本身也有自然搜索的流量，我截图上也可以看到很大一部分流量来自YouTube。而且YouTube本身也是变现渠道，可以作为新的收入来源。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img6.png\" alt=\"图片5.png\" loading=\"lazy\"></div>\n<div>随着更多人发现这个词，我的排名逐渐下降，但GitHub的排名一直保持在第一。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">7、广告变现</h2>\n<div>三天后我申请了谷歌广告，没想到不到24小时就通过了，接着收入增长迅速，一天不到差不多达到了三百美元。经验就是，只要你流量足够高，审批就会非常快。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img7.png\" alt=\"图片6.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img8.png\" alt=\"图片7.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">8、后续</h2>\n<div>后来我发现原作者删掉了游戏工程，导致流量受损。我暂时将网站切换到一个旧的游戏，注册了YouTube账号并上传了一些视频，粉丝增长迅速，现在大概500个粉丝了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img9.png\" alt=\"图片8.png\" loading=\"lazy\"></div>\n<ul>\n<li>后续我复刻了一个简版游戏，结果很多人直接复制了我的版本。</li>\n<li>为了保护自己的作品，我在CloudFlare上申请了DMCA，就是如果发现侵权，如果对方域名在cf托管，可以去举报，<a href=\"https://www.cloudflare.com/zh-cn/trust-hub/reporting-abuse\" target=\"_blank\" rel=\"noopener noreferrer\">举报链接</a>，cf会通知对方，最后侵权者也删了盗版的作品。</li>\n</ul>\n<div>不过这个小游戏难以防盗，后来又有人盗取我的网站。我因为新的项目忙于加班，没时间维护网站，流量开始下滑。</div>\n<ul>\n<li>目前的统计数据是11万的UV和70多万的PV，觉得自己运气不错。</li>\n<li>在群里学到了很多，同时也意识到建站后的运营要加快。</li>\n</ul>\n<div>尽管开始排名很高，点击率也不错，但面对竞品的竞争，我的外链质量和引用都不理想，导致效果不佳。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">9、总结</h2>\n<div>新词是关键，词对了，流量不是问题，剩下的难点就是怎么保住排名，我现在做的效果很差，外链还是少，网站的内页做的也比较差。另外就是心态，毕竟新词没那么好找，这个时候更多的是平常心，坚持下去是最重要的，另外就是别犹豫，持续上站，总有爆发的时候，如果没有前面几个网站的积累，我也不可能在发现新词后，那么快上站。另外新词毕竟很稀缺，可以在老词和老需求中寻找新的机会，前段时间群里分享的老词，也说明是有机会的。</div>",
+  "publishDate": "2024-12-04 12:30",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img8.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kt2oun4aal_img9.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:21:48.877Z"
+}

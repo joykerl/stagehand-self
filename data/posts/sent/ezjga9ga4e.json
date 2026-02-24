@@ -1,0 +1,25 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ezjga9ga4e",
+  "title": "如何收集，管理外链？",
+  "author": "索悟",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_avatar.jpg",
+  "tags": [
+    "小工具",
+    "外链",
+    "工具"
+  ],
+  "content": "<div>基于群友的帖子\n<a href=\"https://new.web.cafe/tutorial/detail/9mmgk78zi4\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/tutorial/detail/9mmgk78zi4</a>\n加上我在收集外链中遇到的一些痛点，我做了一个外链管理站。主要用来比较方便的记录我自己收集了哪些外链。并且我自己的网站都已经在哪些外链站上添加了外链。（文末有git命令，可以安装部署到自己的本地使用）</div>\n<div>下面我来介绍一下相关的功能（界面比较简单，主打能用就好）</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">我的网站</h2>\n<div>这个页面主要是用来记录自己做了哪些网站，点击域名可以很方便的跳转到自己的网站页面，另外也可以看到网站已经加了多少外链（自己添加外链时实时记录，非网站实际数据）\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img1.png\" alt=\"截屏2025-07-17 00.26.09.png\" loading=\"lazy\">\n从操作界面的查看进入，可以看到下面的界面\n这个界面是当前选中的网站的外链详情记录，比如这里显示的是new web网站添加外链的情况。这个页面会显示你收集的所有外链。其中大家疑惑的两个值可能是可用性和发布状态。这里我需要解释一下。</div>\n<ul>\n<li>可用性：这个站，已经确认是可以加外链的，但是目前我的技术水平无法在这个站上加外链，就会标记为不可用。后续我的技术水平提高了，可以加上外链了，我就会标回可用</li>\n<li>发布状态：用来记录收集的所有外链站中，哪些外链站已经发过了当前网站的外链。只需要点击一下发布就可以记录，删除就可以取消记录。操作中的文案是我用程序写的快捷文案，方便快速复制发布\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img2.png\" alt=\"截屏2025-07-17 00.30.07.png\" loading=\"lazy\"></li>\n</ul>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">外链来源</h2>\n<div>这个界面相当于收集的所有外链站的看板，可以看到外链站的详情。右上角的添加来源可以手动添加新发现的外链站。当然，建议使用后面介绍的批量导入功能，更加方便。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img3.png\" alt=\"截屏2025-07-17 00.38.03.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">数据导入</h2>\n<div>这里我先跳过待探索站和过滤域名，介绍一下数据导入，这个算是我这个小工具的核心功能。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img4.png\" alt=\"截屏2025-07-17 00.41.18.png\" loading=\"lazy\">\n它支持单个文件的导入，也支持多个文件的导入。当然有所限制</div>\n<ul>\n<li>单个文件：支持semrush下载下来的csv文件以及帖子<a href=\"https://new.web.cafe/tutorial/detail/9mmgk78zi4\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/tutorial/detail/9mmgk78zi4</a> 中通过工具从Ahref下载下来的json文件</li>\n<li>批量导入：仅支持从Ahref上下载下来的json文件\n导入文件后效果如下\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img5.png\" alt=\"截屏2025-07-17 00.44.31.png\" loading=\"lazy\">\n这里我是这样考虑的，很多外链站，对我们新站长而言，并不能在它上面添加外链，比如维基百科这类。所以我没有直接将外链数据导入到外链来源中进行管理。而是暂时放到数据导入界面。这里面所有的外链网站，都需要我们一个个去看，确认这个网站我们可以用来发布外链，才将它加入到外链来源中。</li>\n</ul>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">待探索站</h2>\n<div>可以看到刚刚上面的导入有四个按钮，其中有一个是加入到探索站中，这个功能，实际上算是一个需求查找的辅助功能。在收集外链的过程中，肯定会有一些站，值得我们学习，我一般都是放到收藏夹，但是它并不是很直观。在这个外链管理工具做出来后，我就顺便做了这么一个收藏夹增强的功能。用来记录我后续可能会研究，发现新需求的网站。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img6.png\" alt=\"截屏2025-07-17 00.50.39.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">过滤域名</h2>\n<div>收集外链站的时候，肯定是效率越高越好，提高效率的一点就是，减少重复工作。过滤域名的作用就在于，收集外链的时候，有些网站会频繁出现，但是我们又无法在上面发外链，那么就需要在导入的时候就将这些网站过滤掉。过滤域名支持精确匹配和通配符匹配。可以自行添加，也可以在数据导入界面点击过滤按钮直接过滤（直接过滤只有精准匹配，如果徐需要通配符匹配，需要自己手动添加或者修改）\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img7.png\" alt=\"截屏2025-07-17 00.51.13.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">数据备份</h2>\n<div>这个功能主要是方便备份数据。它会在backup目录下生成当前所有数据的sql文件。可以定期备份一次数据，将备份文件放置到安全的地方，防止电脑出现不可预测的问题，导致自己辛苦收集的外链全部泡汤。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img8.png\" alt=\"截屏2025-07-17 00.54.49.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">下载使用</h2>\n<div>最后，我放一下这个项目的git地址，大家可以通过这个地址下载使用，欢迎勘误。</div>\n<div><a href=\"https://gitee.com/ljh1997git/linkmanager-public\" target=\"_blank\" rel=\"noopener noreferrer\">https://gitee.com/ljh1997git/linkmanager-public</a></div>",
+  "publishDate": "2025-07-17 00:58",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ezjga9ga4e_img8.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:49:11.168Z"
+}

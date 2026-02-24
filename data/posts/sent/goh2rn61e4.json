@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/goh2rn61e4",
+  "title": "为什么网页 SEO 不需要写 keywords 标签？",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/goh2rn61e4_avatar.jpg",
+  "tags": [
+    "On-Page SEO",
+    "SEO"
+  ],
+  "content": "<div>其实谷歌早在 2009 年就明确说了，谷歌不会拿 keywords 标签里写的内容去用于网页排名。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/goh2rn61e4_img1.png\" alt=\"c5a8b9e69b99076b82d60591f5c1b3c3.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">为什么以前需要 Keywords ？</h2>\n<div>因为以前谷歌相信大家会如实填写关键词列表，通过关键词列表就可以更快的知道一个网页是关于什么的。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/goh2rn61e4_img2.png\" alt=\"b8e728f6e2a800e0f791187bf4a471a4.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">为什么后来不支持了？</h2>\n<div>因为谷歌发现，大家不珍惜自己的信誉，会随便乱填关键词，尤其是把热门的关键词填进去，误导谷歌以为当前网页是关于那些关键词的。</div>\n<div>于是谷歌就开始不支持 keywords 了。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">不靠 keywords 靠什么来理解网页？</h2>\n<div>到后面，谷歌的算法越来越聪明，不仅仅能够从网页里提取关键词，还能根据语义来判断这些关键词是否是你生硬添加进去的，还是真的就是文章要表达的。于是就可以自己提取关键词了。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">为什么还强调关键词密度呢？</h2>\n<div>因为一个网页里，如果某个词出现的次数最多，大概率整个网页就是围绕着这个关键词来写的。</div>\n<div>也就是说，密度高的关键词，更有可能是文章的主旨。</div>\n<div>刚好，谷歌又能够知道网页的语义，举例通过判断整篇文章向量和提取出来的关键词向量计算向量距离，就可以知道两者是否相关了。</div>\n<div>如果相关，那就是写得好的文章，如果不相关，那就是随便生硬插入的关键词。</div>",
+  "publishDate": "2025-09-11 17:39",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/goh2rn61e4_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/goh2rn61e4_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:21:06.784Z"
+}

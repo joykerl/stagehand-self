@@ -1,0 +1,22 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/2q7i7f031y",
+  "title": "教你一招，不用升级账号也能够看到导入流量排行榜100之后的网站",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_avatar.jpg",
+  "tags": [
+    "经验",
+    "Checkout.Stripe.com",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>受限于共享账号的套餐，我们看 <a href=\"https://stripe.com/zh-sg/payments/checkout\" target=\"_blank\" rel=\"noopener noreferrer\">checkout.stripe.com</a> 的导入流量排行榜之前看到前面100个网站，后面的就要求你升级账号才能看到。\n今天，哥飞教大家一个方法，不用升级账号也能够看到。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img1.png\" alt=\"860a15c172485020413bdff959a4552d_.png\" loading=\"lazy\"></div>\n<div>这个方法也没办法用在太小流量的网站，所以需要找到排行榜里，国家地区排名靠前的网站。\n如我这里找出来的1287名和3518名。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img2.png\" alt=\"c4640429428fe45662214dfbaeb39599_.png\" loading=\"lazy\"></div>\n<div>在Similarweb的网站品类分析功能里，把刚才复制的分类填进去，打开科学与教育分分类，按照国家与地区排名，找到#1287 ，你就会发现，网站是 <a href=\"https://wordwall.net/\" target=\"_blank\" rel=\"noopener noreferrer\">wordwall.net</a> 。</div>\n<div>我们可以去验证一下，回到导入流量页面，选择包含 <a href=\"https://wordwall.net/\" target=\"_blank\" rel=\"noopener noreferrer\">wordwall.net</a>  。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img3.png\" alt=\"7dc39a1f1ff275c8d77113d293997dbb_.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img4.png\" alt=\"21ecee50f5d400a169ead23bce98f218_.png\" loading=\"lazy\"></div>\n<div>找出来的，虽然依然看不到域名，但是只找出来一条结果，说明就是这个网站，并且行业和排名也对得上。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img5.png\" alt=\"a48dda2b622846023060fd2023efcd7f_.png\" loading=\"lazy\"></div>\n<div>刚才的#3518 也找出来了，是我们的老朋友 <a href=\"https://www.fotor.com/\" target=\"_blank\" rel=\"noopener noreferrer\">fotor.com</a> 。</div>\n<div>方法教完了，是不是就完了呢？\n不是的，我们完全可以在 Similarweb 的分类里边把所有能够看到的网站全部导出，然后和导入流量排行榜撞一下，是不是就能够把所有能够撞上的网站都找出来呢？</div>\n<div>再进一步，我们是否可以做一个浏览器插件，帮助用户看到更多数据呢？</div>\n<div>好了，今晚的#哥飞小课堂 上完了，下课。</div>\n<div>这个方法暂时别外传，我们群里朋友先用哈。</div>\n<div>掌声在哪里？</div>",
+  "publishDate": "2025-01-14 11:32",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2q7i7f031y_img5.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:09:05.756Z"
+}

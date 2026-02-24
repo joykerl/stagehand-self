@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/zh424fpwxd",
+  "title": "Bolt.new Prompt Selector 油猴插件分享",
+  "author": "F",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zh424fpwxd_avatar.jpg",
+  "tags": [
+    "工具分享",
+    "开源推荐"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zh424fpwxd_img1.png\" alt=\"Screenshot 2024-12-01 at 09.57.51.png\" loading=\"lazy\"></div>\n<div>油猴脚本安装地址：<a href=\"https://greasyfork.org/zh-CN/scripts/519417-bolt-prompt-selector\" target=\"_blank\" rel=\"noopener noreferrer\">https://greasyfork.org/zh-CN/scripts/519417-bolt-prompt-selector</a></div>\n<div>嘿，各位小伙伴好！👋 第一次发布脚本，和大家分享一个为 bolt.new 开发的提示词选择器。\n主要功能</div>\n<div><strong>智能分组</strong> - 架构、UI、表单、SEO、性能优化等分类\n<strong>悬停预览</strong> - 鼠标悬停可以预览完整提示内容\n<strong>深色主题</strong> - 现代化的深色界面，提供舒适的视觉体验\n<strong>自动追加</strong> - 选中后智能追加到输入框，避免内容冲突\n<strong>状态记录</strong> - 已选择的提示会被标记，防止重复选择</div>\n<div><strong>使用方法</strong></div>\n<div>安装脚本后访问 bolt.new\n点击输入框自动显示选择器\n选择合适的提示词自动添加\n点击外部区域自动隐藏</div>",
+  "publishDate": "2024-12-01 10:02",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zh424fpwxd_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:23:10.601Z"
+}

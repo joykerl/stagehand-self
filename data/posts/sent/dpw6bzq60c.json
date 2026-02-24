@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/dpw6bzq60c",
+  "title": "哥飞的快速上站SOP(手动版)",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dpw6bzq60c_avatar.jpg",
+  "tags": [
+    "网站建设"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dpw6bzq60c_img1.png\" alt=\"WX20241111-184922@2x.png\" loading=\"lazy\"></div>\n<div><strong>第一步</strong>：发现一个关键词之后，自己先稍微调研一下，然后基于调研的结果，去写prompt让pplx.ai给你整理详细的资料，注意，只收集整理，不总结。</div>\n<div><strong>第二步</strong>：把pplx收集的资料发给Claude，让他分析一下资料，如果我们要针对这个关键词基于这些参考资料做页面，需要做一个什么样的页面，设计好Headings，然后再让Claude写代码。</div>\n<div><strong>第三步</strong>：拿到基础代码，运行一下，看看有没有问题，该调整的调整一下，然后就可以提交到Github，部署到Vercel了。</div>\n<div><strong>第四步</strong>：GSC添加新网站，验证所有权后，在左上角logo右侧输入框，填入首页地址，请求收录首页。</div>\n<div><strong>第五步</strong>：在自己的爬虫经常光顾的老站上给新站加链接。</div>\n<div><strong>第六步</strong>：等几个小时，谷歌就收录了。</div>",
+  "publishDate": "2024-11-11 18:52",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dpw6bzq60c_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:30:05.494Z"
+}

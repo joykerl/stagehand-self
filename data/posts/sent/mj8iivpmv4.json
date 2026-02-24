@@ -1,0 +1,25 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/mj8iivpmv4",
+  "title": "关于GSC 后台的曝光、排名、点击等几个指标",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_avatar.jpg",
+  "tags": [
+    "GSC",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>今天的#哥飞小课堂 给大家简单讲讲 GSC 后台的曝光、排名、点击等几个指标。</div>\n<div>我就直接拿 <a href=\"https://woy.ai/\" target=\"_blank\" rel=\"noopener noreferrer\">Woy.ai</a> 的真实数据给大家截图来讲了。\n这是最近7天的数据，最近 woy 数据比较差了，让大家见笑了。</div>\n<div>总曝光数，指的是用户在搜索各种关键词时，Woy 的页面出现的次数。\n总点击次数，指的是用户看到Woy的网页之后，点击了的次数。\n平均排名6.6的意思是，在总共2368次曝光中里，平均排在了第6.6名。\n点击率最好理解，点击除以曝光，得到的比例。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img1.jpg\" alt=\"0435aa371585399276b19e478c1b4d9c_.jpg\" loading=\"lazy\"></div>\n<div>大家会看到，我上面说排名时，特意提到了，在曝光中的排名。\n从 GSC后台会显示的数据角度来说，假如你的网页没有出现在用户的搜索结果里时，也就是没有曝光，就不会有排名数据。</div>\n<div>但如果从因果关系角度来说，其实是因为你的网页有了权重，拿到了排名，所以才会有曝光。</div>\n<div>这两个之间的关系大家一定要搞清楚。</div>\n<div>如果我们按照排名从高到低排序，会发现有一些关键词排在了八九十名。\n你可能好奇过，难道真的有用户会翻那么多页去看吗？</div>\n<div>其实不是的，不是真的有人会翻那么多页去看。\n而是因为这里的排名是平均排名。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img2.png\" alt=\"de37803bf77e8e67f410f4316f0260ec_.png\" loading=\"lazy\"></div>\n<div>这里修正一下说法，我刚才这条的说法有误。</div>\n<div>GSC里的这个搜索结果表现数据，一定是用户在搜索结果里看到了你的网页，才会记录一次曝光。\n而每一次曝光，一定有对应的排名，所以记录曝光数据的同时，也会记录排名数据。</div>\n<div>之后，如果用户点击了我们的网页，又会记录一次点击数据。\n点击数据会跟之前的曝光数据相关联。</div>\n<div>所以，如果显示了有一次曝光，而排名是92，那么真的就是用户翻到了第9页。</div>\n<div>那么怎么算一次曝光呢？\n谷歌官方文档说，一般来说，你网站的结果出现在了搜索结果页面里，就会算一次曝光。\n但有时候，谷歌又会更严格一点，只有你网站的结果出现在了用户的视野范围内，才会计算一次曝光。</div>\n<div>我们简单理解的话，就可以认为我们网站出现在了搜索结果里就算。</div>\n<div>注意，如果你的结果在第二页，那么需要用户滚动家在到第二页，或者点击显示第二页后，才会记录一次曝光。</div>\n<div>如果用户没有翻到那一页，那么就不会记录。\n举例，你的结果可能在第二页面，但当前这个用户并没有点开第二页，那么就不会记录曝光。</div>\n<div>假设，有两个用户，一个在第三页看到了你的网站，一个在第五页看到了，那么会记录2次曝光，同时平均排名就是 (3+5)/2=4 。</div>\n<div>红色箭头所指的每一个维度数据，都可以点击之后对数据进行过滤。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img3.png\" alt=\"d1afa153af11c86b53193fbe4237318e_.png\" loading=\"lazy\"></div>\n<div>举例，如果点击了查询里的某个关键词，那么接下来的结果，就都是关于这个关键词的了。\n此时，在查询页面，就只有会看到一条结果。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img4.png\" alt=\"0af1df0c0c3fa87b51ada76985fa8996_.png\" loading=\"lazy\"></div>\n<div>此时，如果切换到设备页面，可以看到我们选择的这个关键词，在不同设备下的表现数据。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img5.png\" alt=\"2490f44de4ce091650dec40c8e40dc28_.png\" loading=\"lazy\"></div>\n<div>如果点击了移动设备，那么此时的结果，就是查询关键词+设备双重过滤之后的数据了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img6.png\" alt=\"806ded67b93a73628b28f4cd39cdab5f_.png\" loading=\"lazy\"></div>\n<div>刚才某次搜索中，不小心选择了9.22的数据，如果放开到最近7天，就能够看到更多一点数据。\n同时我们切换到日期，也可以看到在刚才两个过滤条件下的不同天的数据表现。</div>\n<div>如果你点击了某一天，那么接下来看到的，就是三个条件下的数据了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img7.png\" alt=\"e0d68550f2390e9261126e99e7313e9b_.png\" loading=\"lazy\"></div>\n<div>所以我们可以通过多重过滤条件来分析数据。\n行业里叫下钻，或者下探，不断增加过滤条件，不断逼近真实结果。</div>\n<div>举一个场景，某一天，你的网站流量暴涨了，你就可以通过这些条件组合，找出到底是哪个国家，哪个网页，哪个搜索关键词，你的网站拿到了比较高的排名和曝光。</div>\n<div>点击过滤条件，我们还可以对结果进行比较，举例点击设备，可以比较移动设备和桌面的数据。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img8.png\" alt=\"9fc034566fb52979ea34d3de463d5b34_.png\" loading=\"lazy\"></div>\n<div>在比较视图下，也可以看到各个维度的各个数据的比较差值。</div>\n<div>举例，假设你哪天发现网站流量下降了，你就可以选定两个时间段去比较，看看两个时间段下，各个维度的数据，到底哪些数据变差了。</div>\n<div>这样找到问题了，然后就可以针对性的去找到解决方案。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img9.png\" alt=\"781c9ad3d7ad130271f8f5569a9a3526_.png\" loading=\"lazy\"></div>\n<div>总结一下，今天主要给大家讲了曝光、点击、排名等几个指标的含义，讲了谷歌是如何统计，如何显示这些指标数据的。\n也讲了可以通过筛选过滤各个不同维度的条件来进行数据分析。\n还提醒大家了，可以用比较功能来进一步分析数据。</div>",
+  "publishDate": "2025-01-16 09:43",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img8.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mj8iivpmv4_img9.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:56:48.268Z"
+}

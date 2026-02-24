@@ -1,0 +1,22 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/1d1ctwncua",
+  "title": "教一个挖APP需求的方法",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_avatar.jpg",
+  "tags": [
+    "需求挖掘",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>今天的#哥飞小课堂 教一个挖APP需求的方法。\n原理很简单，依然是抄作业，看哪些App在投谷歌关键词广告。\n怎么看呢？\n打开 Similarweb ，输入 AppStore 的域名  <a href=\"https://www.apple.com/\" target=\"_blank\" rel=\"noopener noreferrer\">apps.apple.com</a> ，在自然搜索的下面找到付费搜索，点击下面的链接，查看全部广告，就能够到达广告列表页面。\n在这个页面，你可以分桌面端和移动端分别看都有哪些App在投广告。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img1.png\" alt=\"1e2f141db2ef40163d0cf976dfa1e58f_.png\" loading=\"lazy\"></div>\n<div>阿波罗</div>\n<div>举例，排名第一的，投得好像比较猛，我们看到他的App地址是\napps.apple.com/br/app/ia-chat-inteligente-chatbot/id6447419372</div>\n<div>记住这个数字ID 6447419372 ，自己构造一个 SensorTower 的网页地址\n<a href=\"https://app.sensortower.com/overview/6447419372\" target=\"_blank\" rel=\"noopener noreferrer\">https://app.sensortower.com/overview/6447419372</a></div>\n<div>打开网页，得到这个App在 SensorTower 的名称是 AI Chat -Ask Chatbot Assistant 。\n为什么需要这一步呢？因为有些App会时不时改名字，我们在AppStore看到的名字，在SensorTower不一定能够搜索到。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img2.png\" alt=\"a1170b1aec8b01cec1f13d72a27b3d87_.png\" loading=\"lazy\"></div>\n<div>从这两张图就可以看到，的确名字不一样，但是ID是一样的，那就没问题了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img3.png\" alt=\"258c4dcf551dcc56b611e5c289c98768_.png\" loading=\"lazy\"></div>\n<div>接下来，你拿着 AI Chat -Ask Chatbot Assistant  这个名字，打开 <a href=\"https://app.sensortower.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://app.sensortower.com/</a> 首页，在右上角输入框粘贴名字，就会有一个下拉的即时搜索结果。\n确认一下开发商，对得上，那么没问题，就是这个App，可以看到月下载量400K，月收入100万刀。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img4.png\" alt=\"bf77a9bd12c44f9f0625c88664644a09_.png\" loading=\"lazy\"></div>\n<div>同样的方法，我们又看到了一个App，在 iOS AppStore 里月下载量200万，月收入70万刀，在Google Play 里月下载量70万，月收入100万。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img5.png\" alt=\"bface8619baea17304765c329ae50d2d_.png\" loading=\"lazy\"></div>\n<div>通过这些高收入App，我们就可以大概知道，哪些需求能赚钱，而且即使投广告也能赚。\n这些都是信号，能够指引方向，也能够增强信心。</div>\n<div>除了在 Similarweb 看 <a href=\"https://www.apple.com/\" target=\"_blank\" rel=\"noopener noreferrer\">apps.apple.com</a> 广告 App ，还可以看广告的关键词。\n这些词，有些是品牌词，有些是需求词。\n如果你发现有人做了一个App叫做ABC，需求关键词是DEF，那么甚至你可以立马做一个名字叫做DEF的App。\n能蹭一点是一点。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img6.png\" alt=\"caa6a7c4d8a1ad201fed483ab4a4899d_.png\" loading=\"lazy\"></div>\n<div>这跟我们分析网站，找到值得做的业务需求关键词，然后用关键词注册域名，做个网站的原理是一样的。</div>\n<div>总结一下，正在投广告的产品是风向标，可以帮助我们发现需求，分析需求价值。\n好了，今天的小课堂就到这里了。</div>",
+  "publishDate": "2025-01-15 18:05",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1d1ctwncua_img6.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:59:03.518Z"
+}

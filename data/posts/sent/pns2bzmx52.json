@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/pns2bzmx52",
+  "title": "【2025.5.30案例拆解】 cursor101.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pns2bzmx52_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>如果敢显示，那就没人用了，做这种网站，首要条件就是不存储日志</div>\n<div>是的，肯定不会有</div>\n<div>很多年前，有人也问过我，秋玉米会不会存，我说不可能存储的，没必要</div>\n<div>发现群友做的 cursor101.com ，用的是 Gitbase ，基于 Devtoolset 去改的。 <a href=\"https://gitbase.app/\" target=\"_blank\" rel=\"noopener noreferrer\">https://gitbase.app/</a> <a href=\"https://github.com/iAmCorey/devtoolset\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/iAmCorey/devtoolset</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pns2bzmx52_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pns2bzmx52_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>外链一直在稳稳增加，流量则有两次增长。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pns2bzmx52_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-10-20 17:18",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pns2bzmx52_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pns2bzmx52_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pns2bzmx52_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T17:17:54.326Z"
+}

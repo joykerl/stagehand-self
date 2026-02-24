@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/269uw91vzw",
+  "title": "Google Keyword Planner 需求分析陷阱一则（挤挤水）",
+  "author": "条形马",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/269uw91vzw_avatar.jpg",
+  "tags": [],
+  "content": "<div>第一次发帖，分享一个经验。</div>\n<div>经常使用 Google keywords planner 挖词的朋友，可能细看一眼下面的图，就能看出问题所在了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/269uw91vzw_img1.png\" alt=\"截屏2025-01-15 18.19.39.png\" loading=\"lazy\"></div>\n<div>如图所示，我一共传了 8 个词。\n这八个词的平均每月搜索量、三个月变化和年同比变化，这三个指标都是一模一样的。\n说明其实是同一个词。</div>\n<div>但 Google ads 将这个八个词视为一个关键词组的投放方案时，预测投放这八个词能获得共计 144800 的搜索量。</div>\n<div>而刚好： 18100 * 8 =144800</div>\n<div>这说明这个需求规模，被悄然重复计算了 8 次，放大了 8 倍。\n事实上，需求池子没有那么深。</div>\n<div>于是也就有，分享这个经验是帮助大家看 Keyword Planner 数据时，挤挤水一说。</div>\n<div>避开一个高估了需求规模的陷阱。</div>\n<hr class=\"h-2 my-2\">\n<div>P.S.</div>\n<div>那么，这个现象是怎么产生的呢？是 Google ads 居心不良想骗大家投放预算吗？</div>\n<div>我猜，并不是。而是 Google search 的同义词系统上线后，Google ads 和 Google search 两边的词条数据还没对齐导致的。</div>\n<div>要知道，已经对齐的词条，Google ads 会将之合并同类项，显示为划虚线的变体而不是列为不同的词条。</div>\n<hr class=\"h-2 my-2\">\n<div>P.P.S</div>\n<div>所以，我猜当这组词的合计搜索量显示为 18100 或这 8 行词条在 Ads 后台显示为一行时，就是数据得到纠正的时候了。</div>\n<div>那么，不妨建一个关键词方案，只放这 8 个词，用来「指示」数据什么时候纠正了。</div>\n<div>最后，附上 8 个词，方便大家复制：</div>\n<div>how to share a wi fi password\nhow to share password of wifi\nhow to share the wi fi password\nhow to share wifi password\nhow do i share a wi fi password\nhow do i share the wifi password\nhow do you share a wi fi password\nhow do you share the wifi password</div>\n<div>条形马\n2025 年 1 月 15 日于杭州</div>",
+  "publishDate": "2025-01-15 18:35",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/269uw91vzw_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:58:44.169Z"
+}

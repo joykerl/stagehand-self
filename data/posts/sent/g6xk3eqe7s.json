@@ -1,0 +1,15 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/g6xk3eqe7s",
+  "title": "尝试解决 sitemap.xml 不能被识别的问题",
+  "author": "Hx.org",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g6xk3eqe7s_avatar.jpg",
+  "tags": [],
+  "content": "<div>我的域名是 .cc 结尾的，sitemap.xml 提交到 google search console 不会被识别的问题， 如下图：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g6xk3eqe7s_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>由于自己最近加了不少内链，所以不能被识别很烦的，所幸就研究了一下。</div>\n<hr class=\"h-2 my-2\">\n<div><strong>这个提示通常不是 sitemap.xml 格式错误或文件访问404，而是资源归属问题。\nGoogle Search Console 的“资源”指你在后台添加验证的网站域名范围。</strong></div>\n<hr class=\"h-2 my-2\">\n<div>比较常见的原因：\n<strong>1. 你在 GSC 添加的资源类型和 sitemap 域名不完全一致。</strong></div>\n<ul>\n<li>如果你添加的是 <a href=\"http://abc.cc\" target=\"_blank\" rel=\"noopener noreferrer\">http://abc.cc</a> 但 sitemap 是 <a href=\"https://www.abc.cc/sitemap.xml%EF%BC%8C\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.abc.cc/sitemap.xml，</a> 就会报这个错。</li>\n<li>如果你添加的是带 www 的域名（如 <a href=\"https://www.abc.cc%EF%BC%89%EF%BC%8C\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.abc.cc），</a> 而 sitemap 用的是不带 www 的域名，GSC 也会报这个错。</li>\n</ul>\n<div><strong>2. 你用的不是“域名属性”而是“URL前缀”添加。</strong></div>\n<ul>\n<li>“URL前缀”只能管理你添加的那个前缀下的内容。</li>\n<li>“域名属性”可以管理所有子域名和协议下的内容。</li>\n</ul>\n<hr class=\"h-2 my-2\">\n<div><strong>解决办法</strong></div>\n<div><strong>1. 检查你在 GSC 添加的资源</strong></div>\n<ul>\n<li>确保你添加的和 sitemap 的 url 前缀完全一致（协议、www、一模一样）。\n比如，你的 sitemap 是：<a href=\"https://abc.cc/sitemap.xml\" target=\"_blank\" rel=\"noopener noreferrer\">https://abc.cc/sitemap.xml</a>,</li>\n<li>那你在 GSC 必须添加的资源也是：<a href=\"https://abc.cc/\" target=\"_blank\" rel=\"noopener noreferrer\">https://abc.cc/</a></li>\n</ul>\n<div><strong>2. 推荐添加“域名属性”资源</strong></div>\n<ul>\n<li>在 GSC 里点“添加资源”，选择【域名】（Domain），填写 abc.cc，按提示用 DNS 验证。</li>\n<li>这样无论 www/不带www，http/https，都能提交和管理。</li>\n</ul>\n<ol start=\"3\">\n<li>重新提交 sitemap</li>\n</ol>\n<ul>\n<li>进入你刚刚验证的“abc.cc”资源页面，在sitemap处重新提交</li>\n<li><a href=\"https://abc.cc/sitemap.xml\" target=\"_blank\" rel=\"noopener noreferrer\">https://abc.cc/sitemap.xml</a></li>\n</ul>\n<div>然后就可以了</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g6xk3eqe7s_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-05-09 16:40",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g6xk3eqe7s_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/g6xk3eqe7s_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:25:48.779Z"
+}

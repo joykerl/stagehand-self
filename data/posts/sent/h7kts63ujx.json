@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/h7kts63ujx",
+  "title": "【新手入门】分享我的上站流程",
+  "author": "遨游",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h7kts63ujx_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>刚刚入门，分享下我的上站流程，找到关键词后，从注册域名开始，到提交GSC完成，最快只要8分钟。</div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">上站流程详细说明：</h3>\n<ol>\n<li>\n<div><strong>注册域名与解析</strong>：</div>\n<ul>\n<li>在Hostinger注册你选择的域名后，需要进入域名的管理面板进行解析设置。</li>\n<li>修改A记录指向Vercel提供的IP地址（通常为76.76.21.21），CNAME记录则指向你的Vercel应用地址（通常为cname.vercel-dns.com）。</li>\n<li>DNS通常5分钟之内就生效了。</li>\n</ul>\n</li>\n<li>\n<div><strong>使用Claude生成网页代码</strong>：</div>\n<ul>\n<li>在Claude中输入你想要的网页布局和功能请求，生成的HTML代码可以复制下来。</li>\n<li>提示词中可以要求AI生成的代码是SEO友好和符合规范的HTML/CSS/JS。</li>\n</ul>\n</li>\n<li>\n<div><strong>GitHub创建私有仓库</strong>：</div>\n<ul>\n<li>登录GitHub，创建一个新的私有仓库，并勾选“Initialize this repository with a README”。</li>\n<li>创建完仓库后，点击“Add file”并选择“Create new file”来新建<code>index.html</code>文件。</li>\n<li>将Claude生成的网页代码粘贴进去，记得添加流量监测代码（例如Google Analytics或Plausible）以及<code>&lt;link rel=\"canonical\" href=\"你的网址\"&gt;</code>标签。</li>\n<li>提交更改。</li>\n</ul>\n</li>\n<li>\n<div><strong>在Vercel中选择GitHub仓库并部署</strong>：</div>\n<ul>\n<li>登录Vercel，选择“New Project”，然后连接到你的GitHub账户，Import导入刚才创建的私有仓库，由于是静态网站，直接点Deploy。</li>\n<li>等到几秒钟部署成功后，点击添加域名（输入注册的域名，例如domain.com，Vercel会自动添加www二级域名），配置完成后，Vercel会为你的域名生成SSL证书。</li>\n<li>等待证书创建完成，测试下已经可以成功打开站点。</li>\n</ul>\n</li>\n<li>\n<div><strong>添加站点到Plausible和Google Search Console</strong>：</div>\n<ul>\n<li>在Plausible中创建新的站点，填入域名，直接点两次下一步就完成。</li>\n<li>在Google Search Console（GSC）中添加你的站点，使用“域名”或“URL前缀”的方式来添加。</li>\n<li>按照GSC的指示生成TXT记录，在Hostinger的DNS管理面板中添加这个TXT记录，以验证网站所有权。</li>\n<li>回到GSC再点击验证，通常TXT记录10秒内就生效。</li>\n</ul>\n</li>\n</ol>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">上站完成！</h3>",
+  "publishDate": "2024-12-03 16:31",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:22:12.184Z"
+}

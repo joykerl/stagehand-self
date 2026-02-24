@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/w1k09ro6yr",
+  "title": "可以用来做站群，多域名只要部署一个 application的nextjs多租房方案",
+  "author": "海海",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/w1k09ro6yr_avatar.jpg",
+  "tags": [],
+  "content": "<div><a href=\"https://github.com/likaiprime/next-multi-tenant-blog-demo\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/likaiprime/next-multi-tenant-blog-demo</a>  浅浅搞了个能跑起来的方案验证项目</div>\n<div>整合next-intl（子站独立语言列表-主站的子集） next-auth（子站独立设置google client id，但是谷歌上好像不能设置xxx.localhost二级域名，还没测试） next-themes。用 prisma(postgresql)存储业务数据，restful-redis(暂时没有持久化要手工从admin点同步，用于在中间件阶断实现域名映射站点信息) 的demo。</div>\n<div>内含本地测试用的dockercompose.yml和对应.env .env.locale。</div>\n<div>使用步骤\n1、同步代码\n2、启动docker，在本工程docker-compose up -d\n3、pnpm install &amp;&amp; pnpm prisma db push &amp;&amp; pnpm prisma generate\n4、pnpm dev\n5、打开localehost:23xxx（端口号忘了，看package.json）/admin/sites 管理站点，目前如果docker重启容器要这里手工同步，redis改成支持持久化就好了</div>\n<div>生产用什么可以参考官方原多租户项目\n<a href=\"https://github.com/vercel/platforms\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/vercel/platforms</a></div>",
+  "publishDate": "2025-07-24 09:09",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:45:21.218Z"
+}

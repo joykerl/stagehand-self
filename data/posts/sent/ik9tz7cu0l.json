@@ -1,0 +1,24 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ik9tz7cu0l",
+  "title": "拿某个具体网站数据去聊一聊GSC后台的排名和点击率",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_avatar.jpg",
+  "tags": [
+    "GSC",
+    "经验",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>久违的#哥飞小课堂 开课了，今晚借着哥飞某个网站数据，跟大家聊聊GSC后台的排名和点击率。这里的排名是综合所有关键词的平均排名，点击率也是所有关键词的综合点击率。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img1.jpg\" alt=\"d03e1611d3d89477d603409df3fa6040_.jpg\" loading=\"lazy\"></div>\n<div>如果有一天你突然发现，怎么连续几天排名下降了，点击率下降了。\n这时候不用惊慌，一定要点开GSC的比较功能，之后用筛选功能，不断添加过滤条件，找出下降的原因。\n像我这个站，排名从10号的3.1下降到了4，点击率也下降了差不多8%。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img2.png\" alt=\"cfe693ae5a15f777cc15e1ce31dab78d_.png\" loading=\"lazy\"></div>\n<div>这里我们选择10号和12号比较。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img3.png\" alt=\"5ba0651887fc75434c920de381728997_.png\" loading=\"lazy\"></div>\n<div>先看查询数页面，这里用来看两个比较的时间段关键词点击数据变化，10号和12号比较，差值是10号的点击减去12号的点击，所以当我们选择差值从高到低排序之后，就能够找出点击下降最多的关键词列表。\n从图片可以看到，下降最多的也才下降20，可以认为几乎没有下降，也就是说并没有哪个关键词排名下降了很多。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img4.png\" alt=\"896d2e61800308d7911c76ebf6d29463_.png\" loading=\"lazy\"></div>\n<div>当选择点击差值从低到高排序，就能够发现，其实反而很多关键词的拿到的点击数增加了。\n最多的一个关键词增加了3056，直接翻倍了。</div>\n<div>只看点击数据，暂时没发现什么有用的信息，我们把点击、曝光、点击率三个数据指标都打开，再按照各个指标的差值排序，终于在按照曝光从低到高排序时找到了数据变化的原因。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img5.png\" alt=\"ee9e68b7086e09948fdbb6f16ea8b465_.png\" loading=\"lazy\"></div>\n<div>看截图，有一个关键词曝光从559增长了22倍，到了12382，但是点击数只从54增长6倍到了334。\n如果把排名也显示出来，可以看到排名从20名前进到了9.4名，到了第一页了，但是在最后一位。\n虽然拿到了曝光了，但是排名比较靠后，于是暂时点击比较少，就带动整体点击率下降了。</div>\n<div>刚才这个例子解释了为什么点击率下降了，原因是有些词排名前进了一些，导致曝光增加了，但是又不是前进得特别彻底，所以点击没跟上，导致了点击率下降。</div>\n<div>那么为什么我们最初看到的数据里，排名也下降了呢？\n原因是出了一些新的关键词，但是这些关键词暂时排名还比较靠后，于是一平均，整体排名就下降了。\n我们要做的是找出这样的关键词，然后针对每一个关键词去判断，是需要在原有页面上突出一下这个关键词，还是增加一个新页面来专门做这个关键词。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img6.png\" alt=\"dcfacb5b886159d4c7d49126989ffc4d_.png\" loading=\"lazy\"></div>\n<div>只看排名数据，然后把排名差值按照从低到高排序，就能够找到新出的关键词。\n因为刚出的词，排名都比较靠后面，所以看曝光和点击是看不出词的大小的。\n我们需要拿着这些关键词去谷歌趋势，或者谷歌广告后台，或者Similarweb、Semrush去查询，找出搜索量大，有潜力的关键词，然后去看，我们有没有哪些页面可以承接这些关键词，如果有，则在那些页面加强这些关键词。如果没有，按照一个核心关键词一个页面原则，则建立新的页面，来拿下这些关键词的排名。</div>\n<div>还有一种情况，你增加了新页面，新页面拿到排名了，但是比较靠后，也会导致综合排名下降。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img7.jpg\" alt=\"ff7af77836844b2e011c81e43fb93e71_.jpg\" loading=\"lazy\"></div>\n<div>按照排名差值从低到高查看，可以找出新出的关键词。\n这个还是很有用的，假设我们有某个需求，有多种表述方法，虽然这些关键词含义相同，但是不同的表述对应不同的关键词，而且这些关键词的优化难度也不一样。\n那么我们可以在一个页面尽可能多的覆盖同一个需求的多种不同说法关键词，然后加一点启动外链，观察哪些关键词能够拿到排名，我们就在标题、描述、H1、H2、H3……等位置突出一下这些关键词，从而拿到更靠前的位置。\n注意，此时页面上依然需要在重要位置保持那些搜索量比较大的表述关键词。\n这样就可以先靠着小词带动大词，最终拿下我们本来要拿的关键词的排名。</div>\n<div>这里第一个关键词，突然排名前进了，到了第一页，就是靠着小词拿下排名之后，带动着大词也拿到更靠前的排名。\n小词拿下排名，有了点击，有了真实用户，就有了更多的用户互动数据，谷歌就能知道，我们网站真的能够满足用户需求，于是就会给你更大的关键词以排名和曝光。</div>\n<div>好了，今晚的哥飞小课堂就到这里了。\n今晚讲的偏理论一点，而且是我自己总结的经验。\n具体大家能够学习到多少，就看大家的实操了。\nGSC 还是有大用途的，我们搞SEO就要天天盯着GSC数据去看。\n<a href=\"https://search.google.com/search-console/\" target=\"_blank\" rel=\"noopener noreferrer\">https://search.google.com/search-console/</a></div>",
+  "publishDate": "2025-01-16 10:06",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ik9tz7cu0l_img7.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:56:24.334Z"
+}

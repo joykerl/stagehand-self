@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/rlpaxm456s",
+  "title": "Cloudflare 疑难杂症解决小技巧——官方AI机器人",
+  "author": "一朵概率云",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rlpaxm456s_avatar.jpg",
+  "tags": [
+    "Cloudflare",
+    "经验"
+  ],
+  "content": "<div>遇到 Cloudflare 疑难杂症，搜索谷歌、百度、ChatGPT 等都找不到好方法时，建议试一试官方的 AI 支持机器人，这个机器人帮我解决了2个别的地方找不到答案的问题。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">使用方法</h2>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">方法1</h3>\n<div>在Cloudflare控制台右上角点击【支持（Support）】-【联系Cloudflare（Contact Cloudflare）】，然后会有一个输入框选择问题类型，选择【技术-其他产品（Technical - Other Products）】-【Cloudflare Pages】，然后会出现一个AI聊天机器人，这个聊天机器人是基于所有 Cloudflare 产品文档训练的。</div>\n<div>图示：</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rlpaxm456s_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rlpaxm456s_img2.webp\" alt=\"图示2.webp\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">其他注意事项</h2>\n<ol>\n<li>当你选择有些产品（比如R2）的时候，这个机器人不会出现，而是会显示别的（比如让你去Discord求助），你随便选一个会出现机器人的产品就行了（比如Cloudflare Pages），这个机器人所有的 Cloudflare 问题都能回答。</li>\n<li>这个AI机器人在前端直接访问 support-ai.cloudflaresupport.workers.dev 这个域名（可以用浏览器 F12 控制台看），记得确保你的设备能正常访问这个域名，不然 AI 机器人可能无法正常响应。</li>\n</ol>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">方法2</h3>\n<div>Cloudfalre 官方还有一个 AI 机器人，叫 Cursor（是的，和那个有名的AI编辑器同名）。地址在这里：<a href=\"https://developers.cloudflare.com/workers/ai/\" target=\"_blank\" rel=\"noopener noreferrer\">https://developers.cloudflare.com/workers/ai/</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rlpaxm456s_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>也是根据 Cloudflare 相关文档训练的，具体和上边的机器人啥关系暂不清楚，反正如果找不到解决方案可以都试试。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">其他</h2>\n<div>该机器人帮我解决的一个实际问题的案例：<a href=\"https://web.okjike.com/originalPost/673c75e0cc17b0c5d3dcfe81\" target=\"_blank\" rel=\"noopener noreferrer\">我的网站被 Googlebot 攻击了，凶手竟是 Cloudflare - 即刻</a></div>",
+  "publishDate": "2024-11-19 20:58",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rlpaxm456s_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rlpaxm456s_img2.webp",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rlpaxm456s_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:28:27.424Z"
+}

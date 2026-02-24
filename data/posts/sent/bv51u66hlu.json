@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/bv51u66hlu",
+  "title": "快速添加博客外链的Chrome 插件",
+  "author": "Hi_Quan",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bv51u66hlu_avatar.jpg",
+  "tags": [
+    "工具分享",
+    "外链建设"
+  ],
+  "content": "<div>大家好，我是圈圈，在使用了群友 <a href=\"https://bestlinks.530.news/\" target=\"_blank\" rel=\"noopener noreferrer\">https://bestlinks.530.news/</a> 获取最佳外链后。</div>\n<div>我做了一个自动化，批量导入对标网站，获取众多外链。</div>\n<div>由于我做的基本都是游戏站，所以大多数是博客评论。</div>\n<div>博客评论大多数都要填这些信息：</div>\n<ol>\n<li>用户名</li>\n<li>邮箱</li>\n<li>网站</li>\n<li>评论</li>\n</ol>\n<div><strong>为了防止博主不放出我们的评论，所以大多数时候我们的评论要跟当前页面内容有关。</strong></div>\n<div>以前我都是手动复制内容，让 AI 总结，然后让它生成评论。</div>\n<div>为了提高我加外链的效率，我就做了一个Chrome插件，快速生成对当前页面内容的评论！</div>\n<div>插件地址：<a href=\"https://wechat.takennap.com/aisac-extension.zip\" target=\"_blank\" rel=\"noopener noreferrer\">https://wechat.takennap.com/aisac-extension.zip</a></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">下面做一个简单的使用说明。</h2>\n<ol>\n<li>下载上述地址的压缩包，解压到本地。</li>\n<li>打开 chrome扩展中心，在右上角开启开发者模式。</li>\n<li>点击左上角加载已解压的扩展程序，选择解压后的文件夹。</li>\n<li>安装插件后，会自动打开引导页面，获取 Google Gemini Key\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bv51u66hlu_img1.png\" alt=\"image.png\" loading=\"lazy\"></li>\n<li>进入设置页面，填写评论信息，方便博客评论复制。粘贴你的 Gemini key（只保存本地，放心不泄露）\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bv51u66hlu_img2.png\" alt=\"image.png\" loading=\"lazy\"></li>\n<li>保存设置后，即可使用，在任意页面点开插件图标，点击总结页面并评论，即可生成评论\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bv51u66hlu_img3.png\" alt=\"image.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bv51u66hlu_img4.png\" alt=\"image.png\" loading=\"lazy\"></li>\n</ol>\n<div>插件刚刚做起来，可能有bug，如果你有问题，欢迎随时来问我。</div>\n<div>我是 6 群的圈圈！欢迎交流！</div>",
+  "publishDate": "2025-04-01 15:55",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bv51u66hlu_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bv51u66hlu_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bv51u66hlu_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bv51u66hlu_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:33:23.572Z"
+}

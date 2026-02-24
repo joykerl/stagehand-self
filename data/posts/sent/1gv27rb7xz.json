@@ -1,0 +1,15 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/1gv27rb7xz",
+  "title": "谷歌广告官方人员给新手投放的一些建议",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/1gv27rb7xz_avatar.jpg",
+  "tags": [
+    "广告",
+    "广告投放"
+  ],
+  "content": "<div>跟谷歌广告官方人员交流学习了一下，我问了一些问题，他解答了我的一些疑问，最后总结出来，适合我们的广告投放建议如下：</div>\n<div>1、最好一个网站一个账号，互相隔离，防止模型跑偏；</div>\n<div>2、广告系列（Campaigns）用来控制预算和出价的。\n每一个 Campaign 建议每天有50到100美金的预算。</div>\n<div>3、针对一个网站下的不同功能，关键词的搜索量和竞争程度不一样，建议创建不同的Campaign，单独控制预算和出价；</div>\n<div>4、广告组（Groups）用来区分不同的关键词，如核心需求关键词、问题词、相关需求词、相关竞品词等。\n但如果不投那么多词，那么一个Campaign下面就放一个AdGroup就可以了；</div>\n<div>4、广告（Ads）作用是用来区分不同的文案，一开始也没必要太多广告，一个AdGroup下面有一个Ad就好了；</div>\n<div>5、对于跑得比较好的AdGroup，可以单独拎出来当作一个Campaign，单独控制预算；</div>\n<div>6、针对不同的地区、语言关键词，初期可以放在一起。\n后面精细化的话，就可以拆分成不同语言的Campaign。\n也就是针对不同的地区，建立不同的Campaign。\n总之 Campaign 就是用来打包预算和出价的；</div>\n<div>7、初期先投能够快速积累数据的行为，如先按照点击去投，谷歌能够学习到会点我们广告的群体画像。\n后面积累到足够的数据后，可以投注册、订阅、支付等更深入的行为。</div>",
+  "publishDate": "2025-01-16 17:11",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:50:31.145Z"
+}

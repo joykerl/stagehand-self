@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/meuv3v6vq5",
+  "title": "新站快速提交到各个搜索引擎",
+  "author": "帆",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/meuv3v6vq5_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>举例站点是上线 1 个月左右的站点，竞争强度不大，站点没有在 Bing / Yahoo / DuckDuckGo 等除 Google 以外的地方提交过。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/meuv3v6vq5_img1.png\" alt=\"Snipaste_2025-01-25_17-46-36.png\" loading=\"lazy\"></div>\n<div>主要是做了 Cloudflare 的 Crawler Hints 设置，让 CF 去提交站点信息到各搜索引擎，开启的操作不是很复杂，具体如下：</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/meuv3v6vq5_img2.png\" alt=\"Snipaste_2025-01-25_17-55-06.png\" loading=\"lazy\"></div>\n<div>设置入口在：CF 主页网站，点击域名打开设置 =&gt; 缓存 =&gt; 配置 =&gt; Crawler Hints 设置</div>\n<div>这个设置默认是关闭的，点右边的 Switch 切换按钮，开启即可。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/meuv3v6vq5_img3.png\" alt=\"Snipaste_2025-01-25_17-58-19.png\" loading=\"lazy\"></div>\n<div>前两天新上的站，虽然没有 Bing 来的流量，但是也有一些 Yahoo / Baidu / Brave 之类的地方来的搜索流量 :D</div>",
+  "publishDate": "2025-01-25 17:59",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/meuv3v6vq5_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/meuv3v6vq5_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/meuv3v6vq5_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:44:27.714Z"
+}

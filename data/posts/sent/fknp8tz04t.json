@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/fknp8tz04t",
+  "title": "Adsterra广告接入经历以及遇到的一些问题",
+  "author": "唐亦安",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fknp8tz04t_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>最近Adsense一直在审核中，没有通过，看到论坛中有大佬推荐过可以先接入Adsterra。昨晚自己试了下3分钟审核通过，很丝滑，接入过程中也遇到了一些小问题，记录下来，给其他群友参考。</div>\n<div>Adsterra一共有5种广告形式 我目前使用的是social bar和narive banner，因为看下来这两种形式对原网站内容侵入比较小。</div>\n<div>social bar的样例展示：<a href=\"https://adsterra.com/social-bar-ad/\" target=\"_blank\" rel=\"noopener noreferrer\">https://adsterra.com/social-bar-ad/</a>\nnarive banner的文档：<a href=\"https://beta.publishers.adsterra.com/downloads/Adsterra_Native_Ads_Guide.pdf\" target=\"_blank\" rel=\"noopener noreferrer\">https://beta.publishers.adsterra.com/downloads/Adsterra_Native_Ads_Guide.pdf</a></div>\n<div>social bar是按官方提示直接插入到&lt;body&gt;最后\nnative banner使用的是iframe插入 好处是可以控制显示位置 以及宽度高度等 防止影响正常内容的显示\n详情见这个帖子：<a href=\"https://new.web.cafe/topic/fl2eimlosy\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/topic/fl2eimlosy</a></div>\n<div>接入广告后自己实际体验过程中发现几个小问题</div>\n<div>1.social bar中的Interstitials插页广告显示频率过高 我自己体验了下 好几次一分钟弹了多次全屏弹出的广告，而且很容易误触点击跳转到广告页面去，体验很不好 。（我的广告点击率有25% 我觉得绝大部分都是误触的）\n解决办法：联系经理降低插页广告频率或彻底关闭插页广告，但同时可能会影响收入，要权衡一下，详见最后的聊天记录</div>\n<div>2.native banner 1×4的一行样式 在移动端会变成4×1一列的样式 占据太多空间。\n解决办法：联系经理修改 native banner在移动端只显示1×1。</div>\n<div>3.有时显示一些约会app等擦边广告\n解决办法：联系经理把这类广告商剔除掉</div>\n<div>总结：有任何问题直接右下角图标联系经理，回复很快很详细。</div>\n<div>下面贴出跟经理的沟通过程：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fknp8tz04t_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-04-04 17:27",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fknp8tz04t_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:32:10.191Z"
+}

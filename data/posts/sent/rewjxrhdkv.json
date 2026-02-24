@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/rewjxrhdkv",
+  "title": "使用香港Stripe+香港银行卡收美金时，不要在Stripe里添加美金账户",
+  "author": "Cy",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rewjxrhdkv_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div><strong>如果你也用香港Stripe+香港银行卡海外收款美金，添加香港银行的港币账户就够了，如非必要，不要添加香港银行卡的美金账户。</strong></div>\n<div>如果添加了美金账户又收款美金，美金不会进行货币转换直接进入美金余额，最后提现时美金余额提现有门槛，提现费用还比港币要高（1%或最少5刀）。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rewjxrhdkv_img1.png\" alt=\"image.png\" loading=\"lazy\">\n如果Stripe里只有港币账户，Stripe会在收到每一笔美金的时候进行货币转换，付1%的货币转换费，就可以无门槛免费提现到银行卡中。（不确定不同银行会不会不一样，我的香港民生是免费的）\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rewjxrhdkv_img2.png\" alt=\"image.png\" loading=\"lazy\">\n如果已经添加了美金账户，到银行账户设置的地方，把美金货币Disable掉也行。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rewjxrhdkv_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2024-11-28 23:52",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rewjxrhdkv_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rewjxrhdkv_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rewjxrhdkv_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:24:05.875Z"
+}

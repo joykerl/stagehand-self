@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/dmx552e69z",
+  "title": "2.6 Easy Scraper: 网页采集",
+  "author": "涛涛(非作者,只搬运)",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dmx552e69z_avatar.jpg",
+  "tags": [
+    "AI 编程课"
+  ],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">Easy Scraper</h1>\n<div>官方网站：<a href=\"https://chromewebstore.google.com/detail/cljbfnedccphacfneigoegkiieckjndh\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/cljbfnedccphacfneigoegkiieckjndh</a></div>\n<div><strong>Easy Scraper 是一个简单易用的网页数据采集工具</strong>，它能帮你轻松获取网页上的各种信息，无需编写任何代码。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">核心功能</h2>\n<div>Easy Scraper 提供了强大的数据采集功能：</div>\n<ul>\n<li><strong>智能选择</strong>：点击选择想要的内容，自动识别相似元素</li>\n<li><strong>批量采集</strong>：一键获取所有相似数据</li>\n<li><strong>数据导出</strong>：支持 CSV、Excel 等多种格式导出</li>\n<li><strong>自动翻页</strong>：支持自动采集多个页面的数据</li>\n<li><strong>选择器编辑</strong>：可以手动调整选择规则</li>\n<li><strong>数据预览</strong>：实时查看采集结果</li>\n</ul>\n<div>Easy Scraper 让数据采集变得简单直观，是市场调研和数据分析的得力助手。</div>",
+  "publishDate": "2025-06-26 11:27",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:08:00.484Z"
+}

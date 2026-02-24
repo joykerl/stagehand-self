@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/tla77cod9k",
+  "title": "谷歌广告后台关键字规划工具建议大家用起来",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/tla77cod9k_avatar.jpg",
+  "tags": [
+    "需求挖掘"
+  ],
+  "content": "<div>提醒一下，刚发现，谷歌广告后台已经更新了8月的数据。\n除了投广告，我自己最常用的两个功能，分析给大家：\n1、关键字规划工具-&gt;发现新关键字；\n2、关键字规划工具-&gt;获取搜索量和预测数据。</div>\n<div>前者，输入几个基础关键词，谷歌就会给你大量相关搜索关键词，用来发现需求，挖掘有搜索量的关键词很有作用。</div>\n<div>后者，把 Similarweb 和 Semrush 等平台导出的关键词去重整理后，再放进去获取真实搜索量，之后按照搜索量排序，找出有更多搜索量的关键词。</div>\n<div>不过需要注意的一点是，谷歌广告后台有时候会把多个词的搜索量合并到一起，如你搜索 GPT 和 GPTs 会发现得到的搜索量数据是一样的，但其实我们知道不一样。\n这时候就需要在谷歌趋势里去比较，到底哪个关键词的搜索量高了。</div>\n<div>所以我在使用的时候，其实是会在多个工具里不断循环，数据变成了数据流。</div>",
+  "publishDate": "2024-09-12 16:08",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:36:37.284Z"
+}

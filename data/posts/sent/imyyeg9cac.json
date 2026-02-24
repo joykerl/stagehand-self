@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/imyyeg9cac",
+  "title": "记录一个next.js项目编译打包的问题",
+  "author": "阡墨",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/imyyeg9cac_avatar.jpg",
+  "tags": [
+    "vercel部署",
+    "nextjs"
+  ],
+  "content": "<h4>●问题场景</h4>\n<div>将纯html项目改成next.js项目之后，项目在vercel上打包成功，但是在浏览器里访问显示404。</div>\n<h4>●问题解决</h4>\n<div>我们最开始导入项目的时候，默认选择的是框架是Other，如下图：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/imyyeg9cac_img1.png\" alt=\"默认选择.png\" loading=\"lazy\">\n因为项目已经改成next.js了，所以打包框架应该选择Next.js。修改的地方在Build and Deployment中的Framework Settings里，如下图：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/imyyeg9cac_img2.png\" alt=\"选择next.png\" loading=\"lazy\">\n这样改完之后，项目可以正常打包，访问也显示正常了。</div>",
+  "publishDate": "2025-03-18 20:21",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/imyyeg9cac_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/imyyeg9cac_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:36:27.118Z"
+}

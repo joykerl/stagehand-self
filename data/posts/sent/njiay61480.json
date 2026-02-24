@@ -1,0 +1,27 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/njiay61480",
+  "title": "使用Similarweb查出来的付费流量数据来估算别人产品收入",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_avatar.jpg",
+  "tags": [
+    "Stripe",
+    "数据分析",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>通过Stripe等支付平台入站流量估算别人产品收入，需要用到经验值。\n我之前还发过另一个方法，简单通过对方的在线广告投放来预估收入。\n只需要使用Similarweb查出来的付费流量数据就可以估算收入。\n今天的#哥飞小课堂，就给大家再次复习一下这个方法。</div>\n<div>先看我8月整理出来的，7月的数据。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img1.png\" alt=\"57d51106250a50ed047db9a28977e484_.png\" loading=\"lazy\"></div>\n<div>当时Jenni AI在 IndieHackers 上显示被验证的 Stripe 收入是$57万。\n<a href=\"https://www.indiehackers.com/product/jenni\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.indiehackers.com/product/jenni</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img2.png\" alt=\"c2043e1863dd8c8bb0880a5c49d94e21_.png\" loading=\"lazy\"></div>\n<div>收入估算的三个假设</div>\n<div>1、假设网站在做出来之后，各项转化率就固定下来了，流量价值也就差不多是恒定的；</div>\n<div>2、假设做相同业务的网站，潜在客户群体相同，流量价值也相差不大；</div>\n<div>3、假设这些网站都在理性投放广告，尤其是长期在投广告的，是能够回本的。</div>\n<div>基于Similarweb上查到的公开数据，我估算出来了三个产品的收入。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img3.png\" alt=\"16661d87e4d97766816f8c54fa1ed48a_.png\" loading=\"lazy\"></div>\n<div>每一个数据怎么来的，这里也讲解了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img4.png\" alt=\"11811a421631b254cc0c488a4ce2fd9b_.png\" loading=\"lazy\"></div>\n<div>哥飞：就可以看到，我们估算出来的7月流量价值$59.22万，跟已经验证过的收入$57万很接近了。</div>\n<div>现在，我们再去验证一下，Jenni AI 最新的数据，看看是否还能对得上。\n在Similarweb查到，10月访问量是124.3万。\n乘以流量价值0.47，得到收入是\n124.3*0.47=58.421</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img5.png\" alt=\"0a9187cd3e3102a031738c9606453b93_.png\" loading=\"lazy\"></div>\n<div>而IndieHackers上显示的最新收入是61.9万。\n跟58.421万有一点点差距，但是差距不大，也就是5%的差距。\n试问，有谁能够估算这么准的。\n有，哥飞！</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img6.png\" alt=\"917c0be4d1e69bcf3b8559b5c51b4ee1_.png\" loading=\"lazy\"></div>\n<div>Similarweb的数据不好拿</div>\n<div>不过倒是可以不实时计算。</div>\n<div>刚才是ZB时刻，接下来是打脸时刻，让我们看看\nStealthGPT的最新真实收入，$29.8万。</div>\n<div>10月访问量是34.98万，我们如果直接乘以之前计算出来的1.31的成本，会算出一个比较高的收入，但实际上之前的图片里大家也看到了，不能用这个数字算，因为这家在追赶，他投广告是溢价的，会花高单价抢量。\n所以我们要去按照0.72单价计算，\n34.98*0.72=25.18</div>\n<div>这样算出来的收入是$25.18万，相比于真实收入$29.8万，差得有点多，大概误差15%左右。\n这就是打脸时刻了。</div>\n<div>记住，不是100%准确，大家需要理性看待。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img7.png\" alt=\"c2b06595b72b6b4bb5fadb3969f8c237_.png\" loading=\"lazy\"></div>\n<div>再看他10月的广告投入，PC端花了130K，带来了100K访问量，单价$1.3，跟我们之前计算的最近12个月的单价$1.31很接近了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img8.png\" alt=\"c8aa63a3fabb0a755b71102c4bb4bed8_.png\" loading=\"lazy\"></div>\n<div>如果去看移动端就会发现，他们在浪费钱，花了$23K，结果几乎没有点击。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img9.png\" alt=\"9ff6e67133a895aa0a8a590eb427a093_.png\" loading=\"lazy\"></div>\n<div>从这里我们就会发现，不同的产品，不同的端，用户价值是不一样的。\n这跟使用场景有关，有些场景发生在电脑，就不太可能在手机端有转化。\n但是我统计游戏站流量，发现大头都是移动端发生的。\n所以需要具体产品具体分析。</div>\n<div>最后提醒一下大家，以上所有数据估算都来自于Similarweb，本身上面的数据就是预估的，我们再根据预估的数据去估算的收入，不一定代表真实收入。\n如果跟大家自己网站的收入对比，发现跟估算出来的不一致，以你的真实收入为准。</div>\n<div>当我们不知道别的网站到底有多少收入时，这个放大可以当作一个参考，大概估算一下，仅此而已。</div>\n<div>好了，今天的小课堂就到这里了，下课。</div>\n<div>群友 <a href=\"https://lobechat.com/\" target=\"_blank\" rel=\"noopener noreferrer\">lobechat.com</a> 创始人文彬给大家分享了他花了$199 美金找的提交服务，提交的网站列表，大家可以去看看\n<a href=\"https://new.web.cafe/topic/133tyebqb5\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/topic/133tyebqb5</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img10.png\" alt=\"bac0df4bf1edeba18b5d9eb0f03c9c53_.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-01-16 11:25",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img8.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img9.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/njiay61480_img10.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:54:23.117Z"
+}

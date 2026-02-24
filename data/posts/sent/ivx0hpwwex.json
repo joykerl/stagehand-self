@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ivx0hpwwex",
+  "title": "使用google trends api 每天节省两个小时找新词",
+  "author": "人生旅行",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ivx0hpwwex_avatar.jpg",
+  "tags": [],
+  "content": "<div><strong>(🎉🎉底部有专属福利)</strong></div>\n<div>手动在Google Trends里一个一个对比新词（限制5个），效率太低了有些朋友可能每天花费两个小时在这个上面。</div>\n<div>现在有自动化方案来了: 通过Google Trends API的相关查询和趋势定时查询筛选出新词并且通过机器人发送到飞书或者微信等。</div>\n<div>Google Trends API主要完法：</div>\n<ol>\n<li>📈 游戏新词监控自动化：</li>\n</ol>\n<ul>\n<li>脚本监控游戏站sitemap → 抓取新游戏 → 自动调用API查趋势。</li>\n<li>根据趋势数据游戏潜力和是否是新词，决定是否值得投入。</li>\n</ul>\n<ol start=\"2\">\n<li>🔍 词根新词深度挖掘：</li>\n</ol>\n<ul>\n<li>结合你的词根库（参考哥飞论坛文章）→ 获取相关查询 → 分析趋势增长词。</li>\n<li>趋势+意图双重筛选： API检查趋势曲线 + AI识别关键词意图 → 精准定位有潜力的新词。</li>\n<li>循环挖掘： 新词变词根，持续扩展关键词池。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ivx0hpwwex_img1.png\" alt=\"image.png\" loading=\"lazy\"></li>\n</ul>\n<div>不会写代码？新手友好界面也已安排：</div>\n<ul>\n<li>\n<div>🌐 网页工具“Google Multi Keyword Trends”：</div>\n<ul>\n<li>同时分析最多100个关键词！ 秒杀原版的5个限制。</li>\n<li>趋势对比、数据可视化一键搞定，无需任何代码。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ivx0hpwwex_img2.png\" alt=\"image.png\" loading=\"lazy\"></li>\n</ul>\n</li>\n<li>\n<div>更多实用网页功能，正在加速开发中！ (持续关注我们)</div>\n</li>\n</ul>\n<div>哥飞社群朋友专属福利：加我好友，立得福利！</div>\n<ul>\n<li>🎁 前20名免费赠送10000积分（价值$9.9 ≈ 1000次API调用, 有效期1个月） ！立即体验API的强大。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ivx0hpwwex_img3.png\" alt=\"image.png\" loading=\"lazy\"></li>\n<li>想快速接入？RapidAPI已上线：\n<a href=\"https://rapidapi.com/insearch-insearch-default/api/google-trends-api6\" target=\"_blank\" rel=\"noopener noreferrer\">https://rapidapi.com/insearch-insearch-default/api/google-trends-api6</a> (复制链接访问)\n用InSearch Google Trends API，把找词效率拉到满，成本降到最低！现在行动，开启你的自动化新词洞察之旅！🎉</li>\n</ul>",
+  "publishDate": "2025-07-15 15:34",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ivx0hpwwex_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ivx0hpwwex_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ivx0hpwwex_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:49:24.990Z"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/0i54c1fk71",
+  "title": "同样的词在google trends搜出来结果完全不同",
+  "author": "彩笺",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0i54c1fk71_avatar.jpg",
+  "tags": [],
+  "content": "<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">背景：</h2>\n<div>朋友分享了我一个关键词，当我拿到trends搜索的时候，发现曲线和他截图的曲线对不上，但是我一个个字符看了好多遍，是一样的</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">现象：</h2>\n<div>在网址链接中找到了不同，我直接在微信聊天框中复制的他的词 :\n<code>xx1 xx2 xx3</code>；\n该词在网址链接中为：\n<code>xx1%C2%A0xx2%20xx3</code></div>\n<div>但是我手动敲一遍该关键词，在链接中为：\n<code>xx1%20xx2%20xx3</code></div>\n<div>对比发现第一个空格的编码和第二个不同</div>\n<div>在第一个词和第二个词之间，同样的空格编码方式不同：\n<code>%C2%A0</code>\n<code>%20</code></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">一些解释</h2>\n<div>复制过来的那个空格叫做<code>不换行空格</code> <a href=\"https://zh.wikipedia.org/zh-cn/%E4%B8%8D%E6%8D%A2%E8%A1%8C%E7%A9%BA%E6%A0%BC\" target=\"_blank\" rel=\"noopener noreferrer\">wiki</a></div>",
+  "publishDate": "2024-11-21 16:18",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:27:21.555Z"
+}

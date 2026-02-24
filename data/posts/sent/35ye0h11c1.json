@@ -1,0 +1,22 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/35ye0h11c1",
+  "title": "Threads 上线，我火速做了个网站，1小时就被谷歌收录了，操作步骤全揭秘",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_avatar.jpg",
+  "tags": [
+    "收录",
+    "高手分享",
+    "哥飞公众号归档"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img1.png\" alt=\"72139a0e9351c7eb2edd8b76e7b22fa7.png\" loading=\"lazy\"></div>\n<div>上面说的这个网站，被谷歌收录了，大概用时1小时。\n下图是理论基础。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img2.png\" alt=\"eb9924c304a1b57e7a8b4507c9f138d4.png\" loading=\"lazy\"></div>\n<div>哥飞教给大家的，都是可被实际检验的。\n下面我们大概复盘一下。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img3.png\" alt=\"f48c7763e135807cea94132bb37378d2.png\" loading=\"lazy\"></div>\n<div>先看上图谷歌搜索结果，的确是被谷歌收录了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img4.png\" alt=\"70bbff65a91428f6f4f0f75d2e1d1ba0.png\" loading=\"lazy\"></div>\n<div>再看上图，快照是17:56 建立的。那么可以认为大概那个时间之前的几分钟，爬虫来了服务器，爬取了页面。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img5.png\" alt=\"6f9fec20c14650aa5d07c0c3656ca610.png\" loading=\"lazy\"></div>\n<div>再往前推，见上图，我在16:44时在V2EX发了一个帖子。</div>\n<div>就是这个帖子，在1小时就把爬虫给吸引过来了。所以图二不是哥飞说大话。</div>\n<div>再往前推，大概15:20左右，我把域名dns解析从linode换到了 cloudflare 上，从 15:20 之后一段时间，相当于两个dns服务都在生效，所以会有一些不稳定。</div>\n<div>所以才等稳定之后的16:44才去V2EX发帖。</div>\n<div>域名是上午11:09分注册的，然后就开始写页面，这个域名就是为了用来实际检验SEO效果的，所以没有去开发功能，直接就开始写页面内容。</div>\n<div>网站定位为 Threads App 的相关介绍，通过搜索引擎和GPT，很快写好了足够多的内容。\n不用自己服务器，在 Github 上创建一个新的仓库后，本地初始化，把写好的 index.html 添加到仓库中。</div>\n<div>再去 vercel 建立一个新项目，关联刚才的仓库，vercel 就会自动部署网站页面。\n所以整个过程，其实就是买域名，写html页面，部署，解析域名，V2EX发帖宣传同时吸引爬虫。</div>\n<div>当然，网页被收录只是第一步，有没有排名就要看你的页面SEO做得好不好了。</div>\n<div>这个我们留着下次再讲，同学们，下课。</div>",
+  "publishDate": "2025-01-14 15:22",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/35ye0h11c1_img5.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:07:13.268Z"
+}

@@ -1,0 +1,15 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/znggxauv2o",
+  "title": "【新手踩坑同步】 内容站cloudflare的代理可以关一关",
+  "author": "般灵",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/znggxauv2o_avatar.jpg",
+  "tags": [],
+  "content": "<div>我是一个纯新手，用AI写代码的产品。之前按哥飞教程vercel部署，托管到cloudflare。做了几个内容站老是时不时遇到访问卡顿，我一直以为是我性能优化的问题。最近在vercel后台看到提示，提示我我域名有代理。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/znggxauv2o_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>vercel提示原文：\n<a href=\"https://vercel.com/guides/can-i-use-a-proxy-on-top-of-my-vercel-deployment\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/guides/can-i-use-a-proxy-on-top-of-my-vercel-deployment</a></div>\n<div>我开始不相信他，用AI分析了几轮我的网站网络路径，确实我的日志里有很多被拦截的情况，可能是因为来自cloudflare的代理。</div>\n<div>改动也很简短 把cloudflare的DNS栏里面的橙色按钮关闭就行。我关了以后速度提升明显。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/znggxauv2o_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>希望跟我一样的新手注意一下。。。可能很多内容站或者游戏站用户没留下来是因为这个访问原因。</div>",
+  "publishDate": "2025-02-12 01:22",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/znggxauv2o_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/znggxauv2o_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:43:11.987Z"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/kzyk9fgk7l",
+  "title": "Stripe 入站流量的进一步挖掘，找出新词新机会",
+  "author": "高超",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kzyk9fgk7l_avatar.jpg",
+  "tags": [],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">背景</h1>\n<div>昨天飞哥分享了一份 stripe 入站流量的表格。从表格的流量增长百分比可以挖出一些近期增长比较猛的网站。</div>\n<div>我突然想到曾经飞哥分享过的一篇文章，里面说可以对榜单数据进行深挖。基本逻辑就是：</div>\n<ol>\n<li>找出榜单内六个月才起流量的站，可以认为是新站点</li>\n<li>在此基础上，看付费流量和自然流量的占比，自然流量占比高于50%，认为搜索需求可能比较旺盛</li>\n<li>自然流量持续在增长的，可以认为需求越来越旺盛</li>\n</ol>\n<div>基于这几个逻辑，我自己搞了一个RPA机器人，把stripe入站流量涨幅榜单通过semrush进行分析，整理出符合要求的站点。</div>\n<div>里面很多机会是我一个小白做不了的，不如分享出来，让社群内有能力的人来做。</div>\n<div>因为我买的的是共享版的semrush，额度用的很快，一天只能分析几十个站点（我收集了948个站），所以慢慢更新，有兴趣的可以追更哈。</div>\n<div>当前进度121/948</div>\n<table><thead><tr><th>url</th><th>有潜力？</th><th>stripe入站流量</th><th>stripe入站流量涨幅</th></tr></thead><tbody><tr><td>traderscasa.com</td><td>TRUE</td><td>50641</td><td>6502.50%</td></tr><tr><td>vidu.studio</td><td>TRUE</td><td>34865</td><td>11.6万%</td></tr><tr><td>nextline.ai</td><td>TRUE</td><td>20267</td><td>1.1万%</td></tr><tr><td>videoai-c2f16.web.app</td><td>TRUE</td><td>16976</td><td>1387.80%</td></tr><tr><td>itb.academy</td><td>TRUE</td><td>15668</td><td>1986.30%</td></tr><tr><td>mbcopay.com</td><td>TRUE</td><td>12585</td><td>943.53%</td></tr><tr><td>kupfservices.com</td><td>TRUE</td><td>8576</td><td>1046.50%</td></tr></tbody></table>",
+  "publishDate": "2024-09-30 11:02",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:35:34.259Z"
+}

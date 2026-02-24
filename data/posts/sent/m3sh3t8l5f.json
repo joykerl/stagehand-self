@@ -1,0 +1,22 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/m3sh3t8l5f",
+  "title": "出海技术栈集成教程（六）：Upstash 集成 Redis 与请求限流器",
+  "author": "程普",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m3sh3t8l5f_avatar.jpg",
+  "tags": [
+    "Upstash",
+    "出海技术栈教程",
+    "建站技术",
+    "出海技术栈集成教程"
+  ],
+  "content": "<div>大家好，我是程普，我整理了 Nexty.dev 模板通用配置的文档，以专栏形式发不到哥飞社群网站，希望能帮助到大家。</div>\n<div>专栏内容包含如下主题：</div>\n<ul>\n<li>👉 <a href=\"https://new.web.cafe/topic/7uv23xnpvu\" target=\"_blank\" rel=\"noopener noreferrer\">域名购买、解析与配置</a></li>\n<li>👉 <a href=\"https://new.web.cafe/topic/fkw7vhixs0\" target=\"_blank\" rel=\"noopener noreferrer\">Supabase 集成教程</a>：登录与数据库</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/hqxgijh2i1\" target=\"_blank\" rel=\"noopener noreferrer\">Stripe 集成教程</a>：支付配置与开发</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/8laqxlge8d\" target=\"_blank\" rel=\"noopener noreferrer\">Resend 集成教程</a>：邮件服务</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/dtoh6wu12z\" target=\"_blank\" rel=\"noopener noreferrer\">域名邮箱配置教程</a>：收发邮件都能用域名邮箱</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/m3sh3t8l5f\" target=\"_blank\" rel=\"noopener noreferrer\">Upstash 集成教程</a>：Redis 与限流器</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/1jr11qls7e\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare R2集成教程</a>：免费图片存储</li>\n<li>👉 <a href=\"https://new.web.cafe/topic/lvso3ci20g\" target=\"_blank\" rel=\"noopener noreferrer\">Cloudflare Turnstile集成教程</a>：免费人机检测</li>\n</ul>\n<blockquote>\n<div><a href=\"https://nexty.dev/?ref=gefei\" target=\"_blank\" rel=\"noopener noreferrer\">Nexty</a> 向哥飞社群提供骨折价，想购买的朋友加我微信（bigye_chengpu）获取专属优惠码再下单。</div>\n</blockquote>\n<hr class=\"h-2 my-2\">\n<div>Upstash 是一项无服务器数据基础设施服务，提供 Redis 和 Kafka 托管服务，具有低延迟、高可用性和全球分布的特性。</div>\n<div>在复杂商业化项目中，Redis 通常是必不可少的，主要用来实现缓存、限流器等与业务逻辑强相关的功能。</div>\n<div>本章我们来完成 Upstash 的注册与配置。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">注册与基础配置</h2>\n<ol>\n<li>\n<div>访问 <a href=\"https://console.upstash.com/login\" target=\"_blank\" rel=\"noopener noreferrer\">Upstash</a>，使用邮箱注册账号</div>\n</li>\n<li>\n<div>进入 Dashboard 页面，点击 <code>Create database</code> 按钮</div>\n</li>\n</ol>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m3sh3t8l5f_img1.png\" alt=\"upstash-create-1.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m3sh3t8l5f_img2.png\" alt=\"upstash-create-2.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m3sh3t8l5f_img3.png\" alt=\"upstash-create-3.png\" loading=\"lazy\"></div>\n<ol start=\"3\">\n<li>进入数据库详情页面，在 REST API 模块复制 <code>UPSTASH_REDIS_REST_URL</code> 和 <code>UPSTASH_REDIS_REST_TOKEN</code> 到环境变量</li>\n</ol>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m3sh3t8l5f_img4.png\" alt=\"upstash-redis-api.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-08-14 17:57",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m3sh3t8l5f_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m3sh3t8l5f_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m3sh3t8l5f_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m3sh3t8l5f_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:31:05.850Z"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/039uqkmkqa",
+  "title": "2025年3月新词新站大赛第二名 - 蛋壳的经验分享",
+  "author": "蛋壳",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/039uqkmkqa_avatar.jpg",
+  "tags": [],
+  "content": "<div><strong>引言</strong>\n大家好，我是蛋壳，很荣幸能够获得新词新站比赛的第二名，虽然有运气存在，但是也有能够看得见摸得着的规律。我的网站是<a href=\"https://Ghibliai.ai\" target=\"_blank\" rel=\"noopener noreferrer\">https://Ghibliai.ai</a> 欢迎大家去看</div>\n<div><strong>发现关键词</strong>\n这是一个平静的晚上，我习惯性的打开google trends 搜索chatgpt, ai等词根 发现了一个流量极大的关键词 - Ghibli ai 随后我就去注册了域名，我也不会想到我注册的这个域名将在一个月后达到1M流量。</div>\n<div><strong>上站 - 快快快</strong>\n花了大概1小时调研技术实现方案，2个小时上线网站，为了快速上线网站让谷歌索引到，第一个版本的UI我没有上心，是用cursor写的一个落地页。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/039uqkmkqa_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div><strong>上站 - 买外链</strong>\n提交完gsc后台的10分钟后，我花了大概五六千RMB购买高级外链做冷启动，为啥一开始就要花这么多钱，因为我坚信这波流量会很大，我必须做好万全的准备，尽自己最大的努力去做。那咋买外链呢？要买那种有流量的外链，例如 theresanaiforthat.com，toolify.ai 第一波流量冷启动我感觉是对新站SEO有帮助的。\n<strong>上站 - 优化界面，优化SEO</strong>\n上完站的第二天，我感觉界面有些丑以及SEO内容不足，我花了一些时间让v0.dev 用ghibli风格设计了一个网站，我再稍加优化修改，一个漂亮的新站就出来了，再然后我把google trends里ghibli相关比较热的关键词让cursor做SEO优化。在此之前我先让cursor自己在网络上搜索Ghibli相关的信息，先足够了解我要做的关键词，再然后让他编写en.json多语言文件，之所以cursor编辑en.json是因为这个文件里包含了网站的所有文字信息，只让cursor修改一个文件是为了更加的聚焦。只专心做SEO，不做其他事情。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/039uqkmkqa_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div><strong>流量起爆</strong>\n第三天白天，流量从在线七八十，慢慢的飙到了七八百，最后高点是1800，流量看起来很爽，但是一看来源，心凉了半截，百分之90是印度，上了付费功能后，一天大几万UV也没来一单。这里面有功能无法稳定使用的原因也有大部分是阿三的原因。\n(最高在线1800的图丢了)\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/039uqkmkqa_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div><strong>提高转化 - 假生成</strong>\n在大量阿三的狂撸下，硬如蛋壳也顶不住了，如果功能一直在无法可用状态的话那么不仅仅跳出率会增加，在线时长也会降低，最终会影响到新站SEO，那咋办呢？我最后想出了个骚招，假生成，就是让不付费的阿三一直显示进度条，等待30秒后弹出付费框显示排队xx位，付费立即免排队。通过这个策略会让一部分没耐心的阿三给我付费，有耐心的阿三帮我做SEO，提高在线时长，降低跳出率。当然后面api稳定后成本降下来了我也就把假生成给删除掉了。因为我坚信想要长期做好一个产品，用户体验至关重要，不能做欺骗用户的事情。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/039uqkmkqa_img4.png\" alt=\"image.png\" loading=\"lazy\">\n暴风雨后的平静 - 持续产品优化\n流量持续了没两个星期就降下来了，一落千丈，像坐过山车一样，让我想起一句歌词 - 爱情来的太快就像龙卷风～～ 虽然爱没有一个星期之前那么多了，但是多多少少也是有一点的。为了留住这仅剩不多的爱我继续做产品优化，提高功能稳定性，发布更多外链。持续操作后，我的谷歌排名也渐渐的稳定性了下来，从一开始6 - 8名徘徊 到现在稳住 1 - 2名，每天都能有个6k 7k流量，偶尔也能来个年费。我感觉以后能够一直稳住这样也算是不错的，起码每天的饭钱有了，哈哈哈哈哈。</div>\n<div><strong>这一波的思考和感悟</strong>\n对于有把握的关键词，对于看好的机会在前期可以多投入一些钱在里面做好流量冷启动，后面能不能起来就看天意了。\n转化率不高但流量巨大的情况下可以通过产品上的一些小设计（例如假生成）来最大可能的去提升转化率。</div>",
+  "publishDate": "2025-05-17 15:42",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/039uqkmkqa_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/039uqkmkqa_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/039uqkmkqa_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/039uqkmkqa_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:24:21.511Z"
+}

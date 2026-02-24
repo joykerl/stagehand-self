@@ -1,0 +1,25 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/zdk6o8s393",
+  "title": "Google Ads 经理账号(MCC)注册并获取ADS API Token拿关键词搜索量",
+  "author": "yitao",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_avatar.jpg",
+  "tags": [
+    "广告",
+    "Google Ads",
+    "广告投放"
+  ],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">一、为什么创建谷歌广告经理账户（MCC）</h1>\n<ol>\n<li>集中管理多个广告账户，用户可以在MCC中创建和管理多个子账户，每个子账户可以代表不同的企业、品牌或活动</li>\n<li>MCC提供了一个仪表板，用户可以在其中查看所有子账户的绩效概览，包括点击次数、展示次数、转化次数和费用等关键指标</li>\n<li>用户可以访问大量报告，包括跨账户报告，以比较不同营销活动的效果、识别趋势</li>\n<li>MCC提供了一系列工具，如自动化规则和脚本，以简化工作流程并提高效率</li>\n</ol>\n<div>还有很多其他的优势，不过对于当前的我来说，最为必要的原因是因为使用 Google ADS API时，要求有MCC账户。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">二、注册流程</h1>\n<div><strong>前提是需要有个Google账号，这个大家一般都能搞定我就不赘述了</strong>\n首先打开浏览器，地址栏输入：<a href=\"https://ads.google.com/home/tools/manager-accounts/\" target=\"_blank\" rel=\"noopener noreferrer\">https://ads.google.com/home/tools/manager-accounts/</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>然后点击 <strong>Go to Manager Accounts</strong>，进入下图的页面，依次填上账号的显示名称（这里根据自己的喜好填就行），主要用途我们个人用一般选 <strong>管理我的账号</strong> 就行，账单邮寄地址如实填写，时区和币种直接按默认走就好，然后进行人机身份验证\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>看到这个页面就注册完成啦，恭喜🎉，点击 <strong>探索您的账号</strong> 即可进入管理页面\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">三、使用Google Ads API</h1>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">3.1 创建开发者令牌</h2>\n<div>在管理页面的顶部搜索栏输入 API，得到API中心的入口\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img4.png\" alt=\"image.png\" loading=\"lazy\">\n进入到API中心，依次填写信息</div>\n<ul>\n<li>电子邮件直接填常用的Gmail</li>\n<li>公司名称自己起一个</li>\n<li>公司网址的话，大家既然走到这一步，起码上了一个站，如果还没上站就找飞哥的公众号文章随便买个域名再走vercel上个站，然后把网址填这</li>\n<li>公司类型一般选独立开发者就行</li>\n<li>预期用途我填的是“自动化分析及规划广告”</li>\n<li>主要营业地点选你实际地点，我这里默认选的中国</li>\n<li>同意条款</li>\n<li>创建令牌</li>\n</ul>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img5.png\" alt=\"image.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img6.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>创建令牌后会来到这个页面，请复制好你的<strong>开发者令牌</strong>，并妥善保管好，后面会使用到这个令牌，目前的令牌是测试账号访问权限，<strong>不过用来做关键词规划和搜索量预测是足够的了</strong>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img7.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">Python 获取关键词生成 DEMO 结果</h2>\n<div>可以看到可以直接得到关键词扩展后其他词的搜索量，这个是最权威的谷歌搜索量了，非常好用。不过走Python API 获取关键词的过程也比较复杂，需要创建GSC的账号并配置 OAuth2 授权，如果感兴趣可以评论下，我可以单开一条经验贴\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img8.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2024-11-29 01:43",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zdk6o8s393_img8.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:23:51.448Z"
+}

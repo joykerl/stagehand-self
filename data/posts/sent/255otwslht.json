@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/255otwslht",
+  "title": "【2025.9.25案例拆解】symbl.cc",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>刚看到个网站 symbl.cc，2021 年注册的域名，这个网站不算早了。 目前月访问量 195 万，73% 访问量都来自于自然搜索。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>对于这类提供网站，虽然提供的是内容，但因为提供了搜索功能，用户打开首页，一般是从搜索开始，我以前这类网站取了个名字，叫做查询类工具站。 类似于字典网站，也算是查询类工具站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>他首页还提供了一个好玩的交互，叫做 Symbol of The Day ，默认打开，显示今天推荐的一个符号，点击刷新按钮，会给你刷新出一些别的符号，给你的就是未知感觉。</div>\n<div>不过 symbl.cc 并不是从零起步的，看截图里的外链和流量曲线，出现陡增，这种一般猜测是老域名换到新域名导致的。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>要怎么验证猜测呢？ 我们可以打开 Ahrefs 或者 Semrush ，按照外链发现时间从旧到新排序，找出最早的外链。 果然可以发现 301 的痕迹，原来之前的域名是 unicode-table.com ，后来才换成 symbl.cc 的。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>注意这样的软404问题</div>",
+  "publishDate": "2025-10-14 14:44",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/255otwslht_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T17:57:40.968Z"
+}

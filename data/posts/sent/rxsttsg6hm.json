@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/rxsttsg6hm",
+  "title": "stripe 遇到用户取消订阅，会涉及到一些什么操作",
+  "author": "玄瞳",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rxsttsg6hm_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>stripe 涉及到客户申请取消订阅，并不是直接系统自动退款，会涉及到如下事情：\n客户取消订阅有：1 当前订单周期执行完成再退订阅。2 当前订单立刻退款，按照已经消耗时间折算退款金额。</div>\n<div>如果是 1 无需额外做任何操作。\n如果是 2 需要，stripe 首先会产生一个负数订单，例如(-1000)，订单产生完成之后，并不会自动退款，需要找到当前用户的正数订单，然后在上面人工操作退款，入口在...里面。退款金额是需要自己输入的，请注意默认是全部金额退款。请注意退款有手续费。</div>",
+  "publishDate": "2024-12-26 12:07",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:17:02.247Z"
+}

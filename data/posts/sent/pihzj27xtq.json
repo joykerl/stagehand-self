@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/pihzj27xtq",
+  "title": "腾讯云新加坡服务器+Dokploy部署的一些经验",
+  "author": "Sonia",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pihzj27xtq_avatar.jpg",
+  "tags": [],
+  "content": "<div>最近上了个新词来了点流量，vercel免费额度用完，通知我升级。听说vercel会有天价账单，我也害怕遇到，所以买了个服务器+Dokploy来部署。</div>\n<div>教程是按：<strong><a href=\"https://javayhu.com/dokploy/\" target=\"_blank\" rel=\"noopener noreferrer\">https://javayhu.com/dokploy/</a></strong></div>\n<div>按照教程应该可以跑通了，如果遇到小问题，Cursor也可以搞定。</div>\n<div>以下几点我个人觉得需要注意一下。</div>\n<div><strong>问题</strong>：谷歌登录出现重定向URL的问题。\n<strong>解决</strong>：\n（1）AUTH_TRUST_HOST = true\n（2）设置 AUTH_URI 为线上域名\n（3）在 Google Cloud Console 中将绑定的Dokploy域名添加为授权的重定向URI</div>\n<div><strong>问题</strong>：在GitHub Actions构建镜像报错。\n<strong>解决</strong>：需要把环境变量添加到GitHub仓库（Settings - Secrets and Variables - Actions - New repository - secret）。在GitHub Actions看日志，让cursor对症下药。</div>\n<div><strong>问题</strong>：一直出现莫名的登录问题。\n<strong>解决</strong>：AUTH_SECRET一旦设置，就不要随便更改了，否则所有现有用户会被登出等问题。</div>",
+  "publishDate": "2025-03-06 21:18",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:38:52.900Z"
+}

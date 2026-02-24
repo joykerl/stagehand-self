@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ebbde1cc5ee24124bc0756985698221f",
+  "title": "如何给自己的网站增加谷歌登录",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ebbde1cc5ee24124bc0756985698221f_avatar.jpg",
+  "tags": [],
+  "content": "<div>很多朋友没有接入过谷歌登录，会以为很复杂，其实只要接入过一遍就会发现，还是挺容易做到的。</div>\n<div>下面以哥飞团队年初开源的 SoraWebui 为例子，来说明。</div>\n<div>开源代码：<a href=\"https://github.com/SoraWebui/SoraWebui/\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/SoraWebui/SoraWebui/</a></div>\n<div>SoraWebui 有多个分支，你需要找到谷歌登录分支：\n<a href=\"https://github.com/SoraWebui/SoraWebui/tree/login\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/SoraWebui/SoraWebui/tree/login</a></div>\n<div>具体的谷歌登录实现代码，大家可以看上面我们开源的代码，下面说说如何在谷歌云后台申请谷歌登录。</div>\n<div>申请网址：<a href=\"https://console.cloud.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://console.cloud.google.com/</a></div>\n<div>哥飞这里只给大家说一下第一步，创建项目。</div>\n<div>打开以上网址，左上角 Logo 右侧有一个框框，点击这里，就能够弹出项目列表浮层。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ebbde1cc5ee24124bc0756985698221f_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>在弹出的浮层里可以看到你之前已经创建好的项目列表，我们点击右上角，创建新项目。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ebbde1cc5ee24124bc0756985698221f_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>之后就会进入创建新项目页面，一般一个账号只能创建10个项目，有些老账号可以创建20个项目。</div>\n<div>项目名称可以是你的网站名称，或者其他什么都行，位置组织可以不选，就用默认的。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ebbde1cc5ee24124bc0756985698221f_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>之后点击创建按钮，就可以提交了，提交完之后，需要等待几分钟，等谷歌云初始化项目。</div>\n<div>后续步骤，请看 SoraWebui 的帮助文档：</div>\n<div><a href=\"https://github.com/SoraWebui/SoraWebui/blob/login/help/Google-Auth.zh-CN.md\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/SoraWebui/SoraWebui/blob/login/help/Google-Auth.zh-CN.md</a></div>",
+  "publishDate": "2024-08-05 16:38",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ebbde1cc5ee24124bc0756985698221f_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ebbde1cc5ee24124bc0756985698221f_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ebbde1cc5ee24124bc0756985698221f_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:37:05.718Z"
+}

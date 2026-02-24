@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/lo8n5ny9mh",
+  "title": "【案例拆解】 razorpay.com",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lo8n5ny9mh_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>我们之前分享过一个案例，fixthephoto.com 这个网站，做了个页面来拿 photoshop torrent 这种盗版用户流量。</div>\n<div>今天我又看到个例子，印度的一家支付平台 razorpay.com ，做了个页面 <a href=\"https://razorpay.com/learn/fake-payment-screenshot-scam/\" target=\"_blank\" rel=\"noopener noreferrer\">https://razorpay.com/learn/fake-payment-screenshot-scam/</a> 来拿 Fake Payment Screenshot 这个词的流量。</div>\n<div>注意，他不是直接做个工具来满足用户的需求，而是从安全的角度来科普，Fake Payment Screenshot 有哪些形式，会用于哪些场景，如何防止被骗。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lo8n5ny9mh_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-10-13 10:26",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lo8n5ny9mh_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:05:02.751Z"
+}

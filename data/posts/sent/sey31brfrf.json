@@ -1,0 +1,15 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/sey31brfrf",
+  "title": "Cloudflare Pages 部署项目坑点之 404.html",
+  "author": "一朵概率云",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/sey31brfrf_avatar.jpg",
+  "tags": [
+    "Cloudflare Pages",
+    "经验"
+  ],
+  "content": "<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">本文浓缩版</h2>\n<div>请务必确保你在 Cloudflare Pages 部署的项目中根目录下有 <code>404.html</code> 这个文件，这样可以保证用户访问你网站中的无效路径的时候，正常返回 404 响应，否则可能会返回首页的内容，从而产生一些意外的现象。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">完整版</h2>\n<div>如果你在 Cloudflare Pages 部署的项目中没有 <code>404.html</code>，Cloudflare 会默认这个项目是一个单页应用（SPA），这时所有无效路径都会用根路径的内容进行响应。参考文档：</div>\n<blockquote>\n<div>If your project does not include a top-level <code>404.html</code> file, Pages assumes that you are deploying a single-page application. This includes frameworks like React, Vue, and Angular. Pages' default single-page application behavior matches all incoming paths to the root (<code>/</code>), allowing you to capture URLs like <code>/about</code> or <code>/help</code> and respond to them from within your SPA.</div>\n<div>——<a href=\"https://developers.cloudflare.com/pages/configuration/serving-pages/\" target=\"_blank\" rel=\"noopener noreferrer\">Serving Pages | Cloudflare Pages docs</a></div>\n</blockquote>\n<div>也就是说，如果没有 <code>404.html</code>，哪怕你用 <code>https://yourwebsite.com/asihdsebfjkj</code>这种无效路径访问你的项目，页面仍然可以正常显示。</div>\n<div>这会带来什么问题呢？</div>\n<ol>\n<li>可能会影响谷歌爬虫对你网站的爬取，如果你的网站中有一些相对路径存在问题，导致谷歌访问到了一个不存在的路径，原本你的网站应当返回 404，但是却正常返回了结果，那么谷歌爬虫会继续对这个页面上的内容进行爬取，从而可能导致一系列错误的抓取路径。</li>\n<li>由于谷歌爬虫爬取错误的路径也能得到正常的网页，有可能会一环套一环，产生大量的无效抓取。既影响了谷歌分配给你的网站的抓取资源，也导致你的服务器产生了很多无效流量。</li>\n</ol>\n<div>本文还有啰唆版本详细介绍本问题导致谷歌爬虫疯狂访问我的网站，欢迎围观：<a href=\"https://web.okjike.com/originalPost/673c75e0cc17b0c5d3dcfe81\" target=\"_blank\" rel=\"noopener noreferrer\">我的网站被 Googlebot 攻击了，凶手竟是 Cloudflare - 即刻</a></div>",
+  "publishDate": "2024-11-19 20:44",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:28:40.200Z"
+}

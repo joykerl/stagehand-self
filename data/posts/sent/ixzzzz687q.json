@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ixzzzz687q",
+  "title": "聊一聊一些图片类关键词的数据怎么看，怎么判断能不能做，要不要做",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ixzzzz687q_avatar.jpg",
+  "tags": [
+    "建议",
+    "经验",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>今天的#哥飞小课堂 有点早，跟大家聊聊一些图片类关键词的数据怎么看，怎么判断能不能做，要不要做。\n我们拿 sky background 这个关键词来说，PC端使用谷歌搜索，会发现谷歌能够识别到这是图片搜索需求，所以直接出现了“Images”模块，直接给你显示了一些图片。\n这时候，大部分人可能直接就会点击图片列表，进入谷歌图片搜索了。\n少部分人会点击下面的网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ixzzzz687q_img1.jpg\" alt=\"5a8009aac5ddaa55bcb6f0052173d009_.jpg\" loading=\"lazy\"></div>\n<div>那我们就来判断一下，这个关键词，点击下面网站的比例大概有多少。\n换句话说，我们看一看，假如你做了一个网站，拿到了这个词的第一名，能够获取多少流量。</div>\n<div>先在 Similarweb 看这个关键词的概况，Simialrweb 估算，这个词的月曝光量在109.9K，月点击量在51.9K。\n其中排名第一的 <a href=\"https://www.pexels.com/\" target=\"_blank\" rel=\"noopener noreferrer\">pexels.com</a> 拿到了24.7K点击量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ixzzzz687q_img2.png\" alt=\"3f760c48952b6b4a734954dd8bb495c1_.png\" loading=\"lazy\"></div>\n<div>注意，这里的 24.7K 可能包含了 <a href=\"https://www.pexels.com/\" target=\"_blank\" rel=\"noopener noreferrer\">pexels.com</a>  多个页面拿到的点击量。\n如果只看 <a href=\"https://www.pexels.com/search/sky%20background/\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.pexels.com/search/sky%20background/</a> 这个页面，会发现从 sky background 这个关键词只拿到了6.8K的点击。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ixzzzz687q_img3.png\" alt=\"6767d733a76620f9b5d8465232b4e0ac_.png\" loading=\"lazy\"></div>\n<div>现在，我们就可以计算一下比例了，如果是在“Images”模块下的第一名，能够拿到曝光量中的 (6.8/109.9)*100%=6.18%。</div>\n<div>也就是说，你别看这个关键词每个月有109K的搜索量（曝光量=搜索量），但是即使你排到了首页，点击率也才6.18%。</div>\n<div>那么这种词，如果我们要去做网站，就有点吃力不讨好了。\n除非你真的没别的词可以去做了，否则别选择这种词。</div>\n<div>所以哥飞在判断一个词是否能做时，最重要的一步就是直接谷歌搜索看看搜索结果长啥样。\n图片类、视频类、商品类、数学计算公式类关键词等等，所有这种谷歌直接在搜索结果最前面直接把用户想要的给呈现出来的关键词，都要慎重考虑。</div>\n<div>如果你在 Ahrefs 查询关键词难度，会发现难度很低，只要几个外链就能够让你的网站进入首页。\n但其实这是 Ahrefs 的算法局限性导致的计算失误，实际上难度并没有这么低。\n看看搜索结果，一个个都是大站的内页。\n我们一个新网站，还是比较难突破这些大站的封锁，进入前三名的。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ixzzzz687q_img4.png\" alt=\"edad7ea297ef01e7f3d3f43aec30ac01_.png\" loading=\"lazy\"></div>\n<div>好了，今天的小课堂就到这里了。</div>",
+  "publishDate": "2025-01-15 18:00",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ixzzzz687q_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ixzzzz687q_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ixzzzz687q_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ixzzzz687q_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:59:16.494Z"
+}

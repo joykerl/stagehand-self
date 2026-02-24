@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/ee67bjs43h",
+  "title": "常常被Google Trends热词搞懵❓别担心，这个插件帮助你",
+  "author": "halo",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ee67bjs43h_avatar.jpg",
+  "tags": [
+    "工具分享",
+    "工具",
+    "Chrome 插件"
+  ],
+  "content": "<div>每次在 Google Trends 挖词都被一些新词搞懵？我刚做了个小插件 <strong>LexiTrend</strong>我刚做了个小插件 <strong>LexiTrend</strong></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">使用安装</h1>\n<div>使用非常简单</div>\n<ol>\n<li>选中热词 → 10 秒输出词义 + 雷区</li>\n<li>支持 Gemini (必需) + Tavily (可选).</li>\n</ol>\n<blockquote>\n<div>❗注意没有Tavily ，会使用Gemini模型自带的搜索能力，也可以从网络中获取热词的相关信息</div>\n</blockquote>\n<div>👉 点击跳转到chrome商店 <a href=\"https://chromewebstore.google.com/detail/lexitrend/dmkihaeijfdbjjbjmhoghghckmbfjhgm?hl=zh-CN&amp;utm_source=ext_sidebar\" target=\"_blank\" rel=\"noopener noreferrer\">安装地址 </a></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">视频介绍</h1>\n<div><a href=\"https://www.bilibili.com/video/BV1bPMqz9Epo\" target=\"_blank\" rel=\"noopener noreferrer\">LexiTrend |10 秒洞察海外热词！｜AI × Google Trends\n</a></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">插件截图</h1>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ee67bjs43h_img1.png\" alt=\"1.png\" loading=\"lazy\"><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ee67bjs43h_img2.png\" alt=\"3.png\" loading=\"lazy\"></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">结尾</h1>\n<div>希望能够帮助到大家早日挖到更多的\"刀乐\"，也请大家能够向我反馈使用过程中的问题。</div>\n<div>我的微信:  SiddhaDo\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ee67bjs43h_img3.jpg\" alt=\"IMG_9025.JPG\" loading=\"lazy\"></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">文档链接</h1>\n<div><a href=\"https://gsk059vw22.feishu.cn/docx/UxqDdFGAroAKxzxGTqgcomFUn1d?from=from_copylink\" target=\"_blank\" rel=\"noopener noreferrer\">插件文档</a></div>",
+  "publishDate": "2025-06-18 18:35",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ee67bjs43h_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ee67bjs43h_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/ee67bjs43h_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:14:09.542Z"
+}

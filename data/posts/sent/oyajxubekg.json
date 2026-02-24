@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/oyajxubekg",
+  "title": "代码推送到Github,但是Vercel不自动部署的问题.",
+  "author": "Hx.org",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oyajxubekg_avatar.jpg",
+  "tags": [],
+  "content": "<div>今天遇到了以上的问题, 花了点时间解决并记录一下.</div>\n<blockquote>\n<div>先说一下结论,大概率是代码存在问题,我的是 vercel.json配置存在问题, 修复了就能触发自动部署了.</div>\n</blockquote>\n<div>对于如何找到问题所在,我总结一下整个复盘的过程.\n假如你现在提交代码到了Github, 但是Vercel没有自动更新, 那么可以按照如下步骤检查一遍:</div>\n<div>打开 Vercel对应app的部署页面:\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oyajxubekg_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>尝试手动部署一次:\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oyajxubekg_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>选择你的分支,然后进行手动部署:\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oyajxubekg_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>此时你需要检查一下, 你的 git 提交记录是否存在问题, 如果存在问题, 那么说明你的代码没有正确的push到 Github上面, 此时需要检查一下网络原因.\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oyajxubekg_img4.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>如果git提交记录没有问题, 点击部署, 那么就会弹出部署失败的原因, 然后复制原因,扔给CC 或者 Cursor, 进行解决即可.</div>\n<div>我因为时间问题,直接把异常解决了,所以就没有截图.</div>",
+  "publishDate": "2025-09-28 17:17",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oyajxubekg_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oyajxubekg_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oyajxubekg_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/oyajxubekg_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:18:02.377Z"
+}

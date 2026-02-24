@@ -1,0 +1,15 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/yovc1nlyp3",
+  "title": "2025 年 3 月新词新站大赛-第三名- 贾克深 的经验分享",
+  "author": "贾克深",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yovc1nlyp3_avatar.jpg",
+  "tags": [],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">自我介绍</h1>\n<div>大家好，我是贾克深，一名资深的前端开发，目前在杭州上班，副业出海赚美刀，很荣幸获得3月的新词新站比赛第三名，之前已经参加过很多次新词新站比赛，也有一些上榜，不算新手，今天在这里和大家分享下这次的实战经验和教训。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">3月新站介绍</h1>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">起因</h2>\n<div>这次的网站灵感来自于飞哥在群里分享的这个网站：\n<a href=\"https://anythingtranslate.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://anythingtranslate.com/</a>  用户使用AI生成自定义翻译器</div>\n<div>对的，我并没有围绕新词去建站，这里我的思路是：</div>\n<ul>\n<li>用户使用AI创建对应的工具，同时AI生成对应的seo内容，这样可以形成一个有真实场景的工具落地页</li>\n<li>因为是用户自己创建的，说明有真实用户同时页面有工具，有内容，有停留时间，容易获得谷歌流量，我还可以通过google trends查看最近是否有类似的工具新词，手动创建对应的工具</li>\n<li>当有用户参与进来，并自发分享时，网站就可以自给自足完成工具创建和分享传播</li>\n</ul>\n<div>上面的translator可以换成maker，calculator, generator等等。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">过程</h2>\n<div>有了思路之后，花了一个周末部署了2个这样的网站，因为不是新词，所以并没有期待流量会起的很快，只是在几个论坛博客发了下链接，</div>\n<div>大概过了2-3天之后，不可思议的事情发生了，请看下图。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yovc1nlyp3_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>我在自己的plausible上看到实时在线超过了1000人，网站在短时间被疯狂分享，流量起的太快，这个时候手都开始抖了，难道我要起飞了？\n可是这个时候网站还没有添加变现，泼天的富贵可不能浪费，我抓紧时间做了下面几个动作：</div>\n<ul>\n<li>分析网站流量原因</li>\n<li>优化网站性能（网站很卡，第一次碰到网站有性能瓶颈）</li>\n<li>给网站添加stripe支付</li>\n<li>添加monetag广告，同时申请adsense（实际发现接入其他广告不影响adsense申请）</li>\n</ul>\n<div>本来一切都像好的方向发展，原先我期望网站提供免费服务，靠adsense收入，但是现在我已经挺直腰杆，憧憬月入万刀。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">转折</h2>\n<div>但是网站为什么流量起这么快呢，事出反常必有妖，我理了一下网站内容，发现是有个中国用户制作了自动生成黄文的工具，并分享到了小众软件这个平台，然后又在微信中形成了传播，难怪流量起的这么快。\n不对，黄色，擦边内容跟我预想的网站方向不一致呀，而且这些东西对adsense和stripe都有影响，很可能封号，那岂不是得不偿失。\n本着做长期生意的想法，我果断停掉了黄色内容，同时加上nsfw等提示。等我到微信中查看时，果然网站被举报涉黄。\n到此网站的流程也就告一断落。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yovc1nlyp3_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">总结</h1>\n<div>老实说，很可惜，错过一次机会，以下是几点总结：</div>\n<ul>\n<li>准备不充分，流量网站卡了一段时间，导致用户流失</li>\n<li>变现路径没做好，大部分是中国用户，stripe支付率很低，如果是微信支付会好很多， 后面才想到接入不用验证的monetag广告</li>\n<li>因为想用adsense，所以去掉了擦边内容，导致流量持续降低，这是最主要的原因</li>\n</ul>\n<div>虽然没有起飞，但是也获得了宝贵的经验。能变现的流量才是真流量，当流量来的时候要能承接住，这里就需要你的经验教训去解决产品，流量，变现的问题。如果不去掉擦边的内容，保持monetag广告，这个网站每天应该也有一些收入。不过没关系了，我还在路上，抬头还有希望。</div>",
+  "publishDate": "2025-05-17 14:20",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yovc1nlyp3_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/yovc1nlyp3_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:24:33.469Z"
+}

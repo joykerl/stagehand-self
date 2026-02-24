@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/0t326f5zv6",
+  "title": "用 Stripe 收款必看：如何利用 radar 事件降低争议率",
+  "author": "Zane小江",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0t326f5zv6_avatar.jpg",
+  "tags": [
+    "收款平台",
+    "支付",
+    "Stripe"
+  ],
+  "content": "<div>过去几个月的实践经验，强烈建议正在用 Stripe 收款的朋友一定要添加</div>\n<pre><div style=\"color: black; background: transparent; text-shadow: white 0px 1px; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; font-size: 1em; text-align: left; white-space: pre; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none; padding: 0px; margin: 0.5em 0px; overflow: initial; display: block; border: none;\"><code class=\"language-javascript\" style=\"white-space: pre; color: black; background: none; text-shadow: white 0px 1px; font-family: Consolas, Monaco, &quot;Andale Mono&quot;, &quot;Ubuntu Mono&quot;, monospace; font-size: 1em; text-align: left; word-spacing: normal; word-break: normal; overflow-wrap: normal; line-height: 1.5; tab-size: 4; hyphens: none;\"><span>radar</span><span class=\"token\" style=\"color: rgb(153, 153, 153);\">.</span><span class=\"token property-access\">early_fraud_warning</span><span class=\"token\" style=\"color: rgb(153, 153, 153);\">.</span><span class=\"token property-access\">created</span></code></div></pre>\n<div>这个 webhook 事件。一旦触发，建议立刻退款，这样能显著降低争议率。</div>\n<div>另外，记得在收到预警后及时通知自己，并取消该用户的订阅。遇到用户连续几个月一起发起争议的情况真的很头疼。</div>\n<div>补充几点建议：</div>\n<div>• 可以将欺诈评分调低至 40 以下，并开启智能 3DS 验证。</div>\n<div>• 建议开启支付成功后自动发送订单邮件。如果是订阅业务，最好在扣费前 7 天发送邮件通知用户。</div>\n<div>• 设置雷达规则：当银行开户国家与当前访问 IP 所在国家不一致时，强制开启 3DS 验证。因为通过 3DS 验证的支付可以免责。</div>\n<div>• 有朋友反馈，刚加上 webhook 后没多久就有疑似欺诈付款被 Stripe 直接拦截，效果立竿见影。<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0t326f5zv6_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-07-22 12:36",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0t326f5zv6_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:45:35.784Z"
+}

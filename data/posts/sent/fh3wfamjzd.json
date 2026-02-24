@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/fh3wfamjzd",
+  "title": "被GSC提示“备用网页（有适当的规范标记）”不用担心",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fh3wfamjzd_avatar.jpg",
+  "tags": [],
+  "content": "<div>GSC页面索引里，有一个类别是“备用网页（有适当的规范标记）”，这个是不用担心的，正常的。\nGSC谷歌会把发现的一些异常给你提示出来，但并不是提示出来的，都是不好的情况。\n仅仅只是谷歌发现了，就告诉你了。\n对于截图这种，属于是你已经设置好了Canonical，就不用管的。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fh3wfamjzd_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>但还有另一个类别“重复网页，用户未选定规范网页”，这种是需要处理的，需要去设置 Canonical 。</div>",
+  "publishDate": "2024-11-27 16:06",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/fh3wfamjzd_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:25:36.500Z"
+}

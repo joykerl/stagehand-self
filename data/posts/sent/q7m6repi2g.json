@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/q7m6repi2g",
+  "title": "一些云数据库的免费计划",
+  "author": "半尘",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q7m6repi2g_avatar.jpg",
+  "tags": [],
+  "content": "<div>除了常用的supabase之外，还有一些其他可以白嫖的数据库。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">Supabase</h1>\n<div><a href=\"https://supabase.com/\" target=\"_blank\" rel=\"noopener noreferrer\">https://supabase.com/</a></div>\n<div><strong>免费计划</strong>：2个免费数据库，一个数据库500MB\n<strong>付费计划</strong>：$25，一个8GB的数据库，额外的 $0.125/GB，这个存储是最便宜的，如果数据库预计比较大，supabase可以作为首选。</div>\n<div>每增加一个付费数据库10刀，起步套餐相对较贵。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">Neon</h1>\n<div><a href=\"https://neon.tech/\" target=\"_blank\" rel=\"noopener noreferrer\">https://neon.tech/</a></div>\n<div><strong>免费计划</strong>：0.5 GB Storage，可以建10个数据库，但是免费计划的计算小时只够一个数据库可以7*24小时运行</div>\n<div><strong>付费计划</strong>：$19，10GB Storage，可以建100数据库，这样看挺好的，似乎很适合建很多小项目，但是只有300 compute hours，免费的190 compute hours只能一个最低配的7*24。 如果你的项目没什么量，也没有频繁的定时计划，都是闲着的，看起来还可以，但是估计你也不会觉得还可以，毕竟没有流量。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">Xata</h1>\n<div><a href=\"https://xata.io/\" target=\"_blank\" rel=\"noopener noreferrer\">https://xata.io/</a></div>\n<div><strong>免费计划</strong>： 10个postgres数据库，15GB storage，这个很大方\n<strong>付费计划</strong>： 50个数据库，容量没有变化，额外的 $2/GB，这个存储很贵，很适合都是小项目的。如果存储比较大可以的专用数据库集群，但是内存价格算起来也不便宜。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">aiven</h1>\n<div><a href=\"https://aiven.io/\" target=\"_blank\" rel=\"noopener noreferrer\">https://aiven.io/</a></div>\n<div><strong>免费计划</strong>：1个1C1G的redis，1个PostgreSQL和MySQL（5 GB Storage, 1 GB RAM, 1 CPU） ，而且跟自建的一样，可以新建很多数据库，不用分表区分项目。很适合很多小项目的，不过cpu好像比较弱。\n<strong>付费计划</strong>：postgres最低档是$19,  8 GB storage，1CPU 1GB RAM，更贵的套餐还可以选择aws、google这些大厂供应商的。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">最后</h1>\n<div>数据库还有Cloudflare D1、Turso等，这些不是postgres就没有关注，还有很多没有看到的。</div>\n<div>很多免费套餐可以降低前期的成本，只不过免费套餐基本上都是不保证sla和不提供备份服务的，需要自己备份。</div>\n<div>如果量上去了就付费吧，你也不用关注穷鬼套餐，对你来说，稳定的服务才是你最关注的，特别是数据库。</div>",
+  "publishDate": "2025-03-29 12:12",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:33:35.412Z"
+}

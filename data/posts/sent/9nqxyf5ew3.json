@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/9nqxyf5ew3",
+  "title": "谷歌趋势的使用小经验分享",
+  "author": "飞天",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>谷歌趋势网址 <a href=\"https://trends.google.com/trends/explore?geo=US&amp;hl=zh-CN\" target=\"_blank\" rel=\"noopener noreferrer\">https://trends.google.com/trends/explore?geo=US&amp;hl=zh-CN</a>\n1.语言设置\n谷歌趋势显示的语言会跟随你的浏览器语言设置，且没有单独的语言切换栏。我的默认语言是英语，可以直接在网址栏修改语言设置，通过添加或删除\"&amp;hl=zh-CN\"来切换为中文/英语，或者添加\"&amp;hl=en\" \"&amp;hl=en-US\"来切换为英文。</div>\n<div>2.地区选择\n谷歌趋势默认显示的是全球还是美国的数据，各个账号都不一样，有的群友喜欢用美国地区，因为客单价稍高，消费能力强，对比词的趋势一般是全球，这个切换也比较简单。全球切美国下拉框输入美国，选中，或者地址栏加上\"&amp;geo=US\"，美国切全球，下拉框第一个或者去掉\"&amp;geo=US\"。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img1.png\" alt=\"image.png\" loading=\"lazy\">\n3.单查，多查\n搜一个词，和多个词是显示有区别的，单个词，显示地区、相关主题、和相关关键词，同时搜多个关键词，只显示显示地区、和相关关键词，一般进行对比的时候用多个。查单个关键词可以点击相关主题，和相关关键词一样最多显示25个，智能推荐，点你感兴趣的，另外打开一个窗口，或许你就发现掉入了飙升词窝，25个相关关键词都是飙升词，抓紧研究这些新趋势，可能会给你带来一些意外的惊喜。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img2.png\" alt=\"image.png\" loading=\"lazy\">\n在查看多个关键词时也有个小技巧，当你在输入框里输的时候，输入完一个要敲下enter，然后网页自动刷新，如果你想输入两个以上的关键词是不是有点麻烦了，可以在网址栏输入，以英文逗号隔开，空格会自动转为%20。<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img3.png\" alt=\"image.png\" loading=\"lazy\">\n这样效率会比较高点，或者直接复制关键词到网址栏也行。遇到近期着重关注的词，添加书签或加到关键词工具里，随时跟踪查看。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img4.png\" alt=\"image.png\" loading=\"lazy\">\n4.没数据\n当关键词查看多了，会出现没有相关数据的情况，有时候是词比较新，的确没有数据，有时是日期段选的比较短，一般我会切换选择时间范围进行查看，如果还是没有数据，刷新页面可能会有新的变化，如果刷新也不起作用，这就需要换ip换账号了，根据个人习惯，我一般是换ip，需要提醒的是，如果你登录了社媒账号，不要轻易的换ip国别，懂的自然懂。我是喜欢一个浏览器一个账号，分别负责不同的内容。谷歌浏览器支持多开，左键点击谷歌浏览器右侧的账号，添加新的个人资料，你可以登陆账号也可以访客身份。</div>\n<div>5.时下流行\n在查看时下流行的趋势时，可以通过设置国家/地区、时间段和类别、状态等条件来获取更加精准的结果，每页显示量开到最大50个，多点点会有新发现。通过选择不同的“兴趣度”和“搜索量”筛选条件，可以进一步分析特定趋势是否属于短期热点或长期关注的领域。定期查看时下流行趋势，有助于你提前识别即将流行的主题或关键词。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img5.png\" alt=\"image.png\" loading=\"lazy\">\n希望这些技巧能够帮助你提升数据分析的效率，发现更多潜在的商机和行业趋势。祝大家年底前多发现新趋势，多上站，多赚美刀，生活愉快身体康康！</div>",
+  "publishDate": "2024-12-15 16:33",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/9nqxyf5ew3_img5.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:20:30.952Z"
+}

@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/rqidcovetg",
+  "title": "Next网站中的“延迟加载优化”对网站性能有负面影响",
+  "author": "江帅有点忙🏂",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rqidcovetg_avatar.jpg",
+  "tags": [
+    "建站技术"
+  ],
+  "content": "<div>hello，我是江帅~\n前段时间，我对自己的游戏模板进行改版，并分别应用在了一个老网站和一个新站上，过程中发现了2个异常点，让我不得不停下上站的脚步。</div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">老网站：</h3>\n<ol>\n<li>Clarity中的网站性能评分大幅度下降</li>\n</ol>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">新网站：</h3>\n<ol>\n<li>Clarity中的网站性能评分大幅度下降</li>\n<li>谷歌正常收录，必应到现在7天无法收录（以前这个模板3天左右就能收录）</li>\n</ol>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">”改版前“与“改版后”之间的对比</h2>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rqidcovetg_img1.png\" alt=\"image.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rqidcovetg_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>所以我能确定，问题必定出现在我的“改版”动作中</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">问题觉察</h2>\n<div>我把2个网站的首页代码对比了一下，发现了区别\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rqidcovetg_img3.png\" alt=\"image.png\" loading=\"lazy\">\n原来是我在改版的时候，听AI说使用“延迟加载优化”对网站性能更好，于是我便按照AI的去做，接下来就是去验证它</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">问题验证</h2>\n<div>我让AI“去掉延迟加载，恢复正常的导入结构”，上传后并重新使用pagespeed测试\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rqidcovetg_img4.png\" alt=\"image.png\" loading=\"lazy\">\n果然，性能又恢复到原先的高评分了</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">结论</h2>\n<div>在首页中使用“延迟加载”优化，对网页性能有大幅度的影响</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">必应不收录问题的思考</h2>\n<div>**事实1：**改版前的模板，能够正常收录索引\n**事实2：**改版后的模板，不能正常收录索引\n**已知：**必应更加看重网站的技术化结构</div>\n<ul>\n<li>网站速度：必应更加重视页面加载速度，较慢的网站可能影响其索引和排名。</li>\n<li>结构化数据：必应依赖结构化数据来更好地理解网页内容，因此良好的Schema标记有助于提升排名。</li>\n<li>移动端优化：网站在移动设备上的表现至关重要，响应式设计和优化的移动体验可能影响必应的收录。</li>\n<li>索引规则：必应可能会更严格地对低质量内容、重复内容或技术上不合格的网站进行过滤。</li>\n</ul>\n<div>**猜测：**有可能是改版后的网页性能太低了，在技术要求上触碰了必应的红线，没有达到它的及格线，故而被有意的排除</div>\n<div>**后续测试：**把网站的“延迟加载去掉”，上传后再去申请收录，看看是否能够正常</div>",
+  "publishDate": "2025-05-10 11:29",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rqidcovetg_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rqidcovetg_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rqidcovetg_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rqidcovetg_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:25:28.865Z"
+}

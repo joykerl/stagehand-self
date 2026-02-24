@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/r97utzjn46",
+  "title": "解决申请Adsense，Ads.txt状态未找到的问题",
+  "author": "阡墨",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r97utzjn46_avatar.jpg",
+  "tags": [
+    "Adsense"
+  ],
+  "content": "<div>不知道大家有没有在申请Adsense时，有没有遇到过Ads.txt状态未找到的问题，问题如下图：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r97utzjn46_img1.jpg\" alt=\"ads找不到.jpg\" loading=\"lazy\"></div>\n<div>解决方案：\n主要有2点需要注意：\n1.如果你是next.js项目，ads.txt应该放在public文件夹下，并且文件名用小写ads.txt，不要写成Ads.txt。\n2.验证网站所有权的时候，应该选Ads.txt代码段进行验证。如下图：<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r97utzjn46_img2.png\" alt=\"WX20250613-170115@2x.png\" loading=\"lazy\"></div>\n<div>按以上2点，删除网站，重新提交之后，Ads.txt状态就变成已授权了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r97utzjn46_img3.jpg\" alt=\"已授权.jpg\" loading=\"lazy\"></div>\n<div>我是2群的阡墨，大家多多交流。</div>",
+  "publishDate": "2025-06-13 17:51",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r97utzjn46_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r97utzjn46_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r97utzjn46_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:14:47.508Z"
+}

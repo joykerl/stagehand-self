@@ -1,0 +1,15 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/q0fcuy5xyc",
+  "title": "如何将同步到本地的nextjsbase-i18n项目修改项目名并且Git初始化使用起来",
+  "author": "雪驹",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/q0fcuy5xyc_avatar.jpg",
+  "tags": [
+    "工具分享",
+    "开源推荐"
+  ],
+  "content": "<div>这个是我开源的项目同步到本地后，修改项目名，用到多个项目的操作方法（问AI也能问清楚），这里分享给大家，节省大家的时间。\n原帖标题：开源一个包含多语言的NextJS启动项目\n原帖地址：<a href=\"https://new.web.cafe/topic/lurrszwjxx\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/topic/lurrszwjxx</a></div>\n<div>首先直接修改项目文件夹名称就好了，修改成自己想要的文件夹名称。\n修改好后，可以按以下步骤删除原有git配置，并初始化同步到自己的Github远程仓库</div>\n<div>1、删除现有的Git文件，删除项目目录中的.git文件夹\n<code>rm -rf .git</code></div>\n<div>2、初始化新的Git仓库\n<code>git init</code>\n​\n3、添加文件到新仓库\n<code>git add .</code>\n​\n4、提交第一次更改\n<code>git commit -m \"初始化项目\"</code>\n​\n5、连接到GitHub远程仓库\n◦ 首先在GitHub上创建一个新的空仓库（不要初始化README、.gitignore或许可证）</div>\n<div>6、然后连接本地仓库到远程仓库\n<code>git remote add origin https://github.com/你的用户名/你的仓库名.git</code>\n​\n6.\n推送到GitHub\n<code>git push -u origin main</code></div>",
+  "publishDate": "2025-04-23 17:51",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:27:56.401Z"
+}

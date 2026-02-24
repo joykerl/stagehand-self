@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/a27wb78hmm",
+  "title": "为什么有 Bing 比谷歌好做的错觉？",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/a27wb78hmm_avatar.jpg",
+  "tags": [
+    "On-Page SEO",
+    "SEO",
+    "Bing"
+  ],
+  "content": "<div>有些朋友的网站在谷歌拿不到排名，在 Bing 反而拿到了排名。</div>\n<div>哥飞的猜测如下：</div>\n<ol>\n<li>\n<div>谷歌的爬虫很强大，各种各样的网站都能够爬到，所以每一个关键词的搜索结果列表都是充分竞争的；</div>\n</li>\n<li>\n<div>强大的爬虫系统很花钱，Bing 为了省钱，爬虫并没有那么强大，于是就比较依赖站长提交 Sitemap 来让 Bing 知道网站有多少网页；</div>\n</li>\n<li>\n<div>对于每一个网页的理解上，Bing 也没有谷歌的那么强大，谷歌能够根据语义分析来判断网页内容，而 Bing 更依赖网页的 Title、Description、Structured Data、Social 等等各种细节来判断网页是否合规；</div>\n</li>\n<li>\n<div>也就是说 Bing 对于网页的 On Page SEO 要求更高，于是有一些没有做好网页内优化细节的网页就不会参与评选，于是整体网页竞争程度不如谷歌；</div>\n</li>\n<li>\n<div>所以给我们的体感就是 Bing 更容易做 SEO（前提是做好网页 On Page SEO），但有时候我感觉 Bing 挺喜怒无常的；</div>\n</li>\n<li>\n<div>Bing 的算法相对来说更\"传统\"一些，更看重那些经典的 SEO 信号，比如关键词密度、H 标签层级、内链结构这些，而谷歌现在更多是在看用户行为数据、内容质量、E-A-T 这些更复杂的信号。</div>\n</li>\n</ol>\n<div>所以最终的结果是导致部分朋友的在页面细节上做得比较好的网站，相比谷歌，在 Bing 更容易拿到排名。</div>\n<div>不过，我的一个新网站，刚上线时被 Bing 收录了，结果一个多月后，居然 K 站了，我都没干啥坏事。</div>\n<div>群友蓝星空写过一个被 Bing K 站后如何自救的经验分享帖子，大家可以看看：\n<a href=\"https://new.web.cafe/topic/kdalklfk7v\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/topic/kdalklfk7v</a></div>",
+  "publishDate": "2025-09-08 21:27",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:21:46.133Z"
+}

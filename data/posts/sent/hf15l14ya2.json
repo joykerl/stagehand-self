@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/hf15l14ya2",
+  "title": "2.5 SiteSucker: 网站下载",
+  "author": "涛涛(非作者,只搬运)",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hf15l14ya2_avatar.jpg",
+  "tags": [
+    "AI 编程课"
+  ],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">SiteSucker</h1>\n<div>官方网站：<a href=\"https://ricks-apps.com/osx/sitesucker/\" target=\"_blank\" rel=\"noopener noreferrer\">https://ricks-apps.com/osx/sitesucker/</a></div>\n<div><strong>SiteSucker 是一个专业的网站下载工具</strong>，它不仅能下载网站的 HTML 源文件，还能完整保存网站的整体架构、文本、程序文件、图片、视频、音频等所有数据到本地。使用非常简单，只需输入网站 URL 并点击开始即可。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">核心功能</h2>\n<div>SiteSucker 提供了强大的网站下载功能：</div>\n<ul>\n<li><strong>完整下载</strong>：保存网站的所有页面和资源，包括 HTML 文档、图片、背景、动画等</li>\n<li><strong>结构保持</strong>：完整复制网站的目录结构和链接关系</li>\n<li><strong>自动跟踪</strong>：智能跟踪和下载相关链接</li>\n<li><strong>过滤规则</strong>：自定义下载内容的范围和类型</li>\n<li><strong>断点续传</strong>：支持中断后继续下载</li>\n<li><strong>离线浏览</strong>：下载后可完整离线访问</li>\n<li><strong>进度监控</strong>：实时查看下载文件数量、错误数量等状态</li>\n<li><strong>历史记录</strong>：查看最近下载的网站列表</li>\n<li><strong>队列管理</strong>：支持显示/隐藏下载队列</li>\n</ul>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hf15l14ya2_img1.webp\" alt=\"sitesucker\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">使用特点</h2>\n<ul>\n<li><strong>简洁界面</strong>：直观的操作界面，可轻松启动、暂停或停止下载</li>\n<li><strong>日志查看</strong>：支持检查下载日志，方便排查问题</li>\n<li><strong>文件管理</strong>：可打开和管理下载的文件和文件夹</li>\n<li><strong>灵活配置</strong>：可选择是否对下载文件进行本地化处理</li>\n<li><strong>选择性下载</strong>：支持跳过不需要的文件</li>\n</ul>\n<div>SiteSucker 让网站内容的本地化变得简单高效，是网站备份和学习的理想工具。</div>",
+  "publishDate": "2025-06-26 11:24",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hf15l14ya2_img1.webp"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:08:08.897Z"
+}

@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/v536db9tu5",
+  "title": "2025年1月28日后，建议使用 RDAP 协议查询域名注册信息",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v536db9tu5_avatar.jpg",
+  "tags": [
+    "RDAP",
+    "Whois",
+    "域名"
+  ],
+  "content": "<div>2024年12月，哥飞给大家科普了一下怎么查询域名是否被注册了，如果注册了，注册时间和过期时间怎么处理。当时主要提的是基于 Whois 服务器来查询 Whois 信息。</div>\n<div><a href=\"https://new.web.cafe/tutorial/detail/ho54rc4o8f\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/tutorial/detail/ho54rc4o8f</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v536db9tu5_img1.png\" alt=\"dea54bf68837163597582d8277a28017.png\" loading=\"lazy\"></div>\n<div>后来2025年1月27日，ICANN发了一条公告，说从1月28日开始，RDAP将成为提供通用顶级域名 (gTLD) 注册信息的权威来源，以取代已停用的 WHOIS 服务。\n<a href=\"https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en</a></div>\n<div>也就是说，后面如果大家要查询域名注册信息，推荐换成 RDAP 协议来查了。</div>\n<div>@Airyland 之前给了 demo 了</div>\n<div>RDAP demo: <a href=\"https://client.rdap.org/\" target=\"_blank\" rel=\"noopener noreferrer\">https://client.rdap.org/</a>\nRDAP server list: <a href=\"https://data.iana.org/rdap/dns.json\" target=\"_blank\" rel=\"noopener noreferrer\">https://data.iana.org/rdap/dns.json</a></div>\n<div>一般查询格式，是在 server URL 后添加 /domain/{domain}</div>",
+  "publishDate": "2025-03-17 20:11",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/v536db9tu5_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:36:37.605Z"
+}

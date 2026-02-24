@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/s8cqxjwudt",
+  "title": "不用开发，如何只用一个域名就可以一键部署上线一个AI产品",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/s8cqxjwudt_avatar.jpg",
+  "tags": [
+    "哥飞公众号归档"
+  ],
+  "content": "<div>大家好，我是哥飞。</div>\n<div>本来今天要更新养网站防老系列的第7步部署上线的，但是周末家里有事耽搁了，所以在今天最后半小时里换个话题分享下。</div>\n<div>之前哥飞给大家在《<a href=\"https://mp.weixin.qq.com/s/N0Puxv0X2D6eC5q_Ps8uLQ\" target=\"_blank\" rel=\"noopener noreferrer\">不用开发，如何 10 分钟上线一个 AI 产品</a>》说过，可以用 Vercel 模板中心的代码，一键部署，只要有一个域名就可以上线一个AI产品。</div>\n<div>后来还在《<a href=\"https://mp.weixin.qq.com/s/9EBxUXdE--fRykaz7vCB3w\" target=\"_blank\" rel=\"noopener noreferrer\">不用开发如何上线AI网站？</a>》介绍过，在 codecanyon 平台上花几十美元就可以买一套源代码，也能上线一个AI产品。</div>\n<div>今天半小时内要写篇文章出来，于是就给大家分享下 Vervel 模板中心的一些新模板。</div>\n<div>以下介绍的模板，都可以在上面提到的文章里找到部署步骤，所以今天只介绍模板，不重复部署步骤了。</div>\n<div><strong>一、AI虚拟面试模拟器</strong></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/s8cqxjwudt_img1.png\" alt=\"50f363af414b8fa6e1878df06a58f386.png\" loading=\"lazy\"></div>\n<div>模板名称：Liftoff</div>\n<div>模板链接：<a href=\"https://vercel.com/templates/next.js/liftoff\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/templates/next.js/liftoff</a></div>\n<div>模板介绍：基于OpenAI 的 GPT 接口和 OpenAI 开源的&nbsp;Whisper 模型，实现AI虚拟面试。</div>\n<div>哥飞点评：这个改改是不是就可以当作AI智能客服，帮你用语音基于内置的知识库回答问题。再改改还可以用于AI女友，或者AI陪伴。用途很多，就看你怎么用了。</div>\n<div><strong>二、AI Emoji 生成器</strong></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/s8cqxjwudt_img2.png\" alt=\"ece3aa2d46e089875c9be4a9460e2e7a.png\" loading=\"lazy\"></div>\n<div>模板名称：AI EmojiGenerator</div>\n<div>模板链接：<a href=\"https://vercel.com/templates/next.js/ai-emoji-generator\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/templates/next.js/ai-emoji-generator</a></div>\n<div>模板介绍：基于&nbsp;Relicate 内的模型实现“文生Emoji”功能</div>\n<div>哥飞点评：这个模板改改就能调用&nbsp;Relicate 内的任意一个文生图模型，再改改还能调用任意一个&nbsp;Relicate 内模型。</div>\n<div><strong>三、AI二维码生成器</strong></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/s8cqxjwudt_img3.png\" alt=\"b4c5d42b8d6c945cf1b8e1598254b4d8.png\" loading=\"lazy\"></div>\n<div>模板名称：qrGPT</div>\n<div>模板链接：<a href=\"https://vercel.com/templates/next.js/qrGPT\" target=\"_blank\" rel=\"noopener noreferrer\">https://vercel.com/templates/next.js/qrGPT</a></div>\n<div>模板介绍：这个也是基于&nbsp;Relicate 上的一个模型实现AI生成二维码功能。</div>\n<div>哥飞点评：这个模板和上一个模板，都可以认为是&nbsp;Relicate 模型调用客户端，也就是说&nbsp;Relicate 上的每一个模型是否都可以做一个客户端呢？</div>\n<div>好了，今天的文章就到这里了。</div>",
+  "publishDate": "2025-01-16 18:55",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/s8cqxjwudt_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/s8cqxjwudt_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/s8cqxjwudt_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:48:58.269Z"
+}

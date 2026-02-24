@@ -1,0 +1,22 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/o919bde3uv",
+  "title": "【2025.2.4哥飞小课堂】新词建站的 “流量奇迹” 与 “血泪教训”—— 从日活 2600 到快速消亡的核心启示",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o919bde3uv_avatar.jpg",
+  "tags": [
+    "谷歌分析",
+    "新词新站",
+    "经验",
+    "建站技术",
+    "哥飞小课堂"
+  ],
+  "content": "<div>想要知道是什么操作吗？\n新年过后第一次#哥飞小课堂 一会儿就开课，来先拍拍我，看看多少人在线。</div>\n<div>春节过完了，大家陆续都开始开工了。</div>\n<div>如果大家手里有一些有流量的网站就会发现，即使春节放假，也不耽误大家赚钱，属于是人歇站不歇，流量天天来，美元日日有。</div>\n<div>所以出海赚美元，这绝对是我们过去一两年做出的最正确的决定。</div>\n<div>“做网站赚美元”这六个字其实已经说明白了，要做什么事情。\n只有先去做网站，才有可能赚到美元。\n而且只做一个网站肯定是不行的，需要去多做他几个网站，多多练习，才有可能越来越熟练，上站越来越快，拿流量越来越多，赚钱越来越多。</div>\n<div>我们既可以去挖掘一些长期需求关键词，找到那些KD比较低的，我们还可以去竞争的关键词，做好长期战斗准备，慢慢搞流量。\n也可以去找到新词，快速上线网站，满足全新的用户需求，来快速的获取到流量。</div>\n<div>前几天，哥飞给大家分享了群里一些拿到成果的，做得不错的朋友们的采访视频。\n虽然每一位的采访都只有短短几分钟，但其实已经透露出很多信息了。\n其中一条，是很多朋友都提到了的，新手做新词，可能更快的拿到正反馈，多做一些新词新站，就可以更快速的积累经验，之后就可以去尝试KD更高的关键词了。</div>\n<div>有时候，哥飞看到了新词，也会手痒，去做它几个网站，保持手感。\n年29那天早上6点钟，哥飞醒来之后刷手机，就发现了一个新词。\n这个新词其实是0点出现的，哥飞查了一下，相关域名最早注册于1点半左右，之后两点多又有人注册了一个域名。\n哥飞在六点多时，注册了2个域名。也是一开始就想着，同一个关键词，上两个网站，做对照实验。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o919bde3uv_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>之后洗漱吃早餐，配置域名，建立Github仓库，收集关键词相关信息，让Claude写文案，写HTML代码，调整样式，增加更多文案，调整TDH，直到10点半左右，才上线了第一个网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o919bde3uv_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>到12点，流量开始增多了，每小时的访问量，都在增长。\n当天就有2600个UV进来。\n这就是新词的魅力，上线就开始有访问量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o919bde3uv_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>第二天，每小时的访问量继续攀升，最高达到了一小时880个访问。</div>\n<div>从曲线可以看到，后面流量下降了。\n原因就是我做了那个骚操作，让排名下降了，曝光减少了，点击也就少了。</div>\n<div>大约两点半左右，我提交了一个新版本。\n1、我用已经通过了Adsense审核的C网站，开了一个子域名 A.C.com ，解析绑定到了 A网站的 Vercel 后台；\n2、所以此时 A.C.com 打开，其实内容跟 A.com 是一模一样的，也就是我自己复制了自己的网站；\n3、尽管我把 A.C.com 的 Canonical 也设置成了 A域名，但谷歌依然收录了 A.C.com 这个网站；\n4、在网站里增加了 /app/ 目录，在这里放置了 iframe 页面，假设被嵌入的 iframe 域名是 I.com ，那么最初是 A.com 直接嵌入了 I.com ，现在是 A.com 嵌入了 A.C.com/app/ ，然后在 /app/ 里嵌入了 I.com 。\n这么曲折的目的是，让打开了A.com 网站的用户，可以看到 A.C.com 的广告。\n5、修改了A.com 网站的导航栏和CTA按钮的链接，点击这些链接，都会打开 A.C.com ，目的也是让用户看到广告，从而进行流量变现。</div>\n<div>提交完代码，我就带娃出去玩了，知道晚上才回来。\n然后就发现，天塌了，流量没了。\n仔细去找原因，发现就是自己复制自己导致的问题。</div>\n<div>所以教训就是：\n1、网站才刚上线，排名还不稳定，先别想着搞钱，先让网站成长起来再说；\n2、即使要搞钱，也要直接拿域名去申请Adsense，或者接入支付，别像我一样骚操作，自己复制自己。</div>\n<div>后来，我试图增加更多的外链，但是都没用，排名已经丢失了，已经被别的网站抢走了，你想再拿回来，就很难了。\n不过，好在，我在年29那天，基于这个关键词上线了第二个网站B，后来加上外链之后，因为A网站的排名丢失，B网站的排名上来了，拿到了另一个更小的关键词的排名。</div>\n<div>以上，就是一个每天10K访问网站的消亡史，太快了，流量来得也快，去得也快。\n请大家吸取我的教训，别在网站还小时，就想杀鸡取卵。</div>\n<div>好了，我要带娃去看哪吒2了，大家先消化一下今天的小课堂，我们晚上见。</div>",
+  "publishDate": "2025-10-11 16:48",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o919bde3uv_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o919bde3uv_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o919bde3uv_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:08:35.253Z"
+}

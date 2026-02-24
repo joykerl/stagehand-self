@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/kyaenjj3vh",
+  "title": "更准确的预估流量（CTR），帮助你判断要不要做某个关键词",
+  "author": "夏北游",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kyaenjj3vh_avatar.jpg",
+  "tags": [
+    "工具分享",
+    "流量预估"
+  ],
+  "content": "<div>正常来说前三名的大致流量比例是 <strong>45%、12%、8%</strong></div>\n<div>但这个数据是搜索引擎返回结果都是<strong>普通的结构化数据</strong>的情况，也就是搜索结构都只有网站名称、标题、描述、面包屑的情况下的流量份额，如下图示例：</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kyaenjj3vh_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>但实际上的 CTR 会被不同的搜索结果影响到，例如精选片段、直接答案、图片、AI 总结、Sitelink、富文本等等，如下图就是有 sitelink 的示例：</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kyaenjj3vh_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>这时候再去用这个数据判断就不对了，所以就引入今天这个工具</div>\n<div><a href=\"https://www.advancedwebranking.com/free-seo-tools/google-organic-ctr\" target=\"_blank\" rel=\"noopener noreferrer\">Google Organic SERP CTR Curve</a></div>\n<div>这个工具可以用来查看当搜索结果中有不同的组成结构下，CTR 的分布情况，例如我选中了 Organic 和 Organic + Sitelink ，2025年美国桌面端的数据进行对比：</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kyaenjj3vh_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>可以看到在 Organic 的情况下，CTR 第一名流量占比 45% 左右，而在有 sitelink 的情况下，CTR 第一名占比接近 60%。</div>\n<div>这也是为什么说某个关键词有 sitelink 就很难了，从上图就可以看出来，没有 sitelink 你进前 5 都还有一定流量，而有了 sitelink，基本上就只有前 2 有流量了。</div>\n<div>所以当你在判断一个关键词要不要做的时候，可以先搜一下，然后看看结果里面有那些组成，再用这个工具看一下预估流量，</div>",
+  "publishDate": "2025-02-19 02:11",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kyaenjj3vh_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kyaenjj3vh_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/kyaenjj3vh_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:42:10.334Z"
+}

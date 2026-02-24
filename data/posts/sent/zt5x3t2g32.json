@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/zt5x3t2g32",
+  "title": "【2025.6.23案例拆解】 https://list.ly/",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div><a href=\"https://list.ly/\" target=\"_blank\" rel=\"noopener noreferrer\">https://list.ly/</a> 这个网站DR78，建立一个 list ，放自己的网站或者别人的网站，可以得到 nofollow 服务端渲染外链。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>分享一个小技巧，在Similarweb看关键词时，如果最近28天（或最近1个月）的搜索量，比平均体量更大，就说名这个词的热度是呈上升趋势的。 如果相差很大，就像 grow a garden calculator 一样，最近28天是646K，而平均体量才6K，相差百倍，就说明是新词。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>这个技巧，不是给肉眼看的，是给程序代码判断用的。</div>\n<div>有很多方法</div>\n<div>我刚研究了一下，这里是对平台的要求，要求平台报送平台内经营者的收入信息，用于缴税。 如你开网约车，滴滴就要上报你的收入信息。 如你在京东开店，京东要上报你的收入信息。 所以暂时跟我们出海赚美元关系不大。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>让 Cursor 写完代码，去调用这个 MCP 看效果，用于指导 Cursor 继续写代码 <a href=\"https://github.com/microsoft/playwright-mcp#user-profile\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/microsoft/playwright-mcp#user-profile</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>典型的小游戏站布局 <a href=\"https://wordle2.io/\" target=\"_blank\" rel=\"noopener noreferrer\">https://wordle2.io/</a></div>\n<div>解决站点地图无法被抓取的另一个办法，不要放在根目录下，大家可以试试。</div>",
+  "publishDate": "2025-10-20 12:46",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zt5x3t2g32_img5.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T17:26:12.768Z"
+}

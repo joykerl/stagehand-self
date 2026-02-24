@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/o5xcgvmqpk",
+  "title": "网站要注意控制好跳出率以及提高访问时长，增加更多的页面",
+  "author": "帆",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o5xcgvmqpk_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>做新词站点（小游戏站）要注意在页面醒目的地方，放置一些：<strong>站内子页面的入口（例如其他同类小游戏）</strong>，这样能有效的降低跳出率（Bounce Rate）并且提高用户的访问时长（Visit Duration）</div>\n<div><strong>下面贴一下自己站的数据</strong>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o5xcgvmqpk_img1.png\" alt=\"image.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o5xcgvmqpk_img2.png\" alt=\"image.png\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o5xcgvmqpk_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>在 11/05 日之前，由于只有主页一个单页 + 用户不会去访问的 Privacy，网站的跳出率和访问时长都很低，导致流量也很低（日UV 100-200）。</div>\n<div>首页增加同类游戏入口以后，跳出率降低、时长提高，关键词排名和站点的流量也是慢慢增长上去了（效果几天就出来了，目前日 UV 2000-3000）。</div>",
+  "publishDate": "2024-11-19 22:44",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o5xcgvmqpk_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o5xcgvmqpk_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/o5xcgvmqpk_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:28:18.068Z"
+}

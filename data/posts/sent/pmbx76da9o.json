@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/pmbx76da9o",
+  "title": "如何不让你网页里的大量重复按钮文案干扰你页面关键词密度？",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pmbx76da9o_avatar.jpg",
+  "tags": [
+    "建站技术",
+    "On-Page SEO",
+    "HTML"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pmbx76da9o_img1.png\" alt=\"3e94c089ef3aca89d0fa1e5a9c6b35ba.png\" loading=\"lazy\"></div>\n<div>来学一个我今天研究出来的小技巧，如何不让你的网页里的大量重复按钮的文案干扰你的页面关键词密度？\n答案是用 CSS Content ，把按钮文案写在 CSS 代码里。\n同样的原理，页面上其它你不想出现在正文里影响关键词密度的文案，都可以这样处理。</div>\n<div>假设你的页面上有40个按钮，那么单词 Play 就会出现40次，这会严重干扰页面的核心关键词密度。\n使用哥飞上面教的方法，就可以解决这个问题。</div>\n<div>下面这个网站就用了这个方法\n<a href=\"https://emojidb.org/i-love-u-emojis\" target=\"_blank\" rel=\"noopener noreferrer\">https://emojidb.org/i-love-u-emojis</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pmbx76da9o_img2.png\" alt=\"8874d3f9b262735c8f945775e00b2139.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-03-11 18:37",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pmbx76da9o_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/pmbx76da9o_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:37:35.828Z"
+}

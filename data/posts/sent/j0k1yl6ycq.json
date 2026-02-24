@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/j0k1yl6ycq",
+  "title": "2.0 🛠️ 软件工具教程",
+  "author": "涛涛(非作者,只搬运)",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/j0k1yl6ycq_avatar.jpg",
+  "tags": [
+    "AI 编程课"
+  ],
+  "content": "<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">概览</h1>\n<div>在开发过程中，我们需要使用各种工具来提高效率和质量。以下是推荐的核心软件工具：</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">开发工具</h2>\n<ul>\n<li><strong>GitHub Desktop</strong> - 图形化的 Git 客户端，让版本控制更简单直观</li>\n<li><strong>Raycast</strong> - 强大的效率启动器，可以快速访问应用和执行命令</li>\n</ul>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">设计工具</h2>\n<ul>\n<li><strong>Figma</strong> - 专业的 UI 设计工具，支持协作和原型设计</li>\n</ul>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">AI 辅助工具</h2>\n<ul>\n<li><strong>Glarity</strong> - 智能 AI 助手，提供编程和其他任务的帮助</li>\n<li><strong>Bob</strong> - 便捷的翻译和 OCR 工具，支持多种语言</li>\n</ul>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">网站工具</h2>\n<ul>\n<li><strong>SiteSucker</strong> - 网站下载工具，可以保存完整网站内容</li>\n<li><strong>Easy Scraper</strong> - 简单易用的网页数据采集工具</li>\n<li><strong>Lighthouse</strong> - 网站性能分析工具，提供优化建议</li>\n</ul>\n<div>这些工具各自专注于不同的领域，配合使用可以显著提升开发效率。点击各个工具的详细页面可以了解具体的安装和使用方法。</div>",
+  "publishDate": "2025-06-26 10:28",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:09:36.404Z"
+}

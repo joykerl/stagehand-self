@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/r5jj2x38zr",
+  "title": "新人第一次实操搜词",
+  "author": "Clöud",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r5jj2x38zr_avatar.jpg",
+  "tags": [],
+  "content": "<div>20250928日，晚上娃睡了，我开始研究搜词相关的内容，无意间发现一个词<strong>Funny Avatar</strong>。下面是我的实操流程</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">1. 一个词ahrefs查询关键词优化难度是0</h2>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r5jj2x38zr_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">2. semrush上搜索量只有3.9k，关键词难度是easy</h2>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r5jj2x38zr_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>我片面的理解以为这个词难度比较低，感觉是可以做的，然后就去请教哥飞想确认下能不能做。</div>\n<div>semrush之前访问不是用的美国IP导致要注册还需要手机号验证才能用，这次使用美国IP直接就使用了不过有5次限制。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">3. 哥飞让我去google搜索这个关键有多少个网站</h2>\n<div>使用intitle:+关键字来搜索总共的网页数量</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r5jj2x38zr_img3.png\" alt=\"image.png\" loading=\"lazy\">\n之后哥飞反馈这个网页数量是不能做的，太多了。\n然后发给我一个网站 <a href=\"https://seo.box/zh/keyword/\" target=\"_blank\" rel=\"noopener noreferrer\">https://seo.box/zh/keyword/</a>\n上面有公式能算出建站难度</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r5jj2x38zr_img4.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>总结：第一找词流程就这样结束了，也是第一次实操，一直在看教程，感觉还是摸不到头脑。有过于一次经验之后感觉就多了</div>",
+  "publishDate": "2025-09-29 17:33",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r5jj2x38zr_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r5jj2x38zr_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r5jj2x38zr_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/r5jj2x38zr_img4.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:17:51.607Z"
+}

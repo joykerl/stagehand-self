@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/3dco1bdgr0",
+  "title": "使用 GitHub Copilot Web端在线快速调研技术方案",
+  "author": "lyd",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3dco1bdgr0_avatar.jpg",
+  "tags": [
+    "工具分享"
+  ],
+  "content": "<blockquote>\n<div>使用工具：GitHub Copilot Web 端<br>\n<strong>入口 URL</strong>：<a href=\"https://github.com/copilot/\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/copilot/</a>\n示例会话：<a href=\"https://github.com/copilot/share/c0351118-0300-8ca1-9041-344844dd2015\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/copilot/share/c0351118-0300-8ca1-9041-344844dd2015</a></div>\n</blockquote>\n<div>开发项目时，经常需要调研某个功能的具体实现，尤其基于某个开源仓库，我们想快速了解某个功能是如何实现的，以前我都是 clone 一个到本地，然后在 cursor 里面通过对话去了解，但是这其实还有点麻烦，因为你需要把项目clone到本地，如果要效果好的话，还需要等cursor把项目代码索引完毕，才能更好的完成。</div>\n<div>最近 GitHub Copilot 接入了claude 模型，并且也有了一个在线使用的版本，我测试了下，发现可以很方便的拿来做上述的技术调研。</div>\n<div><strong>示例：</strong></div>\n<blockquote>\n<div><a href=\"https://github.com/doocs/md\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/doocs/md</a>  帮我研究一下这个项目中的复制到公众号功能是如何实现的？</div>\n</blockquote>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3dco1bdgr0_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>从上述结果我们可以看到 GitHub Copilot 是真的去仓库里面搜索了相关代码，然后准确的给出了实现方案，在这种任务上如果使用 DeepSearch 就发会现效果并不太好，因为常规的网络搜索通过只会抓取项目的 README，它返回的方案里面很多都是推测的，这个准确度比上面使用 GitHub Copilot 的方案就要差很多了。而且现在免费用户也有不少的额度。</div>\n<div><strong>Grok  DeepSearch 示例：</strong></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3dco1bdgr0_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>对比一下，我们就发现用 GitHub Copilot 做技术调研，有以下优势：</div>\n<ul>\n<li><strong>无需本地 clone 代码</strong>，减少环境配置的麻烦。</li>\n<li><strong>即时分析代码</strong>，可以更快地获取所需信息。</li>\n<li><strong>Claude 模型增强</strong>，提供更智能的技术支持。</li>\n</ul>",
+  "publishDate": "2025-03-14 12:08",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3dco1bdgr0_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/3dco1bdgr0_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:36:57.209Z"
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/5pmhaqhvlc",
+  "title": "【2025.9.28案例拆解】 V2EX.com Toolify.ai Pollo.ai",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>给大家看一个新站，几乎所有想要被收录的页面都收录了。 剩下9个显示没收录的，都是正常情况。 最重要的是，没有“已抓取未索引”和“已发现未抓取”。 这个站的页面，就是一个一个上的，没有批量生成。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>不知道大家发现没有，像 V2EX.com Toolify.ai Pollo.ai 这些网站，如果你用 Site 命令查找最近 1 小时收录的网页，都有几十个上百个。 这就意味着爬虫一直在爬，一直在收录他们的新页面。 那么，为什么爬虫会一直来呢？</div>\n<div>回答得很全面了，那就直接拿你这个图来回答我的问题了\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>不过，有一个细节，AI 的回答里没有提到。 这三个网站，都通过合理的 UI 布局，让很多内页很合理的出现在了首页，也就是首页不断滚动更新最新的内页。 V2EX是论坛，好理解，每一个最新的帖子和有新回复的帖子都会被顶到首页。 而 Toolify 和 Pollo 则是通过 UI 设计来实现这个目的的。 这样的好处是，首页一直在变化，爬虫来爬每次都能爬到新东西，而且是新的好东西，于是就慢慢把爬虫养勤快了。</div>\n<div>2023 年 12 月，我们首次线下分享会，Toolify 创始人杉木哥的分享，现在看，依然还很有含金量。 <a href=\"https://new.web.cafe/tutorial/detail/19u60lzeh6\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/tutorial/detail/19u60lzeh6</a> 里边他提到的好多思路方法，我知道有些吸收得好的群友，已经做出来了多个月访问量过 1M 的网站了。</div>\n<div>刚才有群友问，域名要不要带横杆，一般来说，能注册到不带横杆的，就去注册，实在没得选择了，带横杆也可以的。 不过今天给大家看个例子，有个网站叫 Experts Exchange ，之前的域名是 ExpertsExchange.com 但是容易被误读成 ExpertSexChange.com 于是他们换域名了，改成了带横杆的 Experts-Exchange.com 这样就可以更清晰的区分了。 为了防止大家写错域名，他们还注册了 Expert-Exchange.com 并设置了跳转到 Experts-Exchange.com 。</div>\n<div>modrinth.com 月访问量 1640 万，56.6% 流量来自于自然搜索。 网站提供Minecraft 游戏的mod、插件等等各种游戏服务工具下载。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-10-14 15:51",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/5pmhaqhvlc_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T17:56:55.357Z"
+}

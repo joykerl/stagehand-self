@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/hq96hlfs02",
+  "title": "图解内链（内部链接）、外链（外部链接）、反链（反向链接）、正向链接",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hq96hlfs02_avatar.jpg",
+  "tags": [
+    "外链"
+  ],
+  "content": "<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hq96hlfs02_img1.png\" alt=\"760c49a0-aa42-4824-9252-2f2c376035d4.png\" loading=\"lazy\"></div>\n<div>总是有朋友搞不清楚内链、外链、反链之间的关系，我写了一段说明，让 Claude帮我画了个图，然后自己再微调了一下画面。</div>\n<div>说明文字：\nA 网站有一个指向到 B 网站的链接1。\nA 网站还有一个指向到 A 网站内页的链接 2。\n从 A 网站角度来说：\n链接 1 是和链接 2 都是正向链接。\n链接 1 是外部链接（简称外链），链接 2 是内部链接（简称内链）。\n从 B 网站角度来说：\n链接 1 是反向链接（简称反链），链接 2 跟 B 网站没关系。\n从上面描述你就会看到，对于同一个链接 1 ，从不同的角度去看，名字是不一样的，有时候叫外链，有时候叫反链，但其实都是同一个链接。\n这就是为什么有时候我们会把反链和外链混着叫的原因。</div>",
+  "publishDate": "2025-08-15 21:21",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/hq96hlfs02_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:30:05.176Z"
+}

@@ -1,0 +1,12 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/gj5bbp9zir",
+  "title": "分享心得和一些工具源码(找词/游戏模板/外链/订阅）",
+  "author": "魏文星",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/gj5bbp9zir_avatar.jpg",
+  "tags": [],
+  "content": "<div>搞了快两个月了，上了六七个站，写了一堆工具。  一顿操作猛如虎，一看流量五十五 😂</div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">总结一下，希望和大家交朋友</h3>\n<h4>1. 找词</h4>\n<ul>\n<li><strong>手动</strong>：用google trends词根法，semrush/ahrefs/similar挖词，再用semrush筛，顺便扒外链里别人留的站</li>\n<li><strong>自动</strong>：游戏站sitemap对比工具👉 <a href=\"https://github.com/WeiWenxing/sitemap-diff\" target=\"_blank\" rel=\"noopener noreferrer\">监控Sitemap</a>  ：\n<a href=\"https://github.com/WeiWenxing/sitemap-diff\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/WeiWenxing/sitemap-diff</a></li>\n</ul>\n<h4>2. 开发网站</h4>\n<div>写了几个站后搞出个稳定点的游戏站模板，跟大佬们比没啥用，不过如果你没有模板，又不想花钱找shipany（刚刚我中了这个奖，happy), 可以考虑参考一下👉 <a href=\"https://github.com/WeiWenxing/crazycattle3d\" target=\"_blank\" rel=\"noopener noreferrer\">Crazy Cattle 3d</a>  ：\n<a href=\"https://github.com/WeiWenxing/crazycattle3d\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/WeiWenxing/crazycattle3d</a></div>\n<h4>3. 外链建设</h4>\n<div>用semrush扒竞品外链，搞了个自动评论脚本批量发，结果成功率低得一批 😤  ，就不放出来丢人了。</div>\n<h4>其他瞎折腾的工具</h4>\n<ul>\n<li>搭了个免费代理池（开源的，卵用没有）</li>\n<li>搭了个RSSHUB服务（开源的，卵用没有）</li>\n<li>之前哥飞说搞newsletter，想做订阅bot，结果搞成了rsshub订阅机器人👉 <a href=\"https://github.com/WeiWenxing/any-rss\" target=\"_blank\" rel=\"noopener noreferrer\">订阅机器人</a>:\n<a href=\"https://github.com/WeiWenxing/any-rss\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/WeiWenxing/any-rss</a>\n（支持rsshub全协议， 个人喜好又支持了抖音）\n其实还写了比如去水印的bot之类的无用工具</li>\n</ul>\n<div>希望和大家多交流， 微信：weiwenxing</div>",
+  "publishDate": "2025-05-29 20:08",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:19:12.685Z"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/2vr8s7om7m",
+  "title": "claude project使用的一个小技巧",
+  "author": "🍃Momozolo～菲那🐟",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2vr8s7om7m_avatar.jpg",
+  "tags": [
+    "经验"
+  ],
+  "content": "<div>做一个项目，可以单独建一个project，然后把项目资料加入content，\n如果是已有代码，可以通过这个工具，<a href=\"https://repo2txt.simplebasedomain.com/local.html%EF%BC%9A\" target=\"_blank\" rel=\"noopener noreferrer\">https://repo2txt.simplebasedomain.com/local.html：</a>\n上传仓库或者本地代码总结到知识库，\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2vr8s7om7m_img1.png\" alt=\"image.png\" loading=\"lazy\">\n选择add text\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2vr8s7om7m_img2.png\" alt=\"image.png\" loading=\"lazy\">\n把整理的代码贴进去。\n就可以根据已有代码进行提问。\n每次聊天框提示接近满值时，claude会提示快达到limit了，就让claude总结对话，再把总结加入知识库，开一个项目下的新聊天。\n就可以根据一个项目一直问问题了。</div>",
+  "publishDate": "2024-11-28 19:56",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2vr8s7om7m_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2vr8s7om7m_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:25:13.431Z"
+}

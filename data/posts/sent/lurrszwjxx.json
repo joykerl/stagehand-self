@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/lurrszwjxx",
+  "title": "开源一个包含多语言的NextJS启动项目",
+  "author": "雪驹",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lurrszwjxx_avatar.jpg",
+  "tags": [
+    "工具分享",
+    "开源推荐"
+  ],
+  "content": "<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">2025-05-27 项目更新 Google Auth 登录和 Supabase数据库连接，并将Google授权信息存储到数据库中</h2>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">一、源码地址</h1>\n<div><a href=\"https://github.com/IDpeace9527/nextjsbase-i18n\" target=\"_blank\" rel=\"noopener noreferrer\">https://github.com/IDpeace9527/nextjsbase-i18n</a></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">二、Demo演示地址</h1>\n<div><a href=\"https://nextjsbase-i18n.vercel.app/\" target=\"_blank\" rel=\"noopener noreferrer\">Demo</a></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">自己部署</h2>\n<div>自己部署到 <a href=\"https://vercel.com\" target=\"_blank\" rel=\"noopener noreferrer\">Vercel</a>上</div>\n<div><a href=\"https://vercel.com/new/clone?repository-url=https://github.com/IDpeace9527/NextJSBase-i18n\" target=\"_blank\" rel=\"noopener noreferrer\"><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lurrszwjxx_img1.bin\" alt=\"Deploy with Vercel\" loading=\"lazy\"></a></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">同步到本地后，修改项目名使用到多个项目的操作步骤笔记：</h2>\n<div><a href=\"https://new.web.cafe/topic/q0fcuy5xyc\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/topic/q0fcuy5xyc</a></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">三、功能包含：</h1>\n<div>1、NextJS项目一键部署到vercel使用\n2、多语言框架（用的是NextJS自带的多语言框架）\n3、多语言框架翻译文件可以分成多个文件，方便管理并且加载性能更好\n3、Google-Analytics 配置ID即可使用\n4、canonical 一键配置即可使用\n5、网站Title一键配置6、开源代码可以一键部署到vercel\n6、Google Auth 登录&lt;br&gt;\n7、Supabase数据库支持&lt;br&gt;</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">四、好处：</h1>\n<div>1、减少NextJS多语言学习成本、框架调研成本，开箱即用\n2、节省安装基础包和一些配置的时间。</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">五、使用方式：</h1>\n<div>1、在 src\\config\\site.ts 中修改好相关配置\n2、在 public 目录下，修改网站图标和 sitemap.xml 文件\n3、添加新的翻译文件。\n&lt;1&gt;在messages里写好对应的翻译文件。\n&lt;2&gt;在src\\i18n\\request.ts文件里添加：\nDemo: (await import(<code>../../messages/${locale}/demo.json</code>)).default,\n添加新的翻译文件.\n&lt;3&gt;在对应页面（一般是page.tsx）加入\nconst t = useTranslations('Home');\n获取翻译对象</div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">六、赞赏或者交个朋友</h1>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lurrszwjxx_img2.jpg\" alt=\"xueju_weixin.jpg\" loading=\"lazy\">\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lurrszwjxx_img3.jpg\" alt=\"xueju_zanshang.jpg\" loading=\"lazy\"></div>\n<h1 style=\"font-size: 1.5rem; line-height: 2rem; margin-top: 1rem;\">七、特别感谢</h1>\n<div>感谢哥飞老师教我Google SEO</div>",
+  "publishDate": "2025-04-23 14:38",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lurrszwjxx_img1.bin",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lurrszwjxx_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lurrszwjxx_img3.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:28:04.545Z"
+}

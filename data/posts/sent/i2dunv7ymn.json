@@ -1,0 +1,24 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/i2dunv7ymn",
+  "title": "基于Similarweb流量数据快速估算任意网站收入方法分享",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_avatar.jpg",
+  "tags": [
+    "数据分析",
+    "哥飞小课堂"
+  ],
+  "content": "<div>以前哥飞给大家分享了通过 Stripe 等支付平台入站流量估算别人产品收入方法，不过这个方法需要用到经验值，经验值没取好，收入估算就不准确。</div>\n<div>今天跟大家分享另一个更简单的方法，只需要基于 Similarweb 上公开可查的总流量数据和付费流量数据，就可以快速估算一个网站的收入。</div>\n<div>先看我8月整理出来的，7月的数据：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>当时Jenni AI在 IndieHackers 上显示被验证的 Stripe 收入是$57万：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>数据来源：<a href=\"https://www.indiehackers.com/product/jenni\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.indiehackers.com/product/jenni</a></div>\n<div>我们基于以下三个假设来估算任意网站收入数据：</div>\n<ul>\n<li>\n<ol>\n<li>假设网站在做出来之后，各项转化率就固定下来了，流量价值也就差不多是恒定的；</li>\n</ol>\n</li>\n<li>\n<ol start=\"2\">\n<li>假设做相同业务的网站，潜在客户群体相同，流量价值也相差不大；</li>\n</ol>\n</li>\n<li>\n<ol start=\"3\">\n<li>假设这些网站都在理性投放广告，尤其是长期在投广告的，是能够回本的。</li>\n</ol>\n</li>\n</ul>\n<div>我们先在 Similarweb 查出一些需要使用的数据，整理到下面的表格里，然后就把收入给估算出来了：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>一些数据计算公式，说明如下，这里解释了每一个数据怎么来的：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img4.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>从上面可以看到，我们估算出来的7月流量价值$59.22万，跟已经验证过的收入$57万很接近了。</div>\n<div>现在，我们再去验证一下，Jenni AI 最新的数据，看看是否还能对得上。\n在Similarweb查到，10月访问量是124.3万，乘以流量价值0.47，得到收入是：\n124.3万*$0.47=$58.421万\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img5.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>而IndieHackers上显示的最新收入是$61.9万。\n跟$58.421万有一点点差距，但是差距不大，也就是5%的差距。\n试问，有谁能够估算这么准的。有，哥飞！\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img6.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>不过，也不是每一网站的差距都只有5%，让我们看看 StealthGPT的最新真实收入，$29.8万。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img7.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>而10月访问量是34.98万，我们如果直接乘以之前计算出来的1.31的成本，会算出一个比较高的收入，但实际上之前的图片里大家也看到了，不能用这个数字算，因为这家在追赶，他投广告是溢价的，会花高单价抢量。\n所以我们要去按照0.72单价计算，34.98万*$0.72=$25.18万。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img8.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>这样算出来的收入是$25.18万，相比于真实收入$29.8万，这次差距更大一些，大概误差15%左右。</div>\n<div>所以，不是100%准确。</div>\n<div>最后哥飞再提醒一下大家，以上所有数据估算都来自于Similarweb，本身上面的数据就是预估的，我们再根据预估的数据去估算的收入，不一定代表真实收入。</div>\n<div>如果跟大家自己网站的收入对比，发现跟估算出来的不一致，以你的真实收入为准。</div>\n<div>这个方法的使用场景是，当我们不知道别的网站到底有多少收入时，这个方法可以当作一个参考，大概估算一下对方收入，这样我们心里就更有数了。</div>\n<div>本文作者哥飞，使用的估算方法为哥飞原创，最开始在哥飞社群内分享，后于2024年8月24日在北京@王煜全 线下聚会中分享，后于11月20日公开发布本文。\n本文原文 <a href=\"https://new.web.cafe/tutorial/detail/i2dunv7ymn\" target=\"_blank\" rel=\"noopener noreferrer\">https://new.web.cafe/tutorial/detail/i2dunv7ymn</a> 。</div>",
+  "publishDate": "2024-11-20 15:45",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img6.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/i2dunv7ymn_img8.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:27:46.185Z"
+}

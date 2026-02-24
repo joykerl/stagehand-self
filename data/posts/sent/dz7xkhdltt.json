@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/dz7xkhdltt",
+  "title": "如何快捷找到准确的多语言的游戏名",
+  "author": "高超",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dz7xkhdltt_avatar.jpg",
+  "tags": [],
+  "content": "<div>把这串神秘代码加入到书签栏</div>\n<div>javascript:(function(){     var currentURL = window.location.href;     if(currentURL.indexOf('?%27) &gt; -1) {               window.location.href = currentURL + %27&amp;lr=lang_ja%27;     } else {          window.location.href = currentURL + %27?lr=lang_ja%27;     } })();</div>\n<div>在谷歌搜一个游戏的关键词</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dz7xkhdltt_img1.jpg\" alt=\"66921744010026_.pic.jpg\" loading=\"lazy\"></div>\n<div>点击书签，会比较快捷的跳到这个限定语言搜索的界面</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dz7xkhdltt_img2.jpg\" alt=\"66961744010059_.pic.jpg\" loading=\"lazy\"></div>\n<div>我这个神秘代码是日语的，也可以改成其他语言，修改lang_ja为其他代码就可以，具体代码可以到谷歌的工具中，限定语言后url 中查找到</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dz7xkhdltt_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2025-04-07 15:20",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dz7xkhdltt_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dz7xkhdltt_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/dz7xkhdltt_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:31:59.746Z"
+}

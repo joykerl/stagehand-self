@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/lrbmz3vfqu",
+  "title": "新站申请 Adsense 的小技巧",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_avatar.jpg",
+  "tags": [
+    "Adsense"
+  ],
+  "content": "<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">精简版步骤</h2>\n<div>元标记可以不加，另两个需要添加。\n顺序是先添加 ads.txt ，注意文件名需要小写，再添加js代码。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">详细版步骤</h2>\n<div>在 Adsense 后台添加一个新网站用于提审，有三种验证网站所有权的方式：</div>\n<ol>\n<li>网站里安装 Adsense 广告 js 代码；</li>\n<li>网站根目录下增加一个 ads.txt 文件（注意不是 Ads.txt）；</li>\n<li>网站首页 meta 里增加一行代码。</li>\n</ol>\n<div>哥飞给出的最佳实践是这样的：</div>\n<ol>\n<li>先添加 ads.txt 文件，添加之后，确保浏览里里使用域名/ads.txt 可以打开文件，看到里边的一行文字；</li>\n<li>回到 Adsense 后台，选择 Ads.txt 验证方式，勾选底下的“我已发布 ads.txt 文件”，点击“验证”按钮进行校验；\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img2.png\" alt=\"image.png\" loading=\"lazy\"></li>\n<li>如果你正确放置了 ads.txt 文件，就会显示下面的验证通过提示。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img3.png\" alt=\"image.png\" loading=\"lazy\">\n这时候点击下一步，会出现下面的界面，此时，不要点击“申请审核”按钮。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img4.png\" alt=\"image.png\" loading=\"lazy\"></li>\n<li>点击“验证网站所有权”那行文字右侧的向下箭头，展开下面界面。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img5.png\" alt=\"image.png\" loading=\"lazy\">\n切换到“Adsense代码段”验证方式，获取 js 代码，放置到网站每一个网页 html 的 head 里去。</li>\n<li>之后才是点击“申请审核”按钮，提交申请。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img6.png\" alt=\"image.png\" loading=\"lazy\"></li>\n</ol>",
+  "publishDate": "2024-11-10 13:31",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/lrbmz3vfqu_img6.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:30:27.368Z"
+}

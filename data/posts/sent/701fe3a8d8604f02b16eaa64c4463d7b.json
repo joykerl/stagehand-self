@@ -1,0 +1,16 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/701fe3a8d8604f02b16eaa64c4463d7b",
+  "title": "哥飞常用的 Bookmarklet 书签栏小工具",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/701fe3a8d8604f02b16eaa64c4463d7b_avatar.jpg",
+  "tags": [
+    "工具分享"
+  ],
+  "content": "<div>把下面的链接鼠标左键按住后拖动到你的浏览器书签栏里就可以使用了。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">看反链</h2>\n<div><a href=\"\" target=\"_blank\" rel=\"noopener noreferrer\">看反链</a></div>\n<div>拖动到书签栏后，点击书签栏的“看反链”，就会自动打开 <a href=\"https://ahrefs.com/backlink-checker\" target=\"_blank\" rel=\"noopener noreferrer\">https://ahrefs.com/backlink-checker</a> 并且帮你把当前网页域名填进去，让你可以看到往前网站域名的反链和DR信息。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/701fe3a8d8604f02b16eaa64c4463d7b_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2024-07-26 10:17",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/701fe3a8d8604f02b16eaa64c4463d7b_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:38:00.125Z"
+}

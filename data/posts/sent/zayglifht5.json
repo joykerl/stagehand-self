@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/zayglifht5",
+  "title": "分享一个找套壳网站的方法",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zayglifht5_avatar.jpg",
+  "tags": [
+    "网站数据",
+    "外链",
+    "数据分析",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div>之前分享过通过看<a href=\"https://stripe.com/zh-sg/payments/checkout\" target=\"_blank\" rel=\"noopener noreferrer\"> checkout.stripe.com</a> 的入站流量来分析不同网站的收入情况。\n今天#哥飞小课堂 ，快速分享一个找套壳网站的方法。\n拿 <a href=\"https://huggingface.co/spaces\" target=\"_blank\" rel=\"noopener noreferrer\">hf.space</a> 来举例，在 Similarweb 可以看到所有给 <a href=\"https://huggingface.co/spaces\" target=\"_blank\" rel=\"noopener noreferrer\">hf.space</a> 导入流量的网站。\n这些网站有一部分是直接给 <a href=\"https://huggingface.co/spaces\" target=\"_blank\" rel=\"noopener noreferrer\">hf.space</a>  增加了外链，还有一部分是用 iframe 嵌入了 hf space 。\n我们要做的就是从导入流量网站列表里找出用 iframe 嵌入的网站。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zayglifht5_img1.png\" alt=\"87557f5699d98e0880e8c5e016f71a65_.png\" loading=\"lazy\"></div>\n<div>不仅可以直接查 <a href=\"https://huggingface.co/spaces\" target=\"_blank\" rel=\"noopener noreferrer\">hf.space</a> 的，还可以查具体某一个 space 的，如 <a href=\"https://openai-openai-detector.hf.space/\" target=\"_blank\" rel=\"noopener noreferrer\">openai-openai-detector.hf.space</a> 。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zayglifht5_img2.png\" alt=\"74dfbf4789238a44fd7b5c543ec44239_.png\" loading=\"lazy\"></div>\n<div>举一反三，除了<a href=\"https://huggingface.co/spaces\" target=\"_blank\" rel=\"noopener noreferrer\">hf.space</a> ，还可以查什么呢？\n其实在我们的网站里引用别的网站的图片、视频等静态资源，也算是外链。\n所以，一些热门AI产品的CDN域名，你也可以拿来查一查。\n这个点到为止，大家自己去实践，听懂的掌声。</div>\n<div>今天的哥飞小课堂讲完了。</div>",
+  "publishDate": "2025-01-15 16:13",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zayglifht5_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/zayglifht5_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:01:45.622Z"
+}

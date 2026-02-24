@@ -1,0 +1,25 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/0cacjjq2vk",
+  "title": "年访问量2300多万的日本在线工具网站分析",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_avatar.jpg",
+  "tags": [
+    "经验",
+    "哥飞小课堂归档"
+  ],
+  "content": "<div><a href=\"https://mp.weixin.qq.com/s/WwChJ0C0LG5dar2Nk0RMSg\" target=\"_blank\" rel=\"noopener noreferrer\">https://mp.weixin.qq.com/s/WwChJ0C0LG5dar2Nk0RMSg</a></div>\n<div>写了个开头，剩下的我后面找个时间，在哥飞小课堂讲解。</div>\n<div>这个站长还做了另一个工具网站 <a href=\"https://eon.jp/\" target=\"_blank\" rel=\"noopener noreferrer\">https://eon.jp/</a> ，不过访问量不大。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img1.jpg\" alt=\"a6a40d4eca8dbbc50d6031d975c31bf0_.jpg\" loading=\"lazy\"></div>\n<div>我分享的，都是经过了实际检验有效的</div>\n<div>我每次修改了哪些文案、什么时候被 Google 收录、更新的，哪一天加了哪些外链、外链是什么时候生效的，都会记录下来。\n这样一周之后基本上就能复盘一次，找出最近流量增长或降低的原因了。</div>\n<div>另外，页面内容的质量比数量更重要</div>\n<div>把一个页面的内容多花一些时间好好写一下，比采集或AI自动生成几百几千个页面的效果可能会更好一些。</div>\n<div>是的，这就是今天文章里提到的精品页面思路</div>\n<div>在 Similarweb 可以看到每一个子域名拿到的流量和关键词。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img2.png\" alt=\"a17f036f50604aed5fceec95e55b4a97_.png\" loading=\"lazy\"></div>\n<div>这个网站7月访问量1896万，10月访问量已经到了2600万了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img3.png\" alt=\"4ce2baa9b84bb02a932f743cca2d232b_.png\" loading=\"lazy\"></div>\n<div>在Simialrweb看 Viewer 相关关键词，看到了这些排名靠前的高搜索量关键词。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img4.png\" alt=\"1a2663a85b0987539f5c09fa1ce3f84e_.png\" loading=\"lazy\"></div>\n<div>除去那些词，其实还有很多工具相关关键词\njson viewer\nhtml viewer\nsvg viewer\nxml viewer\ncsv viewer</div>\n<div>一个在线远程浏览器服务 <a href=\"https://www.browserling.com/\" target=\"_blank\" rel=\"noopener noreferrer\">browserling.com</a> ，月访问量150万。\n免费可用，付费可以解锁更多功能。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img5.png\" alt=\"dd071567435d63a550bb84859e409215_.png\" loading=\"lazy\"></div>\n<div>600万周活的浏览器插件，只做一件事情，显示Youtube视频下的 dislike 数据。\n<a href=\"https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi?hl=en\" target=\"_blank\" rel=\"noopener noreferrer\">https://chromewebstore.google.com/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi?hl=en</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img6.jpg\" alt=\"bfdfef33842b8db298b516fd45f18466_.jpg\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img7.png\" alt=\"c7462e3d53416f8fd318b49c08ee9248_.png\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img8.png\" alt=\"7934733a24aee175d171fe884ebbcc8d_.png\" loading=\"lazy\"></div>\n<div>一个全新的视频，怎么判断 dislike 数量的？\n一是基于大盘基础比例，如5%，之后根据已经安装了插件用户的 like 和 dislike 比例去修正数据。</div>\n<div>他的官网 <a href=\"https://returnyoutubedislike.com/\" target=\"_blank\" rel=\"noopener noreferrer\">returnyoutubedislike.com </a>也有三十多万的月访问量。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img9.png\" alt=\"76f440184a6e5b0c17635c087f51340b_.png\" loading=\"lazy\"></div>\n<div>他们首先存储了近 10 亿个 2021 年 12 月 13 日之前的视频数据。\n这样就得到了一个大盘数据。\n之后的新视频，就是按照我刚才说的方式，估算出来的。</div>",
+  "publishDate": "2025-01-16 11:57",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img5.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img6.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img7.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img8.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/0cacjjq2vk_img9.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:53:41.693Z"
+}

@@ -1,0 +1,17 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/rkmv2eenc1",
+  "title": "[2025.10.13技术分享]关于页面如何覆盖关键词的讨论",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkmv2eenc1_avatar.jpg",
+  "tags": [
+    "出海技术栈教程",
+    "出海技术栈集成教程"
+  ],
+  "content": "<div>关于页面如何覆盖关键词的讨论</div>\n<div>搜索引擎明确的知道，多个不同的关键词，其实是同一个意图的不同说法，简单来说，谷歌能够分清楚同义词，近义词。 所以我们在谷歌搜索 Picture to Video 时，标题是 Photo to Video、Image to Video的页面也会返回。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkmv2eenc1_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>讨论过很多回了。 要看用户的意图是什么，如果用户想找的是信息，AI 回答就满足用户需求了，那么大部分人就不会点击回答里的链接了。 但如果用户想找的是别的，如工具、服务、影视、购物、资源下载等，依然需要点开网页才能满足需求。</div>\n<div>你的需求是什么？</div>\n<div>那别人不就可以破解得到你的无水印网址了</div>\n<div>那么直接前端用 canvas 显示，或者还有个更简单的方法，你去学学 app store 显示 app icon 的方式，右键无法保存，上面有一层透明蒙版，你把蒙版做成水印就可以了</div>\n<div>对，用 worker 处理也行</div>\n<div>这是最常见的方案</div>\n<div>从效果角度，为每一个平台专门写会更好。</div>",
+  "publishDate": "2025-10-14 09:41",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/rkmv2eenc1_img1.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T18:00:40.245Z"
+}

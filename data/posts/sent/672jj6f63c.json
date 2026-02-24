@@ -1,0 +1,22 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/672jj6f63c",
+  "title": "游戏站如何获取游戏资源？拓宽游戏资源",
+  "author": "Gallifrey  Peng",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/672jj6f63c_avatar.jpg",
+  "tags": [
+    "网站建设",
+    "小游戏",
+    "经验",
+    "游戏",
+    "建站技术"
+  ],
+  "content": "<div>做游戏站，很多人的思路是为用户提供游戏。一种是直接在自己的网站提供游戏，另一种是跳转到别人的游戏网站。</div>\n<div>那么，在自己的网站如何为用户提供游戏呢？</div>\n<div>在最早的时候，社群里分享过痛过scratch、itch等获取游戏，还有就是iframe的方式。后来还分享了game distribution的方式获取游戏。</div>\n<div>加上自己的一些探索，做一个经验分享</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">-html游戏：</h2>\n<ul>\n<li>直接iframe的方式</li>\n</ul>\n<div>仅仅是这种方式深挖，就能找到很多资源，而且游戏类型不仅仅是html游戏。比如，像crazygames.com这类游戏站提供embed代码，但是它不给你分钱。会给你分钱的游戏分发网络，比如gamedistribution.com。类似的游戏分发网络有很多，用好搜索引擎就能找到。</div>\n<div>万物皆可iframe。工具站、游戏站、内容站、电商站。iframe真的太好用了。\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/672jj6f63c_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<ul>\n<li>游戏源文件</li>\n</ul>\n<div>典型的2048，github上就能找到。除了github还有一些平台提供付费的游戏源文件。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">-flash游戏：</h2>\n<ul>\n<li>游戏资源文件+Ruffle</li>\n</ul>\n<div>还记得4399吗，现在上面很多flash游戏已经不能游玩了。以前flash游戏很流行，但是随着网络技术的进步，浏览器不支持flash游戏了。<strong>flash就这样死了吗？不会的，可以用ruffle，让flash游戏复活，这个脚本真的很强，不仅pc能玩flash游戏，手机端也可以玩。</strong></div>\n<div>flash游戏只要不涉及到多人实时在线和数据存储的，都可以获取到游戏文件，不过获取资源的方式不要太过分了。有人也会在互联网上分享收集好的flash游戏资源。flash游戏的文件后缀通常是【swf】。\nruffle用的网站最多。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/672jj6f63c_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">-dos游戏：</h2>\n<div>GTA系列的游戏听过吧，用一个dos游戏的脚本，就能让用户在浏览器上玩DOS游戏。想想看，浏览器上玩GTA1、DUNE、红警。当然类似的脚本有很多。\n同理，可以发现一些早期经典的游戏，像任天堂等的一些游戏，不过注意版权问题，需要采取规避措施。网站托管商/服务器、域名服务商、广告联盟这些都需要注意一下。域名会不会给你ban了，服务器会不会给你禁了，广告联盟会不会给你封号了……\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/672jj6f63c_img3.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>发现没有，flash和dos游戏的脚本都有一个词：<strong>emulator</strong>。</div>\n<div>好了，分享了这几种思路，最后想提醒一下：</div>\n<div><strong>比获取游戏资源更重要的搞到流量！搞到流量！搞到流量！</strong>\n我就是来赚钱的，搞流量不可耻。</div>",
+  "publishDate": "2024-12-17 00:19",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/672jj6f63c_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/672jj6f63c_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/672jj6f63c_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:20:02.056Z"
+}

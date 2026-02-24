@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/nznpw211mh",
+  "title": "Cloudfare 的可以白嫖的几个优化项",
+  "author": "张晨",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_avatar.jpg",
+  "tags": [],
+  "content": "<div>一般来说，我们使用Cloudflare最常用的就是配置域名DNS，但实际上Cloudflare提供了许多强大的功能，可以显著提升网站的性能和用户体验。今天我想和大家分享一些在配置完DNS之后的几个简单的优化设置，这些设置往往被很多站长所忽略，但有时候却带来显著的效果提升。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">1. 开启所有可用的性能优化</h2>\n<div>在Cloudflare的Speed页面中，有许多性能优化选项需要我们注意。建议开启以下功能：</div>\n<ul>\n<li>Auto Minify：自动压缩JavaScript、CSS和HTML代码</li>\n<li>Rocket Loader：优化JavaScript加载性能</li>\n<li>Early Hints：提前加载资源，加快页面渲染</li>\n<li>HTTP/3 (QUIC)：启用最新的传输协议</li>\n</ul>\n<div>嫌麻烦的话，下图所示，直接点击 cloudfare 的 启用所有可用配置:\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img1.png\" alt=\"cloudfare1.png\" loading=\"lazy\"></div>\n<div>这些优化选项都是免费的，开启后可以显著提升网站加载速度。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">2. 配置Crawl Hints</h2>\n<div>搜索引擎爬虫对网站的抓取效率直接影响着SEO效果。在Cloudflare的Caching设置中，开启Crawl Hints可以：</div>\n<ul>\n<li>指导搜索引擎更高效地抓取网站内容</li>\n<li>避免无用页面的重复抓取</li>\n<li>优化爬虫预算的使用</li>\n</ul>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img2.png\" alt=\"cloudfare2.png\" loading=\"lazy\"></div>\n<div>这个功能特别适合内容经常更新的网站，可以帮助搜索引擎更快发现和收录新内容。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">3. 启用Always Online功能</h2>\n<div>网站服务器偶尔会遇到宕机，Always Online是一个非常实用的功能：</div>\n<ul>\n<li>当源站服务器出现故障时，可以展示网页的缓存版本</li>\n<li>保持基本的用户访问体验</li>\n<li>减少因服务器故障带来的用户流失</li>\n</ul>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img3.png\" alt=\"cloudfare3.png\" loading=\"lazy\"></div>\n<div>建议所有网站都开启这个功能，它就像给网站上了一份\"保险\"。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">4. 开启Smart Cache</h2>\n<div>Smart Cache是Cloudflare的智能缓存系统，它可以：</div>\n<ul>\n<li>自动识别可缓存的内容</li>\n<li>优化缓存策略</li>\n<li>减少源站服务器负载</li>\n<li>提供更快的响应速度\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img4.png\" alt=\"cloudfare4.png\" loading=\"lazy\"></li>\n</ul>\n<div>这个功能特别适合内容相对稳定的网站，可以大幅降低服务器压力。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">5. 配置Cache Rules</h2>\n<div>最后，也是最重要的一点，就是针对性地配置缓存规则。当然，这个优化需要写cache rule, 如果是非程序员建议等网站起飞之后再去研究。\ncache rule的一些建议：</div>\n<ul>\n<li>对静态资源（图片、CSS、JS等）设置较长的缓存时间</li>\n<li>对经常变动的页面设置较短的缓存时间或不缓存</li>\n<li>使用Cache Everything规则最大化缓存效果</li>\n<li>针对不同的URL路径设置不同的缓存策略\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img5.png\" alt=\"cloudfare5.png\" loading=\"lazy\"></li>\n</ul>\n<div>合理的缓存规则配置可以让网站既保持内容的及时性，又能获得最佳的性能表现。</div>\n<div>以上这些设置虽然看起来都是小细节，但都是经过实践检验的有效优化手段。特别是对于独立开发者来说，这些免费的优化功能都是提升网站体验的好帮手。</div>\n<div>建议大家可以逐一尝试，相信会给你的网站带来明显的改善。</div>",
+  "publishDate": "2025-04-01 17:04",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/nznpw211mh_img5.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:33:12.079Z"
+}

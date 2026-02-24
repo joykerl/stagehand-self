@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/m7bwc8zqht",
+  "title": "Google Auth 授权登录开发配置步骤",
+  "author": "雪驹",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/m7bwc8zqht_avatar.jpg",
+  "tags": [
+    "建站技术"
+  ],
+  "content": "<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">访问 Google Cloud Console</h2>\n<ol>\n<li>访问链接：<a href=\"https://console.cloud.google.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Google Cloud Console</a></li>\n<li>点击左上角 <strong>Google Cloud</strong> 旁边的按钮（打开项目选择器），弹出窗口。</li>\n<li>在弹窗中选择 <strong>新建项目</strong>。</li>\n</ol>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">配置 Google Auth Platform</h2>\n<ol>\n<li>在主界面搜索 <strong>Auth</strong>，进入 <strong>Google Auth Platform</strong>。</li>\n<li>点击 <strong>开始</strong> 按钮。</li>\n</ol>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">配置步骤</h3>\n<ul>\n<li><strong>第一步</strong>：略</li>\n<li><strong>第二步</strong>：受众群体选择 <strong>外部</strong></li>\n<li><strong>第三步</strong>：略</li>\n</ul>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">配置完成后的操作</h3>\n<ol>\n<li>\n<div><strong>添加测试用户</strong>：</div>\n<ul>\n<li>进入 <strong>目标对象</strong> &gt; <strong>测试用户</strong>。</li>\n<li>添加测试邮箱账号</li>\n</ul>\n</li>\n<li>\n<div><strong>客户端配置</strong>：</div>\n<ul>\n<li>获取 <strong>密钥</strong> 和 <strong>客户端ID</strong>，对应 <code>.env.local</code> 文件中的字段：\n<ul>\n<li><code>GOOGLE_CLIENT_ID</code>（同时修改 <code>NEXT_PUBLIC_GOOGLE_CLIENT_ID</code>）</li>\n<li><code>GOOGLE_CLIENT_SECRET</code></li>\n</ul>\n</li>\n<li>修改 <code>NEXTAUTH_URL</code>，设置为网站首页地址。</li>\n<li>NEXTAUTH_SECRET= &nbsp;# 可以使用 openssl rand -base64 32 命令生成</li>\n</ul>\n</li>\n<li>\n<div><strong>已获授权的 JavaScript 来源和重定向 URI</strong>：</div>\n<ul>\n<li>\n<div><strong>已获授权的 JavaScript 来源</strong>：需正确填写（可向 AI 咨询具体配置）。</div>\n<ul>\n<li>示例（以网站首页测试）：<code>https://yourdomain</code></li>\n</ul>\n</li>\n</ul>\n</li>\n</ol>\n<ul>\n<li><strong>已获授权的重定向 URI</strong>：\n<ul>\n<li>Google 回调地址：<code>https://yourdomain/api/auth/callback/google</code></li>\n<li><strong>注意</strong>：确保 URI 配置准确无误。</li>\n</ul>\n</li>\n</ul>\n<div>涉及到<code>.env.local</code>  的敏感信息，文件里的数据不能提交到生产环境。\nVercel生产环境配置：Setting -&gt; Environment Variables -&gt; 导入本地文件，并修改域名</div>\n<div>**备注：还有其他不懂的可以找AI问</div>",
+  "publishDate": "2025-05-26 19:50",
+  "images": [],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:22:59.655Z"
+}

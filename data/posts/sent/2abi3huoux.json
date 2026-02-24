@@ -1,0 +1,20 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/2abi3huoux",
+  "title": "【干货分享】分享下如何通过优化google ads搜索广告提升网站收入",
+  "author": "HelloLeo",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2abi3huoux_avatar.jpg",
+  "tags": [
+    "广告投放",
+    "广告",
+    "Google Ads"
+  ],
+  "content": "<div>大家好，我是HelloLeo，在哥飞群里面已经看到了很多群友们分享google ads的经验分享，关于优化google ads的广告经验还比较少，这边针对我最近半年通过和朋友、google优化师交流后，得到的一些优化广告提升网站付费收益的经验。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">1. 广告启动阶段</h2>\n<div>这里我这边主要分享的是google搜索广告，其他广告形式这里暂不介绍，大家有兴趣再另外交流。对于搜索广告，我们启动的时候需要做几个事情：</div>\n<ul>\n<li><strong>选择合适的关键词列表</strong>：根据做大家网站产品相关的关键词，可以结合google ads关键词工具、SEMRUSH工具、Google Trends几个工具结合，找到相关的搜索词，这里需要注意下，由于我们目标是获得付费能力更强的用户，所以我们会避免出现\"Free\", \"Gratis\"这种免费的词或词组；</li>\n<li><strong>安装统计代码</strong>：这个也是做广告投放比较的操作，可以通过配置好广告转化目标，将用户付费事件作为转化事件同步给到google ads作为主要转化，当然也可以将一些用户注册、用户使用记录事件作为次要转化。做好这一步操作，后续才能够让google广告算法给我们推荐更优质的用户流量，我这边自己目标使用比较多的是通过google tag manager来安装这块的事件：<a href=\"https://support.google.com/tagmanager/answer/6105160?hl=zh-Hans\" target=\"_blank\" rel=\"noopener noreferrer\">https://support.google.com/tagmanager/answer/6105160?hl=zh-Hans</a>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2abi3huoux_img1.png\" alt=\"image.png\" loading=\"lazy\"></li>\n<li><strong>配置广告系列</strong>： 刚开始，一般优化师会建议我们选择点击最大化作为广告的目标，根据投放的国家配置一个最高点击单价；再结合产品的情况，选择合适的国家，一般付费能力比较强的还是欧美国家，但是点击单价也会比较高；</li>\n</ul>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">2. 广告调优</h2>\n<ul>\n<li><strong>刚启动前几天的关键词优化</strong>：刚开始，由于选择点击最大化作为目标，所以优化师一般会建议关键词采用\"完全匹配\"或者\"词组匹配\"，然后在否定关键词中添加\"Free\"作为广泛匹配关键词，观察下关键词的匹配效果，根据实际跑的效果，可以适当的添加或减少关键词，一般优化师建议是不超过20个关键词；关键词分析的工具路径是：广告系列 - 受众群体、关键词&amp;内容 - 搜索广告关键词；\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2abi3huoux_img2.png\" alt=\"image.png\" loading=\"lazy\"></li>\n<li><strong>分析关键词效果</strong>： 一般以两周左右的时间作为刚启动阶段，需要给google广告算法一些调优的时间，这段事件除了上述关键词优化外，也可以观察下不同关键词的广告转化效果(前提是确认转化事件是否配置正确，可以联系google的技术支持协助)，如果这个阶段广告转化效果不错，也可以尝试进一步增加预算，一般也建议两周左右的时间内广告尽可能不要有很大的改动；</li>\n<li><strong>分析地理位置效果</strong>：大家可以通过分析广告投放的地理分布，结果实际的转化效果，看具体广告主要消耗在什么国家，及对应的转化数据，选择合适的国家，如果有看到效果差的国家，也可以设置成排除国家；\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2abi3huoux_img3.png\" alt=\"image.png\" loading=\"lazy\"></li>\n<li><strong>调整广告转化目标</strong>：正常来说，大家启动广告投放的目标肯定是广告收益最大化，在经过前面两周左右的事件后，google ads能够收集到了足够的数据(大家可以观察实际效果，如果整体转化已经还可以，不一定要ROI为正)，那就可以根据google  ads给的建议，将广告目标改成转化数最大化，并且配置期望的转化成本价(成本价可以根据前面两周投放的效果数据作为参考)。调整广告转化目标目标后，正常可能会有一两天的数据有不太好的情况，后面会逐步好转，朝着你想要的目标去转化；当转化数据积累足够多之后，也可以逐步切到转化收益最大化(前提是安装目标事件传递的转化价值是准确的)，这样子就可以根据配置广告投放ROI来进行广告投放了。</li>\n</ul>\n<div>这些是基于之前搜索广告整理的一些经验，由于广告很依赖产品本身，每个人都会有自己的一些想法，只能跑起来后才能够探索如何优化，如果不清楚，可以联系google直客，给安排优化师协助优化。</div>\n<div>这个经验相比google优化师可能比较少，但是确实是在我这边产生过正向效果，也希望可以帮到大家，祝大家都可以通过google这边获得更多的收益。</div>",
+  "publishDate": "2024-12-01 20:19",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2abi3huoux_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2abi3huoux_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/2abi3huoux_img3.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:22:33.918Z"
+}

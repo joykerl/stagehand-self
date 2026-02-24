@@ -1,0 +1,18 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/h3zu2gdc1h",
+  "title": "怀疑新网站遭遇垃圾外链攻击被谷歌惩罚的自救过程",
+  "author": "麒麟枪",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_avatar.jpg",
+  "tags": [],
+  "content": "<div>近期发布了一个网站，前几天曝光势头良好，第4天曝光突然暴跌，连续一周几乎跌为0。怀疑被谷歌惩罚了，一直百思不得，直到今天在外链中发现多了不少奇怪的外链，才意识到受到垃圾外链攻击了。\n通过Ahrefs的外链工具，发现是垃圾外链快速增加的时间正好是流量暴跌的时间，合理怀疑我的网站因为垃圾外链比例极高，导致受到算法处罚。经过一番查询，发现google提供了垃圾外链屏蔽工具，火速提交屏蔽，目前静等谷歌处理，希望这个站还有救。</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">一、问题排查过程</h2>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img1.png\" alt=\"曝光情况.png\" loading=\"lazy\"></div>\n<div>垃圾外链占全部外链的50%，怀疑是受到处罚的主要原因：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img2.png\" alt=\"垃圾外链占比.png\" loading=\"lazy\">\n垃圾外链添加时间与曝光下跌时间高度契合：\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img3.png\" alt=\"垃圾外链识别.png\" loading=\"lazy\"></div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">二、使用外链拒绝工具清除垃圾外链</h2>\n<div>找到垃圾外链之后，我们把垃圾外链的域名都用txt文本记录下来并保存，格式如下：\ndomain:weknow.website\ndomain:backlink.wiki\ndomain:zhanhao.online\ndomain:pranksfl.lol\ndomain:vickys.design</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img4.png\" alt=\"提交搜索引擎.png\" loading=\"lazy\"></div>\n<div>接下来我们要把找到的垃圾外链提交给谷歌，这就需要我们用到Google Disavow links这个外链工具了。地址如下：<a href=\"https://www.google.com/webmasters/tools/disavow-links-main\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.google.com/webmasters/tools/disavow-links-main</a>\n<img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img5.png\" alt=\"提交.png\" loading=\"lazy\"></div>",
+  "publishDate": "2024-12-19 21:25",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img2.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img3.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img4.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/h3zu2gdc1h_img5.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:19:20.260Z"
+}

@@ -1,0 +1,14 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/017ccf42aa924ee1a16593a505c1d215",
+  "title": "如何10分钟配置一个网站支持邮箱？",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/017ccf42aa924ee1a16593a505c1d215_avatar.jpg",
+  "tags": [],
+  "content": "<div><strong>群友@闭码翁 提问：</strong></div>\n<div>有人知道   support@域名  这样的邮箱是怎么弄的吗？   就比如飞哥的  <a href=\"mailto:support@woy.ai\" target=\"_blank\" rel=\"noopener noreferrer\">support@woy.ai</a></div>\n<div><strong>哥飞回答：</strong></div>\n<div>用 Cloudflare 邮件转发，具体看下面这张图就懂了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/017ccf42aa924ee1a16593a505c1d215_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>",
+  "publishDate": "2024-07-16 20:19",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/017ccf42aa924ee1a16593a505c1d215_img1.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T20:41:44.818Z"
+}

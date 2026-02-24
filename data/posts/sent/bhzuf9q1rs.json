@@ -1,0 +1,19 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/bhzuf9q1rs",
+  "title": "2025 年 2 月新词大赛-第二名-刀刀 的经验分享",
+  "author": "刀刀",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bhzuf9q1rs_avatar.jpg",
+  "tags": [
+    "高手分享",
+    "新词大赛",
+    "新词新站比赛"
+  ],
+  "content": "<div>大家好, 我是刀刀, 很高兴获得了 2 月新词大赛第二名, 有幸跟大家分享一些心得体会.   </div>\n<div>简单介绍一下自己,  前某厂后端,  现独立开发者,  <a href=\"https://whoismaking.money\" target=\"_blank\" rel=\"noopener noreferrer\">whoismaking.money</a> (我的第一个站)  的作者,  以前的成就感来源扛过多少并发, 希望以后的成就感是上过多少站.  </div>\n<div>大致介绍下本次新站的起量流程 (踩坑之旅):</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">(一)  线索发现</h2>\n<div>2 月的某天晚上10 点多看到群里大家在讨论某个新模型 (就是我做的第二个站),  感觉挺有意思, 马上就买了一个域名, 做了些信息爬取,  赶在 12 点前胡了一个html 页面并发布了  (这里埋下了第一个隐患, 稍后再讲), 并申请了 goods ads, 由于我没有 stripe 等收款渠道, 想着赚点广告费也行</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">(二)  流量起飞</h2>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bhzuf9q1rs_img1.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>没过两天, 模型官方就开了发布会, 正式官宣, 我的站点一度被认为是官网的, 在社交网络上得到个广泛传播 (主要是非简中区), 甚至有老外专门做了油管视频进行推广</div>\n<div>与此同时, 我的网站流量旱地拔葱式的增长 (这里也埋下第二个隐患, 大家可以先想想是什么), 关键词的搜索排名在各个国家基本上都是第一</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">(三)  流量变现</h2>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bhzuf9q1rs_img2.png\" alt=\"image.png\" loading=\"lazy\"></div>\n<div>有了这么多的流量, 怎么不浪费呢?  于是和飞哥进行了沟通,  飞哥看完建议我和 彪哥聊聊,</div>\n<div>在跟彪哥聊完之后, 我飞速在 我的 html 里加了 pollo.ai 的推广链接 (飞哥群里发的 pollo.ai 的推广手机截图就是我的, 哈哈)  推广难链接上了之后当天就有转化, 而且客单价都不低,  后续都有持续转化.</div>\n<div>再之后我开始接登录, 接支付, 接 api做生成, 此时就触发了第一个隐患, 由于对项目代码进行了重写, 从简单的 html 到 golang web 全栈</div>\n<div>导致我站点的搜索排名一夜之间丢失, 这里了解到的原因, 可能是新词排名还不稳定, 由于站点进行重构, 导致搜索引擎需要重新爬取  此时就可能对搜索排名造成很大影响, 虽然搜索排名丢了,  但是此时我的站点又被分享到了另外一个比较的大的社交网络, 流量整体还是上升趋势  在上完自己的生成和支付后, 与 pollo.ai 的 aff 并没有冲突, 我这里是单模型的试用, pollo.ai是大而全, 算是对不同需求的人群流量都没浪费.</div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">(四)  踩坑总结</h2>\n<div>哈哈, 流水账记录完了, 简单总结一下 </div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\"> 1. 出海第一步搞定工具库</h3>\n<div>必须要有一套自己的上站工具, 并保持稳定, 这里不管他是 wordpress, nextjs 还是 nodejs, 任何你熟练使用的都好, 这里是针对我犯过的第一个错误</div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">2. 社交网络是流量兴奋剂, 吃完就上头,  SEO 才是涓涓细流汇成河, 必须重视</h3>\n<div>我上过的两个站都命中了第二个隐患, 社交网络带来的流量太多, 但没有做好 SEO 相关的工作, 导致高峰过去流量惨淡, 这是做的不好的地方, 希望群友们能够引以为戒</div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">3. 早点搞定支付</h3>\n<div>当你看到蹭蹭蹭的流量, 而接不住时, 可能就会对这条更有同感, 先搞定支付, 有备无患,  我现在的支付是借的朋友的 stripe, 准备按飞哥的教程去香港开卡搞 stirpe  </div>\n<h3 style=\"font-size: 0.875rem; line-height: 1.25rem; margin-top: 1rem;\">4. 从头学习 seo</h3>\n<div>由于之前一直做自己的产品, 对出海上站并没有太多投入, 所以对 SEO 的基本功还很欠缺, 社交流量的洪峰过去之后, 看着惨淡的流量就会再次慨叹,  还是得搞 SEO!  </div>\n<h2 style=\"font-size: 1rem; line-height: 1.5rem; margin-top: 1rem;\">(五) 后续规划</h2>\n<ol>\n<li>逃离技术陷阱, 把精力更多的放在找线索, 搞流量上 </li>\n<li>深入学习 SEO 技术, 有想一起共学的朋友可以组队, 相互监督  </li>\n</ol>\n<div><a href=\"https://github.com/daodao97%E2%80%A8\" target=\"_blank\" rel=\"noopener noreferrer\">github</a> | <a href=\"https://x.com/daodao97__\" target=\"_blank\" rel=\"noopener noreferrer\">twitter</a></div>",
+  "publishDate": "2025-03-17 18:20",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bhzuf9q1rs_img1.png",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/bhzuf9q1rs_img2.png"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T19:36:47.669Z"
+}

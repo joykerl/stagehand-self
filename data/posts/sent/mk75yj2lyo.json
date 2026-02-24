@@ -1,0 +1,21 @@
+{
+  "url": "https://new.web.cafe/tutorial/detail/mk75yj2lyo",
+  "title": "【2025.5.15案例拆解】hatena.ne.jp  myinstants.com  Mem0   https://www.npmjs.com/package/mime-types",
+  "author": "哥飞",
+  "authorAvatar": "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_avatar.jpg",
+  "tags": [
+    "哥飞案例拆解"
+  ],
+  "content": "<div>myinstants.com 这个站不知道大家关注过没有，去年五月，访问量是578万，今年4月，访问量是880万。 一个看起来很简单且小众的网站，为什么有那么多人访问？</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img1.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img2.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>相关性强的上下文，是大模型能够给出正确回答的关键。</div>\n<div>Mem0 的这个服务挺有意思的，相当于外挂硬盘，把记忆存在这里，让多个AI都能够共享使用。 <a href=\"https://mem0.ai/openmemory-mcp\" target=\"_blank\" rel=\"noopener noreferrer\">https://mem0.ai/openmemory-mcp</a></div>\n<div>刚看了下，前几天通过Adsense的网站，每天的千次展示收入在逐渐增加，第一天一块多，第二天四块多，第三天六块多了。</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img3.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img4.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>一个很简单的npm包，一周8千万的下载次数 <a href=\"https://www.npmjs.com/package/mime-types\" target=\"_blank\" rel=\"noopener noreferrer\">https://www.npmjs.com/package/mime-types</a></div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img5.jpg\" alt=\"图片\" loading=\"lazy\"></div>\n<div>现在AI生成一个NPM，几乎没成本了，可以去找一些有下载量，但是好久没更新的开源仓库，你写一个新版本，提交上去，就能够得到一些外链了。</div>\n<div>npmjs.com DR 92</div>\n<div><img src=\"https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img6.jpg\" alt=\"图片\" loading=\"lazy\"></div>",
+  "publishDate": "2025-10-21 16:29",
+  "images": [
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img1.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img2.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img3.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img4.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img5.jpg",
+    "https://scysoss.oss-cn-beijing.aliyuncs.com/scys-images/mk75yj2lyo_img6.jpg"
+  ],
+  "videos": [],
+  "scrapedAt": "2026-02-23T17:11:59.201Z"
+}
